@@ -1,4 +1,4 @@
 ---
-title: "Harp's"
+title: "Harps"
 url: /springdale/harps/
 ---

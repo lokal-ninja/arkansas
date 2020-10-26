@@ -1,12 +1,12 @@
-id: 1125845689
-type: node
+id: 820246407
+type: way
 shop: supermarket
-latitude: 36.1775297
-longitude: -94.20957840000001
+latitude: 36.177804800000004
+longitude: -94.2092418
 postcode: "72762"
 city: Springdale
 street: "Jones Road"
 housenumber: 1007
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+1 479 361 1900"
+opening_hours: "06:00-20:00"
+website: "https://www.harpsfood.com/StoreLocator/Store?L=123&M=&From=&S="

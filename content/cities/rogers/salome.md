@@ -1,4 +1,4 @@
 ---
-title: "Salome"
+title: "Salomé"
 url: /rogers/salome/
 ---

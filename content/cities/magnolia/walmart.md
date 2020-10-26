@@ -1,4 +1,4 @@
 ---
 title: "Walmart"
-url: /rogers/walmart/
+url: /magnolia/walmart/
 ---
