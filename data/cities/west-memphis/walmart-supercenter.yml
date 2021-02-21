@@ -1,12 +1,11 @@
-id: 5315596526
-type: node
-shop: supermarket
-latitude: 35.165456
-longitude: -90.20001
+id: 903252941
+type: way
+latitude: 35.1659925
+longitude: -90.2005458
 postcode: "72301"
 city: West Memphis
 street: "West Service Road"
 housenumber: 798
-phone: "+1-870-732-0175"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/70/west-memphis-ar/whats-new"
+phone: ""
+opening_hours: ""
+website: ""
