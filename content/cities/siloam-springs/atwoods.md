@@ -1,5 +1,5 @@
 ---
-title: "Atwood's"
+title: "Atwoods"
 url: /siloam-springs/atwoods/
-shop: hardware
+shop: general
 ---
