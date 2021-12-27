@@ -1,6 +1,6 @@
 ---
 title: Mountain View
 url: /mountain-view/
-latitude: 35.8684075
-longitude: -92.1176521
+latitude: 35.867
+longitude: -92.102
 ---

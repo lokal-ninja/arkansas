@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /little-rock/sams-club/
-shop: wholesale
+shop: Großhandel
 ---

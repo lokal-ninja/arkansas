@@ -1,6 +1,6 @@
 ---
 title: Leslie
 url: /leslie/
-latitude: 35.8303543
-longitude: -92.5579397
+latitude: 35.829
+longitude: -92.559
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /cabot/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

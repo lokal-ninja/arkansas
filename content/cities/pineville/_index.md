@@ -1,6 +1,6 @@
 ---
 title: Pineville
 url: /pineville/
-latitude: 36.1628467
-longitude: -92.1070974
+latitude: 36.508
+longitude: -94.279
 ---

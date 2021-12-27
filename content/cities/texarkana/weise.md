@@ -1,5 +1,5 @@
 ---
 title: "Weise"
 url: /texarkana/weise/
-shop: storage rental
+shop: Mieten
 ---

@@ -1,6 +1,6 @@
 ---
 title: Doddridge
 url: /doddridge/
-latitude: 33.0917991
-longitude: -93.90823560000001
+latitude: 33.093
+longitude: -93.901
 ---

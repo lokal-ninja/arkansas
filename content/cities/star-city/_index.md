@@ -1,6 +1,6 @@
 ---
 title: Star City
 url: /star-city/
-latitude: 33.9428794
-longitude: -91.8434668
+latitude: 33.913
+longitude: -91.857
 ---

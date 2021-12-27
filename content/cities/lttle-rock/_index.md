@@ -1,6 +1,6 @@
 ---
 title: Lttle Rock
 url: /lttle-rock/
-latitude: 
-longitude: 
+latitude: 34.752
+longitude: -92.395
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emerge"
 url: /conway/emerge/
-shop: clothes
+shop: Kleidung
 ---

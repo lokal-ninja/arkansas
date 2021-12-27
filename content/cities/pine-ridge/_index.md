@@ -1,6 +1,6 @@
 ---
 title: Pine Ridge
 url: /pine-ridge/
-latitude: 34.5859364
-longitude: -93.91019990000001
+latitude: 34.583
+longitude: -93.903
 ---

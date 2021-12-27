@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /little-rock/exxon/
-shop: convenience
+shop: Lebensmittel
 ---

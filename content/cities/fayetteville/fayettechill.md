@@ -1,5 +1,5 @@
 ---
 title: "Fayettechill"
 url: /fayetteville/fayettechill/
-shop: clothes
+shop: Kleidung
 ---

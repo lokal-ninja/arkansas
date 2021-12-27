@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /little-rock/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

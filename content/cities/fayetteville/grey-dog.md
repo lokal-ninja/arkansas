@@ -1,5 +1,5 @@
 ---
 title: "Grey Dog"
 url: /fayetteville/grey-dog/
-shop: boutique
+shop: Modehaus
 ---

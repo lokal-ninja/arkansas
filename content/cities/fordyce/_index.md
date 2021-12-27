@@ -1,6 +1,6 @@
 ---
 title: Fordyce
 url: /fordyce/
-latitude: 33.8137161
-longitude: -92.4129303
+latitude: 33.82
+longitude: -92.436
 ---

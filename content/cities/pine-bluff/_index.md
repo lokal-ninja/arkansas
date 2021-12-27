@@ -1,6 +1,6 @@
 ---
 title: Pine Bluff
 url: /pine-bluff/
-latitude: 34.2157064
-longitude: -92.01404020000001
+latitude: 34.174
+longitude: -92.003
 ---

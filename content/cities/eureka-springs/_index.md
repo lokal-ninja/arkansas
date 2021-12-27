@@ -1,6 +1,6 @@
 ---
 title: Eureka Springs
 url: /eureka-springs/
-latitude: 36.400079600000005
-longitude: -93.73924190000001
+latitude: 36.399
+longitude: -93.747
 ---

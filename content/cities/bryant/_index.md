@@ -1,6 +1,6 @@
 ---
 title: Bryant
 url: /bryant/
-latitude: 34.595926500000004
-longitude: -92.4890469
+latitude: 34.625
+longitude: -92.497
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Attic Treasure"
 url: /van-buren/attic-treasure/
-shop: antiques
+shop: Antiquitäten
 ---

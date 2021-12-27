@@ -1,6 +1,6 @@
 ---
 title: Mountainburg
 url: /mountainburg/
-latitude: 35.635639600000005
-longitude: -94.167428
+latitude: 35.574
+longitude: -94.145
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atwoods"
 url: /russellville/atwoods/
-shop: general
+shop: Dorfladen
 ---

@@ -1,6 +1,6 @@
 ---
 title: West Memphis
 url: /west-memphis/
-latitude: 35.1464797
-longitude: -90.1845388
+latitude: 35.168
+longitude: -90.192
 ---

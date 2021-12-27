@@ -1,6 +1,6 @@
 ---
 title: Heber Spgs
 url: /heber-spgs/
-latitude: 
-longitude: 
+latitude: 35.507
+longitude: -92.032
 ---

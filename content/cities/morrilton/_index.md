@@ -1,6 +1,6 @@
 ---
 title: Morrilton
 url: /morrilton/
-latitude: 35.1509173
-longitude: -92.7440538
+latitude: 35.171
+longitude: -92.721
 ---

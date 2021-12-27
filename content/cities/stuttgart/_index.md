@@ -1,6 +1,6 @@
 ---
 title: Stuttgart
 url: /stuttgart/
-latitude: 34.5003748
-longitude: -91.5526281
+latitude: 34.477
+longitude: -91.549
 ---

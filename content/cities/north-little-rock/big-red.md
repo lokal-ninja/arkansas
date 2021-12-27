@@ -1,5 +1,5 @@
 ---
 title: "Big Red"
 url: /north-little-rock/big-red/
-shop: convenience
+shop: Lebensmittel
 ---

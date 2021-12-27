@@ -1,6 +1,6 @@
 ---
 title: McGehee
 url: /mcgehee/
-latitude: 
-longitude: 
+latitude: 33.611
+longitude: -91.381
 ---

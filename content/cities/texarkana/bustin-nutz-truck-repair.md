@@ -1,5 +1,5 @@
 ---
 title: "Bustin Nutz Truck Repair"
 url: /texarkana/bustin-nutz-truck-repair/
-shop: car repair
+shop: Autowerkstatt
 ---

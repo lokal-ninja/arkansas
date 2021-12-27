@@ -1,6 +1,6 @@
 ---
 title: Fouke
 url: /fouke/
-latitude: 33.261148
-longitude: -93.8854046
+latitude: 33.262
+longitude: -93.885
 ---

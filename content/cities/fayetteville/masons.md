@@ -1,5 +1,5 @@
 ---
 title: "Masons"
 url: /fayetteville/masons/
-shop: clothes
+shop: Kleidung
 ---

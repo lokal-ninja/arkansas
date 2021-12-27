@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /siloam-springs/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

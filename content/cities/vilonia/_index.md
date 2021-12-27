@@ -1,6 +1,6 @@
 ---
 title: Vilonia
 url: /vilonia/
-latitude: 35.083975
-longitude: -92.2079277
+latitude: 35.084
+longitude: -92.202
 ---

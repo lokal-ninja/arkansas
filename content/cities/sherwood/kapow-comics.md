@@ -1,5 +1,5 @@
 ---
 title: "Kapow Comics"
 url: /sherwood/kapow-comics/
-shop: sports
+shop: Sport
 ---

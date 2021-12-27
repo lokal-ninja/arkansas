@@ -1,5 +1,5 @@
 ---
 title: "CV's"
 url: /mansfield/cvs/
-shop: supermarket
+shop: Supermarkt
 ---

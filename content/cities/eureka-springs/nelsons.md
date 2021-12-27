@@ -1,5 +1,5 @@
 ---
 title: "Nelsons"
 url: /eureka-springs/nelsons/
-shop: clothes
+shop: Kleidung
 ---

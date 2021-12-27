@@ -1,6 +1,6 @@
 ---
 title: Nashville
 url: /nashville/
-latitude: 33.945669200000005
-longitude: -93.84712900000001
+latitude: 33.925
+longitude: -93.858
 ---

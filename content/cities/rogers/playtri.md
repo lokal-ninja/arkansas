@@ -1,5 +1,5 @@
 ---
 title: "PlayTri"
 url: /rogers/playtri/
-shop: bicycle
+shop: Fahrrad
 ---

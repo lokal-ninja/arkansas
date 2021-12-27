@@ -1,6 +1,6 @@
 ---
 title: Gravette
 url: /gravette/
-latitude: 36.422020700000004
-longitude: -94.4535484
+latitude: 36.425
+longitude: -94.453
 ---

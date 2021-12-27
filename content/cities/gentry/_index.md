@@ -1,6 +1,6 @@
 ---
 title: Gentry
 url: /gentry/
-latitude: 36.2675793
-longitude: -94.48466020000001
+latitude: 36.265
+longitude: -94.48
 ---

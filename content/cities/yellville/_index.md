@@ -1,6 +1,6 @@
 ---
 title: Yellville
 url: /yellville/
-latitude: 36.2261815
-longitude: -92.68488760000001
+latitude: 36.233
+longitude: -92.688
 ---

@@ -1,6 +1,6 @@
 ---
 title: De Witt
 url: /de-witt/
-latitude: 34.2928774
-longitude: -91.33789870000001
+latitude: 34.294
+longitude: -91.336
 ---

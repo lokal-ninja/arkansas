@@ -1,6 +1,6 @@
 ---
 title: Crossett
 url: /crossett/
-latitude: 33.128177900000004
-longitude: -91.9612427
+latitude: 33.116
+longitude: -91.96
 ---
