@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /west-memphis/sears/
-shop: Warenhaus
+shop: department store
 ---

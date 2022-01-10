@@ -1,5 +1,5 @@
 ---
 title: "Wasson Funeral Home"
 url: /siloam-springs/wasson-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

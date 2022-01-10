@@ -1,5 +1,5 @@
 ---
 title: "Big Red"
 url: /benton/big-red/
-shop: Lebensmittel
+shop: convenience
 ---

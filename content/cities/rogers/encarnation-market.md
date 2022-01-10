@@ -1,5 +1,5 @@
 ---
 title: "Encarnation Market"
 url: /rogers/encarnation-market/
-shop: Supermarkt
+shop: supermarket
 ---

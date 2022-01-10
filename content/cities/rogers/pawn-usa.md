@@ -1,5 +1,5 @@
 ---
 title: "Pawn USA"
 url: /rogers/pawn-usa/
-shop: Leiher
+shop: pawnbroker
 ---

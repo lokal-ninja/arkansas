@@ -1,5 +1,5 @@
 ---
 title: "Seeburg Service Center"
 url: /fayetteville/seeburg-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

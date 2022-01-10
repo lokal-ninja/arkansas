@@ -1,5 +1,5 @@
 ---
 title: "Beard's Funeral Chapel"
 url: /fayetteville/beards-funeral-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /russellville/belk/
-shop: Warenhaus
+shop: department store
 ---

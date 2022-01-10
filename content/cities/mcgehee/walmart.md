@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /mcgehee/walmart/
-shop: Warenhaus
+shop: department store
 ---

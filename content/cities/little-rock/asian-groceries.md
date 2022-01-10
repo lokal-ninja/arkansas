@@ -1,5 +1,5 @@
 ---
 title: "Asian Groceries"
 url: /little-rock/asian-groceries/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /ozark/walmart/
-shop: Warenhaus
+shop: department store
 ---

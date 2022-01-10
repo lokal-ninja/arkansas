@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /siloam-springs/goodwill/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /springdale/autozone/
-shop: Autoteile
+shop: car parts
 ---

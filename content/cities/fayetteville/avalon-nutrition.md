@@ -1,5 +1,5 @@
 ---
 title: "Avalon Nutrition"
 url: /fayetteville/avalon-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mane"
 url: /fayetteville/mane/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roller Funeral Home"
 url: /mountain-home/roller-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "White Oak Station"
 url: /springdale/white-oak-station/
-shop: Lebensmittel
+shop: convenience
 ---

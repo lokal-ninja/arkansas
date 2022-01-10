@@ -1,5 +1,5 @@
 ---
 title: "Motorsports Authority"
 url: /russellville/motorsports-authority/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maude"
 url: /fayetteville/maude/
-shop: Modehaus
+shop: boutique
 ---

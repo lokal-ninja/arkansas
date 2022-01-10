@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /conway/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

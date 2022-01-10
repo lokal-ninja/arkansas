@@ -1,5 +1,5 @@
 ---
 title: "Westwood Gardens"
 url: /rogers/westwood-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

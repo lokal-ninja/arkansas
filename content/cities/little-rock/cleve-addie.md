@@ -1,5 +1,5 @@
 ---
 title: "Cleve Addie"
 url: /little-rock/cleve-addie/
-shop: Allgemein
+shop: shop
 ---

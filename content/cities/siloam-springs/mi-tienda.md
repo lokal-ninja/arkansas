@@ -1,5 +1,5 @@
 ---
 title: "Mi Tienda"
 url: /siloam-springs/mi-tienda/
-shop: Lebensmittel
+shop: convenience
 ---

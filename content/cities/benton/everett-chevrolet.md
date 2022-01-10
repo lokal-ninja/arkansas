@@ -1,5 +1,5 @@
 ---
 title: "Everett Chevrolet"
 url: /benton/everett-chevrolet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fayetteville Eyecare Clinic"
 url: /fayetteville/fayetteville-eyecare-clinic/
-shop: Optiker
+shop: optician
 ---

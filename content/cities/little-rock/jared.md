@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /little-rock/jared/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /arkadelphia/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ScootTribe"
 url: /fayetteville/scoottribe/
-shop: Motorrad
+shop: motorcycle
 ---

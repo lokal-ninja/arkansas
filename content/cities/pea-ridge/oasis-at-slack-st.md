@@ -1,5 +1,5 @@
 ---
 title: "Oasis at Slack St."
 url: /pea-ridge/oasis-at-slack-st/
-shop: Einkaufszentrum
+shop: mall
 ---

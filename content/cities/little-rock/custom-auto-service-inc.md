@@ -1,5 +1,5 @@
 ---
 title: "Custom Auto Service, Inc."
 url: /little-rock/custom-auto-service-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spokes Little Rock"
 url: /little-rock/spokes-little-rock/
-shop: Fahrrad
+shop: bicycle
 ---

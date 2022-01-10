@@ -1,5 +1,5 @@
 ---
 title: "Your Total Fitness Shop"
 url: /rogers/your-total-fitness-shop/
-shop: Sport
+shop: sports
 ---

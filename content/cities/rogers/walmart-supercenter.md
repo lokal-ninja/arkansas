@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /rogers/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---
