@@ -1,5 +1,5 @@
 ---
-title: "Habitat for Humanity REstore"
+title: "Habitat for Humanity ReStore"
 url: /bentonville/habitat-for-humanity-restore/
-shop: doityourself
+shop: charity
 ---
