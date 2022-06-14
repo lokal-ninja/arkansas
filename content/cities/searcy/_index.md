@@ -1,6 +1,6 @@
 ---
 title: Searcy
 url: /searcy/
-latitude: 35.246
-longitude: -91.75
+latitude: 35.251
+longitude: -91.712
 ---
