@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
-url: /rogers/nothing-bundt-cakes/
+url: /jonesboro/nothing-bundt-cakes/
 shop: pastry
 ---
