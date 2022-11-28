@@ -1,5 +1,5 @@
 ---
 title: "Impressions Boutique & Gifts"
 url: /fayetteville/impressions-boutique-and-gifts/
-shop: boutique
+shop: clothes
 ---
