@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /jacksonville/family-dollar/
+url: /brinkley/family-dollar/
 shop: variety store
 ---
