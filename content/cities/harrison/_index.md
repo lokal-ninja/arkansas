@@ -1,6 +1,6 @@
 ---
 title: Harrison
 url: /harrison/
-latitude: 36.259
-longitude: -93.126
+latitude: 36.269
+longitude: -93.138
 ---
