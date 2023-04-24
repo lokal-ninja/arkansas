@@ -1,6 +1,6 @@
 ---
 title: Little Rock
 url: /little-rock/
-latitude: 34.74
-longitude: -92.305
+latitude: 34.77
+longitude: -92.456
 ---
