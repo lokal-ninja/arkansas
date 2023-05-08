@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /little-rock/circle-k/
+url: /hot-springs-national-park/circle-k/
 shop: convenience
 ---
