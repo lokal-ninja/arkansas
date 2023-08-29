@@ -1,6 +1,6 @@
 ---
 title: Beebe
 url: /beebe/
-latitude: 35.066
-longitude: -91.906
+latitude: 35.08
+longitude: -91.867
 ---
