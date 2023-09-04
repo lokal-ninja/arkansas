@@ -1,6 +1,6 @@
 ---
 title: Paragould
 url: /paragould/
-latitude: 36.03
+latitude: 36.057
 longitude: -90.523
 ---

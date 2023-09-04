@@ -1,5 +1,5 @@
 ---
-title: "Harp's"
+title: "Harps"
 url: /cedarville/harps/
 shop: supermarket
 ---
