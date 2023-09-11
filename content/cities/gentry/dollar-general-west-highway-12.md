@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /fouke/dollar-general/
+url: /gentry/dollar-general/
 shop: variety store
 ---
