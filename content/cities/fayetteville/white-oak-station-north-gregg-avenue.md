@@ -1,5 +1,5 @@
 ---
 title: "White Oak Station"
-url: /fayetteville/white-oak-station/
+url: /fayetteville/white-oak-station-north-gregg-avenue/
 shop: convenience
 ---

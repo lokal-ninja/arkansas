@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /fayetteville/goodwill/
+url: /fayetteville/goodwill-east-appleby-road/
 shop: charity
 ---

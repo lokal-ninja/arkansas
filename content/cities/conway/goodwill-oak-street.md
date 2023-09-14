@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /conway/goodwill/
+url: /conway/goodwill-oak-street/
 shop: charity
 ---

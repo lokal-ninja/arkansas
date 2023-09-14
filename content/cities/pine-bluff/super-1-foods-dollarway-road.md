@@ -1,5 +1,5 @@
 ---
 title: "Super 1 Foods"
-url: /pine-bluff/super-1-foods/
+url: /pine-bluff/super-1-foods-dollarway-road/
 shop: supermarket
 ---

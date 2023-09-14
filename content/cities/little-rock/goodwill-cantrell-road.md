@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /little-rock/goodwill/
+url: /little-rock/goodwill-cantrell-road/
 shop: charity
 ---

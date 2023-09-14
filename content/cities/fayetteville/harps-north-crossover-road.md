@@ -1,5 +1,5 @@
 ---
 title: "Harps"
-url: /fayetteville/harps/
+url: /fayetteville/harps-north-crossover-road/
 shop: supermarket
 ---

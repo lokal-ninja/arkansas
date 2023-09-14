@@ -1,5 +1,5 @@
 ---
 title: "Fayettechill"
-url: /fayetteville/fayettechill/
+url: /fayetteville/fayettechill-south-smokehouse-trail/
 shop: clothes
 ---
