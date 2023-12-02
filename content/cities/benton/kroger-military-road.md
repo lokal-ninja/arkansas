@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /benton/kroger-i-30-service-road/
+url: /benton/kroger-military-road/
 shop: supermarket
 ---

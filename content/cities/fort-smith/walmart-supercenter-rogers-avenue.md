@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /clarksville/walmart-supercenter-market-street/
+url: /fort-smith/walmart-supercenter-rogers-avenue/
 shop: supermarket
 ---
