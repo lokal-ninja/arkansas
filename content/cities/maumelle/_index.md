@@ -1,6 +1,6 @@
 ---
 title: Maumelle
 url: /maumelle/
-latitude: 34.847
-longitude: -92.409
+latitude: 34.836
+longitude: -92.382
 ---
