@@ -1,6 +1,6 @@
 ---
 title: Brinkley
 url: /brinkley/
-latitude: 34.903
-longitude: -91.198
+latitude: 34.878
+longitude: -91.195
 ---
