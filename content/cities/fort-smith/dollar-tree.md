@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /fort-smith/dollar-tree/
-shop: supermarket
+shop: variety store
 ---
