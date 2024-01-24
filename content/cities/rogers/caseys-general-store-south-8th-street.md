@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /sherwood/caseys-general-store-ar-107/
+url: /rogers/caseys-general-store-south-8th-street/
 shop: convenience
 ---

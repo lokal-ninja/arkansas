@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /rogers/caseys-general-store-north-2nd-street/
+url: /sherwood/caseys-general-store-east-kiehl-avenue/
 shop: convenience
 ---
