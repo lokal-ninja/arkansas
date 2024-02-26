@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /little-rock/dollar-general-baseline-road/
+url: /austin/dollar-general/
 shop: variety store
 ---
