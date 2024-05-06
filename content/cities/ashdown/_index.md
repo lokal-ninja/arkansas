@@ -1,6 +1,6 @@
 ---
 title: Ashdown
 url: /ashdown/
-latitude: 33.66
-longitude: -94.115
+latitude: 33.657
+longitude: -94.109
 ---
