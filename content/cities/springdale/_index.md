@@ -1,6 +1,6 @@
 ---
 title: Springdale
 url: /springdale/
-latitude: 36.176
-longitude: -94.234
+latitude: 36.177
+longitude: -94.226
 ---
