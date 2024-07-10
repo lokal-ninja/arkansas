@@ -1,6 +1,6 @@
 ---
 title: Marion
 url: /marion/
-latitude: 35.217
-longitude: -90.208
+latitude: 35.198
+longitude: -90.183
 ---

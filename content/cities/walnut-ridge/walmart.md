@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /walnut-ridge/walmart/
-shop: supermarket
+shop: department store
 ---
