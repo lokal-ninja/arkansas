@@ -1,6 +1,6 @@
 ---
 title: Pocahontas
 url: /pocahontas/
-latitude: 36.249
-longitude: -90.963
+latitude: 36.296
+longitude: -90.97
 ---

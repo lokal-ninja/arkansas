@@ -1,6 +1,6 @@
 ---
 title: Mena
 url: /mena/
-latitude: 34.589
-longitude: -94.226
+latitude: 34.586
+longitude: -94.223
 ---

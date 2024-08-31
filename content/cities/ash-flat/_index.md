@@ -1,6 +1,6 @@
 ---
 title: Ash Flat
 url: /ash-flat/
-latitude: 36.241
-longitude: -91.596
+latitude: 36.242
+longitude: -91.597
 ---

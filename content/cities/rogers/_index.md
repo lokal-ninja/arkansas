@@ -1,6 +1,6 @@
 ---
 title: Rogers
 url: /rogers/
-latitude: 36.307
-longitude: -94.188
+latitude: 36.313
+longitude: -94.144
 ---
