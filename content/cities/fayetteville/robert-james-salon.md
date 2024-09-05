@@ -1,5 +1,5 @@
 ---
 title: "Robert James Salon"
 url: /fayetteville/robert-james-salon/
-shop: hairdresser
+shop: Friseur
 ---

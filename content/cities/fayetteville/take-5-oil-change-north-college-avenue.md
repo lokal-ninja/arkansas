@@ -1,5 +1,5 @@
 ---
 title: "Take 5 Oil Change"
 url: /fayetteville/take-5-oil-change-north-college-avenue/
-shop: car repair
+shop: Autowerkstatt
 ---

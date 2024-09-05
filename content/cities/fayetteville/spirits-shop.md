@@ -1,5 +1,5 @@
 ---
 title: "Spirits Shop"
 url: /fayetteville/spirits-shop/
-shop: alcohol
+shop: Spirituosen
 ---

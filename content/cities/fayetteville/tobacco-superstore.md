@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Superstore"
 url: /fayetteville/tobacco-superstore/
-shop: tobacco
+shop: Tabak
 ---

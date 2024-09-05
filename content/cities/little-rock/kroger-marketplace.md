@@ -1,5 +1,5 @@
 ---
 title: "Kroger Marketplace"
 url: /little-rock/kroger-marketplace/
-shop: supermarket
+shop: Supermarkt
 ---

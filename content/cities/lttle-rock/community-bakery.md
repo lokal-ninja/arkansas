@@ -1,5 +1,5 @@
 ---
 title: "Community Bakery"
 url: /lttle-rock/community-bakery/
-shop: bakery
+shop: Bäckerei
 ---

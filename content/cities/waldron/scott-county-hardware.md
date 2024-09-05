@@ -1,5 +1,5 @@
 ---
 title: "Scott County Hardware"
 url: /waldron/scott-county-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

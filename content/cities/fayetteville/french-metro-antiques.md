@@ -1,5 +1,5 @@
 ---
 title: "French Metro Antiques"
 url: /fayetteville/french-metro-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

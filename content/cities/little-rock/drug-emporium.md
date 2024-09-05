@@ -1,5 +1,5 @@
 ---
 title: "Drug Emporium"
 url: /little-rock/drug-emporium/
-shop: chemist
+shop: Drogerie
 ---

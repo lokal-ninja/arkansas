@@ -1,5 +1,5 @@
 ---
 title: "Esme's Hair Salon"
 url: /little-rock/esmes-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

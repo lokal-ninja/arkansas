@@ -1,5 +1,5 @@
 ---
 title: "Lewis Automotive Farmington"
 url: /farmington/lewis-automotive-farmington/
-shop: car
+shop: Autohaus
 ---

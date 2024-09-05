@@ -1,5 +1,5 @@
 ---
 title: "Riffraff"
 url: /fayetteville/riffraff/
-shop: clothes
+shop: Kleidung
 ---

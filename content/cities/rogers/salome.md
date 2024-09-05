@@ -1,5 +1,5 @@
 ---
 title: "Salomé"
 url: /rogers/salome/
-shop: erotic
+shop: Erotik
 ---

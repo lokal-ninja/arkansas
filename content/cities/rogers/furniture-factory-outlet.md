@@ -1,5 +1,5 @@
 ---
 title: "Furniture Factory Outlet"
 url: /rogers/furniture-factory-outlet/
-shop: furniture
+shop: Möbel
 ---

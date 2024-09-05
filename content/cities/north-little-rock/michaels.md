@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /north-little-rock/michaels/
-shop: craft
+shop: Basteln
 ---

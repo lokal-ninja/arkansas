@@ -1,5 +1,5 @@
 ---
 title: "bealls"
 url: /mena/bealls/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /paragould/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

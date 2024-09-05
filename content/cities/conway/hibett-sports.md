@@ -1,5 +1,5 @@
 ---
 title: "Hibett Sports"
 url: /conway/hibett-sports/
-shop: clothes
+shop: Kleidung
 ---

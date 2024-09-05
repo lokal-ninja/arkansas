@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /little-rock/sport-clips/
-shop: hairdresser
+shop: Friseur
 ---

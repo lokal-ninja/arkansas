@@ -1,5 +1,5 @@
 ---
 title: "Welsco"
 url: /fayetteville/welsco/
-shop: trade
+shop: Baustoffe
 ---

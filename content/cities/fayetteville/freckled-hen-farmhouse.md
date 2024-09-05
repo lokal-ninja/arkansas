@@ -1,5 +1,5 @@
 ---
 title: "Freckled Hen Farmhouse"
 url: /fayetteville/freckled-hen-farmhouse/
-shop: general
+shop: Dorfladen
 ---

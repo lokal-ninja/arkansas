@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /parkin/valero/
-shop: convenience
+shop: Lebensmittel
 ---

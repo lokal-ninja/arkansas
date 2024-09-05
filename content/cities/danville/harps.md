@@ -1,5 +1,5 @@
 ---
 title: "Harps"
 url: /danville/harps/
-shop: supermarket
+shop: Supermarkt
 ---

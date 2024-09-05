@@ -1,5 +1,5 @@
 ---
 title: "Harps"
 url: /springdale/harps/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Superstop"
 url: /brinkley/superstop/
-shop: convenience
+shop: Lebensmittel
 ---

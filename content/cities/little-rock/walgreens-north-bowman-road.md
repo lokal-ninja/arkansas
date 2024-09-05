@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /little-rock/walgreens-north-bowman-road/
-shop: chemist
+shop: Drogerie
 ---

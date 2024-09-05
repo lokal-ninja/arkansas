@@ -1,5 +1,5 @@
 ---
 title: "Khakis"
 url: /magnolia/khakis/
-shop: clothes
+shop: Kleidung
 ---

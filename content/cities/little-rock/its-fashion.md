@@ -1,5 +1,5 @@
 ---
 title: "It's Fashion"
 url: /little-rock/its-fashion/
-shop: clothes
+shop: Kleidung
 ---

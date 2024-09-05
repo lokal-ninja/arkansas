@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /paragould/petsmart/
-shop: pet
+shop: Tiere
 ---

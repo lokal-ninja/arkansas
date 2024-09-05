@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
 url: /walnut-ridge/caseys-general-store/
-shop: convenience
+shop: Lebensmittel
 ---

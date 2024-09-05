@@ -1,5 +1,5 @@
 ---
 title: "Sweeden Florist"
 url: /russellville/sweeden-florist/
-shop: florist
+shop: Blumen
 ---

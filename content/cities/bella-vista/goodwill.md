@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /bella-vista/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flat Rock Arms"
 url: /russellville/flat-rock-arms/
-shop: weapons
+shop: Sport
 ---

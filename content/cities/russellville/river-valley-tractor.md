@@ -1,5 +1,5 @@
 ---
 title: "River Valley Tractor"
 url: /russellville/river-valley-tractor/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rusty's"
 url: /waldron/rustys/
-shop: antiques
+shop: Antiquitäten
 ---

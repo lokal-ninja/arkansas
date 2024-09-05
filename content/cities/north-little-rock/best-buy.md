@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /north-little-rock/best-buy/
-shop: electronics
+shop: Elektronik
 ---

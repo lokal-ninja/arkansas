@@ -1,5 +1,5 @@
 ---
 title: "Crossover Corner"
 url: /fayetteville/crossover-corner/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harps"
 url: /dover/harps/
-shop: supermarket
+shop: Supermarkt
 ---

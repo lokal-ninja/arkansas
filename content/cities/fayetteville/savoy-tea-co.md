@@ -1,5 +1,5 @@
 ---
 title: "Savoy Tea Co"
 url: /fayetteville/savoy-tea-co/
-shop: tea
+shop: Tee
 ---

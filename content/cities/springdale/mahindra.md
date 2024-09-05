@@ -1,5 +1,5 @@
 ---
 title: "Mahindra"
 url: /springdale/mahindra/
-shop: shop
+shop: Allgemein
 ---

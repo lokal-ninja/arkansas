@@ -1,5 +1,5 @@
 ---
 title: "SoundArt"
 url: /rogers/soundart/
-shop: music
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sugar Creek Center"
 url: /bella-vista/sugar-creek-center/
-shop: supermarket
+shop: Supermarkt
 ---

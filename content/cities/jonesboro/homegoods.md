@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /jonesboro/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---
