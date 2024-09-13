@@ -1,6 +1,6 @@
 ---
 title: North Little Rock
 url: /north-little-rock/
-latitude: 34.832
-longitude: -92.394
+latitude: 34.777
+longitude: -92.202
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KBC Cabinets"
 url: /siloam-springs/kbc-cabinets/
-shop: Baustoffe
+shop: trade
 ---

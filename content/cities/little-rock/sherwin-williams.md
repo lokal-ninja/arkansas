@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /little-rock/sherwin-williams/
-shop: Farben
+shop: paint
 ---

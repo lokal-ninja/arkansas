@@ -1,5 +1,5 @@
 ---
 title: "Road Runner"
 url: /little-rock/road-runner/
-shop: Lebensmittel
+shop: convenience
 ---

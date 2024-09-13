@@ -1,5 +1,5 @@
 ---
 title: "Osburn Motor Co."
 url: /fayetteville/osburn-motor-co/
-shop: Autohaus
+shop: car
 ---

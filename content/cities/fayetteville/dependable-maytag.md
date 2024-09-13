@@ -1,5 +1,5 @@
 ---
 title: "Dependable Maytag"
 url: /fayetteville/dependable-maytag/
-shop: Elektronik
+shop: electronics
 ---

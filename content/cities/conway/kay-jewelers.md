@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /conway/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

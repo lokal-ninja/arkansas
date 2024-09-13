@@ -1,5 +1,5 @@
 ---
 title: "Vinson Electric Supply"
 url: /russellville/vinson-electric-supply/
-shop: Elektrisch
+shop: electrical
 ---

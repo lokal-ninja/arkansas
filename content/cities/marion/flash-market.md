@@ -1,5 +1,5 @@
 ---
 title: "Flash Market"
 url: /marion/flash-market/
-shop: Lebensmittel
+shop: convenience
 ---

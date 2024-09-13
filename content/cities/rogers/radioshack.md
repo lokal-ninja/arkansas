@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /rogers/radioshack/
-shop: Radiotechnik
+shop: radiotechnics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brainstorm Tattoo"
 url: /fayetteville/brainstorm-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

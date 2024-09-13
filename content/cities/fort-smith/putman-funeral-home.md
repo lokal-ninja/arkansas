@@ -1,5 +1,5 @@
 ---
 title: "Putman Funeral Home"
 url: /fort-smith/putman-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

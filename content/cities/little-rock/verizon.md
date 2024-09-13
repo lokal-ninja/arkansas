@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /little-rock/verizon/
-shop: Handy
+shop: mobile phone
 ---

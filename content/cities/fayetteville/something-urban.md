@@ -1,5 +1,5 @@
 ---
 title: "Something urban"
 url: /fayetteville/something-urban/
-shop: Kleidung
+shop: clothes
 ---

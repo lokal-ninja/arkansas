@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /pine-bluff/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

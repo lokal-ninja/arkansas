@@ -1,5 +1,5 @@
 ---
 title: "Wobbe Lane Storage"
 url: /springdale/wobbe-lane-storage/
-shop: Mieten
+shop: storage rental
 ---

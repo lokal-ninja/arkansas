@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /west-memphis/walgreens/
-shop: Drogerie
+shop: chemist
 ---

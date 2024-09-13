@@ -1,5 +1,5 @@
 ---
 title: "Bush Hog"
 url: /siloam-springs/bush-hog/
-shop: Baustoffe
+shop: trade
 ---

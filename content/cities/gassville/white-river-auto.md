@@ -1,5 +1,5 @@
 ---
 title: "White River Auto"
 url: /gassville/white-river-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

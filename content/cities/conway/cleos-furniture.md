@@ -1,5 +1,5 @@
 ---
 title: "Cleo's Furniture"
 url: /conway/cleos-furniture/
-shop: Möbel
+shop: furniture
 ---

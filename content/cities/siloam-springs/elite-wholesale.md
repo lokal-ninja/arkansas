@@ -1,5 +1,5 @@
 ---
 title: "Elite Wholesale"
 url: /siloam-springs/elite-wholesale/
-shop: Großhandel
+shop: wholesale
 ---

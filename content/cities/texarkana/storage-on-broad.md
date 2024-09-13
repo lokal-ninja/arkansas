@@ -1,5 +1,5 @@
 ---
 title: "Storage on Broad"
 url: /texarkana/storage-on-broad/
-shop: Mieten
+shop: storage rental
 ---

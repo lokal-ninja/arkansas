@@ -1,5 +1,5 @@
 ---
 title: "Natural Grocers"
 url: /fayetteville/natural-grocers/
-shop: Supermarkt
+shop: supermarket
 ---

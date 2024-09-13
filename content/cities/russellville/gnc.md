@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /russellville/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

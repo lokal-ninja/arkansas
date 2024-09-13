@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /fort-smith/burlington/
-shop: Warenhaus
+shop: department store
 ---

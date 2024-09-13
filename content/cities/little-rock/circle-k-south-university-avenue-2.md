@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /little-rock/circle-k-south-university-avenue-2/
-shop: Lebensmittel
+shop: convenience
 ---

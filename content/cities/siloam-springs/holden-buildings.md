@@ -1,5 +1,5 @@
 ---
 title: "Holden Buildings"
 url: /siloam-springs/holden-buildings/
-shop: Baustoffe
+shop: trade
 ---

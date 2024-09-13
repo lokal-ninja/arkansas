@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /jonesboro/walmart-neighborhood-market-harrisburg-road/
-shop: Supermarkt
+shop: supermarket
 ---

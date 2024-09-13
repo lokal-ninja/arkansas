@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fort-smith/target/
-shop: Warenhaus
+shop: department store
 ---

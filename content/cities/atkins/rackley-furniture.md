@@ -1,5 +1,5 @@
 ---
 title: "Rackley Furniture"
 url: /atkins/rackley-furniture/
-shop: Möbel
+shop: furniture
 ---

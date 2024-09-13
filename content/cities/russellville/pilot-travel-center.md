@@ -1,5 +1,5 @@
 ---
 title: "Pilot Travel Center"
 url: /russellville/pilot-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

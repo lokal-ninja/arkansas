@@ -1,5 +1,5 @@
 ---
 title: "Jif-E-Mart"
 url: /waldron/jif-e-mart/
-shop: Lebensmittel
+shop: convenience
 ---

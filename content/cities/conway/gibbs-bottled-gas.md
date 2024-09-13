@@ -1,5 +1,5 @@
 ---
 title: "Gibbs Bottled Gas"
 url: /conway/gibbs-bottled-gas/
-shop: Gasflaschen
+shop: gas
 ---

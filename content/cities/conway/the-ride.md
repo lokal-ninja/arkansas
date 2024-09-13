@@ -1,5 +1,5 @@
 ---
 title: "The Ride"
 url: /conway/the-ride/
-shop: Fahrrad
+shop: bicycle
 ---

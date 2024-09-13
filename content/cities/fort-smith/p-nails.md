@@ -1,5 +1,5 @@
 ---
 title: "P Nails"
 url: /fort-smith/p-nails/
-shop: Kosmetik
+shop: beauty
 ---

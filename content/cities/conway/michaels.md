@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /conway/michaels/
-shop: Basteln
+shop: craft
 ---

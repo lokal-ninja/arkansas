@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /bentonville/braums-north-walton-boulevard/
-shop: Milch
+shop: dairy
 ---

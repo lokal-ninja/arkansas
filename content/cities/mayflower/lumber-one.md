@@ -1,5 +1,5 @@
 ---
 title: "Lumber One"
 url: /mayflower/lumber-one/
-shop: Eisenwaren
+shop: hardware
 ---

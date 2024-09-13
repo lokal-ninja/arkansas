@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /bentonville/sams-club-southeast-club-boulevard/
-shop: Großhandel
+shop: wholesale
 ---

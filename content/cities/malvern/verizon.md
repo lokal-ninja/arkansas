@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /malvern/verizon/
-shop: Handy
+shop: mobile phone
 ---

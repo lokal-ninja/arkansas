@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /pine-bluff/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

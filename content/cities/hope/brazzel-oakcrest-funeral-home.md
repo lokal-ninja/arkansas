@@ -1,5 +1,5 @@
 ---
 title: "Brazzel-Oakcrest Funeral Home"
 url: /hope/brazzel-oakcrest-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

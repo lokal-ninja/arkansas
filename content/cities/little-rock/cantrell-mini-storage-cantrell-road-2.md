@@ -1,5 +1,5 @@
 ---
 title: "Cantrell Mini Storage"
 url: /little-rock/cantrell-mini-storage-cantrell-road-2/
-shop: Mieten
+shop: storage rental
 ---

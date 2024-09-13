@@ -1,5 +1,5 @@
 ---
 title: "Jackson Hewitt"
 url: /siloam-springs/jackson-hewitt/
-shop: Allgemein
+shop: shop
 ---

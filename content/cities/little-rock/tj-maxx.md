@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /little-rock/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

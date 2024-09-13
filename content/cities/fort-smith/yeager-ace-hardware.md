@@ -1,5 +1,5 @@
 ---
 title: "Yeager Ace Hardware"
 url: /fort-smith/yeager-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

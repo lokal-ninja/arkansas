@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /maumelle/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

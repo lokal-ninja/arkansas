@@ -1,5 +1,5 @@
 ---
 title: "Post Net"
 url: /rogers/post-net/
-shop: Schreibwaren
+shop: office supplies
 ---

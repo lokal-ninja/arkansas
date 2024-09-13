@@ -1,5 +1,5 @@
 ---
 title: "X-Fuel"
 url: /springdale/x-fuel/
-shop: Autowerkstatt
+shop: car repair
 ---

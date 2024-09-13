@@ -1,5 +1,5 @@
 ---
 title: "Springbank Landing"
 url: /doddridge/springbank-landing/
-shop: Lebensmittel
+shop: convenience
 ---

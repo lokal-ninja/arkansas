@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /fayetteville/goodwill-north-steamboat-drive/
-shop: Gebrauchtwaren
+shop: charity
 ---

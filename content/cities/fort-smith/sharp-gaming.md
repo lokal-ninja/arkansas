@@ -1,5 +1,5 @@
 ---
 title: "Sharp Gaming"
 url: /fort-smith/sharp-gaming/
-shop: Spiele
+shop: games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /mountain-view/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

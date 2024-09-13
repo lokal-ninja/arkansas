@@ -1,5 +1,5 @@
 ---
 title: "Last Chance Liquors"
 url: /springdale/last-chance-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

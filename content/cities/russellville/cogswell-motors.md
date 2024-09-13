@@ -1,5 +1,5 @@
 ---
 title: "Cogswell Motors"
 url: /russellville/cogswell-motors/
-shop: Autohaus
+shop: car
 ---

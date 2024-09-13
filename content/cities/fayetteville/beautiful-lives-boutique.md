@@ -1,5 +1,5 @@
 ---
 title: "Beautiful Lives Boutique"
 url: /fayetteville/beautiful-lives-boutique/
-shop: Modehaus
+shop: boutique
 ---

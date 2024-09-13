@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /fayetteville/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

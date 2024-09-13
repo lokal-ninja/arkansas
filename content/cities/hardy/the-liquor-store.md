@@ -1,5 +1,5 @@
 ---
 title: "The Liquor Store"
 url: /hardy/the-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /conway/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

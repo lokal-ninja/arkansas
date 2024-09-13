@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /rogers/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

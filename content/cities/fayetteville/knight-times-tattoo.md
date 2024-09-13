@@ -1,5 +1,5 @@
 ---
 title: "Knight Times Tattoo"
 url: /fayetteville/knight-times-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

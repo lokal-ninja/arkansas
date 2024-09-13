@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /magnolia/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

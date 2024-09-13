@@ -1,5 +1,5 @@
 ---
 title: "Ozark Import Specialists"
 url: /springdale/ozark-import-specialists/
-shop: Autowerkstatt
+shop: car repair
 ---

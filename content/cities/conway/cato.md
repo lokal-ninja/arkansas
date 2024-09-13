@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /conway/cato/
-shop: Kleidung
+shop: clothes
 ---

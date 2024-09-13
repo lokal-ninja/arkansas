@@ -1,5 +1,5 @@
 ---
 title: "Linh's Nails"
 url: /fort-smith/linhs-nails/
-shop: Kosmetik
+shop: beauty
 ---

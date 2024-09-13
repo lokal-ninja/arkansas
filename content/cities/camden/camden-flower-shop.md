@@ -1,5 +1,5 @@
 ---
 title: "Camden Flower Shop"
 url: /camden/camden-flower-shop/
-shop: Blumen
+shop: florist
 ---

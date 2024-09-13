@@ -1,5 +1,5 @@
 ---
 title: "Viva La Pooch Salon"
 url: /bella-vista/viva-la-pooch-salon/
-shop: Tiersalon
+shop: pet grooming
 ---

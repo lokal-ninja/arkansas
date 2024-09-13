@@ -1,5 +1,5 @@
 ---
 title: "Earley car repair and handy work"
 url: /marmaduke/earley-car-repair-and-handy-work/
-shop: Autowerkstatt
+shop: car repair
 ---

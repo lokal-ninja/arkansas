@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /heber-spgs/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

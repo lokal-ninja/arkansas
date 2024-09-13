@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /bryant/gamestop/
-shop: Videospiele
+shop: video games
 ---

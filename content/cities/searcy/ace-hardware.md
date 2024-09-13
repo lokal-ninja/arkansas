@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /searcy/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

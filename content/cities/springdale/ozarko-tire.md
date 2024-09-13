@@ -1,5 +1,5 @@
 ---
 title: "Ozarko Tire"
 url: /springdale/ozarko-tire/
-shop: Reifen
+shop: tyres
 ---

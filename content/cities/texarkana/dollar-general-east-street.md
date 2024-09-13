@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /texarkana/dollar-general-east-street/
-shop: Kramladen
+shop: variety store
 ---

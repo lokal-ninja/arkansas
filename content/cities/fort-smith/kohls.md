@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /fort-smith/kohls/
-shop: Warenhaus
+shop: department store
 ---

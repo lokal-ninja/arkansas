@@ -1,5 +1,5 @@
 ---
 title: "Lemley Funeral Home"
 url: /atkins/lemley-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

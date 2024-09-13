@@ -1,5 +1,5 @@
 ---
 title: "Superstop"
 url: /conway/superstop/
-shop: Lebensmittel
+shop: convenience
 ---

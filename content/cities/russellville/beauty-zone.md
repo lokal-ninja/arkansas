@@ -1,5 +1,5 @@
 ---
 title: "Beauty Zone"
 url: /russellville/beauty-zone/
-shop: Kosmetik
+shop: beauty
 ---

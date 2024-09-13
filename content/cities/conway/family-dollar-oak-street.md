@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /conway/family-dollar-oak-street/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /russellville/autozone/
-shop: Autoteile
+shop: car parts
 ---

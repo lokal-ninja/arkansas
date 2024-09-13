@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /rogers/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

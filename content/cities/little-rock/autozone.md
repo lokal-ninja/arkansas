@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /little-rock/autozone/
-shop: Autoteile
+shop: car parts
 ---

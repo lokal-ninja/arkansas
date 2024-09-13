@@ -1,5 +1,5 @@
 ---
 title: "Bearcat Hub"
 url: /booneville/bearcat-hub/
-shop: Bioladen
+shop: health food
 ---

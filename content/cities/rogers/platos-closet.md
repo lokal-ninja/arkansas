@@ -1,5 +1,5 @@
 ---
 title: "Plato's Closet"
 url: /rogers/platos-closet/
-shop: Kleidung
+shop: clothes
 ---

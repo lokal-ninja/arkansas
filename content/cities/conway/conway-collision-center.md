@@ -1,5 +1,5 @@
 ---
 title: "Conway Collision Center"
 url: /conway/conway-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

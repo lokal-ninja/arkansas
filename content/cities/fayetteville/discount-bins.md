@@ -1,5 +1,5 @@
 ---
 title: "Discount Bins"
 url: /fayetteville/discount-bins/
-shop: Kramladen
+shop: variety store
 ---

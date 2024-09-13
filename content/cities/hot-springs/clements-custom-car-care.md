@@ -1,5 +1,5 @@
 ---
 title: "Clement's Custom Car Care"
 url: /hot-springs/clements-custom-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

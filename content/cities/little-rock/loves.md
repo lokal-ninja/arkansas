@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /little-rock/loves/
-shop: Lebensmittel
+shop: convenience
 ---

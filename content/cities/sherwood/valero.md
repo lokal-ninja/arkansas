@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /sherwood/valero/
-shop: Lebensmittel
+shop: convenience
 ---

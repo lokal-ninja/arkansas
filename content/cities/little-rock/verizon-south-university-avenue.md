@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /little-rock/verizon-south-university-avenue/
-shop: Handy
+shop: mobile phone
 ---

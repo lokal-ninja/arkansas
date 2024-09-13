@@ -1,5 +1,5 @@
 ---
 title: "Mike Johnson's Powersports"
 url: /russellville/mike-johnsons-powersports/
-shop: Motorrad
+shop: motorcycle
 ---

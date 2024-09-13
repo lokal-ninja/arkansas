@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /little-rock/firestone-west-3rd-street/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Check Cashiers"
 url: /fort-smith/american-check-cashiers/
-shop: Leiher
+shop: pawnbroker
 ---

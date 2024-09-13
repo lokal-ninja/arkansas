@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /rogers/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lincare"
 url: /russellville/lincare/
-shop: Sanitätshaus
+shop: medical supply
 ---

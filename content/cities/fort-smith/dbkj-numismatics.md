@@ -1,5 +1,5 @@
 ---
 title: "DBKJ Numismatics"
 url: /fort-smith/dbkj-numismatics/
-shop: Sammler
+shop: collector
 ---

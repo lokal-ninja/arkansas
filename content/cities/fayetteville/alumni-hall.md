@@ -1,5 +1,5 @@
 ---
 title: "Alumni Hall"
 url: /fayetteville/alumni-hall/
-shop: Kleidung
+shop: clothes
 ---

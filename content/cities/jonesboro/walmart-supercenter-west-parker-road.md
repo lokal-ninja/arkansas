@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /jonesboro/walmart-supercenter-west-parker-road/
-shop: Supermarkt
+shop: supermarket
 ---

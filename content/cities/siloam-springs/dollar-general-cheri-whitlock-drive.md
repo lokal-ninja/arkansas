@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /siloam-springs/dollar-general-cheri-whitlock-drive/
-shop: Kramladen
+shop: variety store
 ---

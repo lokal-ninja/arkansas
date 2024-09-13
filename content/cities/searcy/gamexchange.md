@@ -1,5 +1,5 @@
 ---
 title: "GameXchange"
 url: /searcy/gamexchange/
-shop: Videospiele
+shop: video games
 ---

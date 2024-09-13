@@ -1,5 +1,5 @@
 ---
 title: "Success Vision Express"
 url: /conway/success-vision-express/
-shop: Optiker
+shop: optician
 ---

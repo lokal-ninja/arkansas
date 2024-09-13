@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /bryant/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

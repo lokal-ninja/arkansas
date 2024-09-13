@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /little-rock/autozone-south-bowman-road/
-shop: Autoteile
+shop: car parts
 ---

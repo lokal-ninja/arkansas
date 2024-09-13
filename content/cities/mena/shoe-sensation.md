@@ -1,5 +1,5 @@
 ---
 title: "Shoe Sensation"
 url: /mena/shoe-sensation/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunfest"
 url: /gassville/sunfest/
-shop: Supermarkt
+shop: supermarket
 ---

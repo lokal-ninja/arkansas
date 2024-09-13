@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /fayetteville/autozone/
-shop: Autoteile
+shop: car parts
 ---

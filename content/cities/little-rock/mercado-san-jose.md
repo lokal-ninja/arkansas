@@ -1,5 +1,5 @@
 ---
 title: "Mercado San Jose"
 url: /little-rock/mercado-san-jose/
-shop: Supermarkt
+shop: supermarket
 ---

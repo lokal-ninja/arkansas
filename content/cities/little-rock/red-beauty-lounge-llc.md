@@ -1,5 +1,5 @@
 ---
 title: "Red Beauty Lounge LLC"
 url: /little-rock/red-beauty-lounge-llc/
-shop: Friseur
+shop: hairdresser
 ---

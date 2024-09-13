@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /parkin/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

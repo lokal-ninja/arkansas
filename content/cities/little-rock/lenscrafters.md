@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /little-rock/lenscrafters/
-shop: Optiker
+shop: optician
 ---

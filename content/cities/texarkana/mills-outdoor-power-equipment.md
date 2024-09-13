@@ -1,5 +1,5 @@
 ---
 title: "Mills Outdoor Power Equipment"
 url: /texarkana/mills-outdoor-power-equipment/
-shop: Platzpflege
+shop: groundskeeping
 ---

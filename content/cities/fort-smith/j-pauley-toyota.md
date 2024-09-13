@@ -1,5 +1,5 @@
 ---
 title: "J. Pauley Toyota"
 url: /fort-smith/j-pauley-toyota/
-shop: Autohaus
+shop: car
 ---

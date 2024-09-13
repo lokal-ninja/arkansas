@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /little-rock/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

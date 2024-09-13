@@ -1,5 +1,5 @@
 ---
 title: "Super Station"
 url: /hope/super-station/
-shop: Lebensmittel
+shop: convenience
 ---

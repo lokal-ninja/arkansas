@@ -1,5 +1,5 @@
 ---
 title: "Arrow Bolt"
 url: /fort-smith/arrow-bolt/
-shop: Eisenwaren
+shop: hardware
 ---

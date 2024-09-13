@@ -1,5 +1,5 @@
 ---
 title: "Atwoods"
 url: /hope/atwoods/
-shop: Dorfladen
+shop: general
 ---
