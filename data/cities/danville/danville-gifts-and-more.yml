@@ -1,11 +1,11 @@
 id: 1249176641
-type: way
+type: node
 latitude: 35.05391
 longitude: -93.39058
 postcode: "72833"
 city: Danville
-street: "East 9th Street"
-housenumber: 304
-phone: "+1-479-495-7771"
+street: East 9th Street
+housenumber: "304"
+phone: +1-479-495-7771
 opening_hours: ""
 website: ""

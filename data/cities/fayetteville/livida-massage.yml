@@ -1,11 +1,11 @@
 id: 1039690274
-type: way
+type: node
 latitude: 36.12955
 longitude: -94.14117
 postcode: "72703"
 city: Fayetteville
-street: "North Waterside Court"
-housenumber: 4301
+street: North Waterside Court
+housenumber: "4301"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00, Sa-Su 09:00-20:00"
+opening_hours: Mo-Fr 09:00-21:00, Sa-Su 09:00-20:00
 website: ""

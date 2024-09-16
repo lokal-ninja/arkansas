@@ -1,11 +1,11 @@
 id: 1108253867
-type: way
+type: node
 latitude: 34.65523
 longitude: -93.05833
 postcode: "71909"
 city: Hot Springs Village
-street: "AR 7"
-housenumber: 4545
-phone: "+1-501-984-6141"
-opening_hours: "07:00-22:00"
+street: AR 7
+housenumber: "4545"
+phone: +1-501-984-6141
+opening_hours: 07:00-22:00
 website: ""

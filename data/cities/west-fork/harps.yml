@@ -1,11 +1,11 @@
 id: 767390971
-type: way
+type: node
 latitude: 35.92479
 longitude: -94.19466
 postcode: "72774"
 city: West Fork
-street: "Three Dog Lane"
-housenumber: 266
-phone: "+1 479 839 3820"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.harpsfood.com/StoreLocator/Store?L=126"
+street: Three Dog Lane
+housenumber: "266"
+phone: +1 479 839 3820
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.harpsfood.com/StoreLocator/Store?L=126

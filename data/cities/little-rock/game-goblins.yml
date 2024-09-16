@@ -1,11 +1,11 @@
 id: 393650296
-type: way
+type: node
 latitude: 34.74391
 longitude: -92.40649
 postcode: "72211"
 city: Little Rock
-street: "South Bowman Road"
-housenumber: 1121
-phone: "+1-501-224-4263"
-opening_hours: "Mo-Sa 11:00-22:00; Su 12:00-19:00"
-website: "https://gamegoblins.com/"
+street: South Bowman Road
+housenumber: "1121"
+phone: +1-501-224-4263
+opening_hours: Mo-Sa 11:00-22:00; Su 12:00-19:00
+website: https://gamegoblins.com/

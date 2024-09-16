@@ -1,11 +1,11 @@
 id: 1154865992
-type: way
+type: node
 latitude: 35.21423
 longitude: -90.20548
 postcode: "72364"
 city: Marion
-street: "East Military Road"
-housenumber: 220
+street: East Military Road
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

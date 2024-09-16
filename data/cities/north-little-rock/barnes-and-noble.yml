@@ -1,11 +1,11 @@
 id: 893455374
-type: way
+type: node
 latitude: 34.78987
 longitude: -92.2295
 postcode: "72116"
 city: North Little Rock
-street: "McCain Boulevard"
-housenumber: 4000
+street: McCain Boulevard
+housenumber: "4000"
 phone: ""
 opening_hours: ""
 website: ""

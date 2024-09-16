@@ -1,11 +1,11 @@
 id: 584503259
-type: way
+type: node
 latitude: 34.95237
 longitude: -92.05382
 postcode: "72023"
 city: Cabot
-street: "South 2nd"
-housenumber: 2800
+street: South 2nd
+housenumber: "2800"
 phone: ""
 opening_hours: ""
 website: ""

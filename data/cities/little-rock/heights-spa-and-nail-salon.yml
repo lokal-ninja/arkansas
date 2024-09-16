@@ -1,11 +1,11 @@
 id: 1068089199
-type: way
+type: node
 latitude: 34.77007
 longitude: -92.32947
 postcode: "72207"
 city: Little Rock
-street: "Club Road"
-housenumber: 5024
+street: Club Road
+housenumber: "5024"
 phone: "+15016032288"
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

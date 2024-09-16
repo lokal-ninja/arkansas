@@ -1,11 +1,11 @@
 id: 1118506529
-type: way
+type: node
 latitude: 35.09117
 longitude: -92.42497
 postcode: "72032"
 city: Conway
-street: "East Oak Street"
-housenumber: 375
-phone: "+1-501-327-2087"
-opening_hours: "24/7"
+street: East Oak Street
+housenumber: "375"
+phone: +1-501-327-2087
+opening_hours: 24/7
 website: ""

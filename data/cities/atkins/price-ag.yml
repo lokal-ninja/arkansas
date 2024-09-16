@@ -1,11 +1,11 @@
 id: 1037243861
-type: way
+type: node
 latitude: 35.2426
 longitude: -92.91386
 postcode: "72823"
 city: Atkins
-street: "US Highway 64 East"
-housenumber: 13845
+street: US Highway 64 East
+housenumber: "13845"
 phone: ""
 opening_hours: ""
 website: ""

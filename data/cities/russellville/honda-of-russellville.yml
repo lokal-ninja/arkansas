@@ -1,11 +1,11 @@
 id: 1204449081
-type: way
+type: node
 latitude: 35.30587
 longitude: -93.14047
 postcode: "72802"
 city: Russellville
-street: "Lake Front Drive"
-housenumber: 220
+street: Lake Front Drive
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

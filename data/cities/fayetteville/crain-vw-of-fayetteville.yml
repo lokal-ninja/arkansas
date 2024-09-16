@@ -1,11 +1,11 @@
 id: 689263080
-type: way
+type: node
 latitude: 36.10084
 longitude: -94.18658
 postcode: "72704"
 city: Fayetteville
-street: "West Foxglove Drive"
-housenumber: 2011
-phone: "+1 855 236 9020"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.crainvw.com/"
+street: West Foxglove Drive
+housenumber: "2011"
+phone: +1 855 236 9020
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.crainvw.com/

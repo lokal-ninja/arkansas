@@ -1,11 +1,11 @@
 id: 984590267
-type: way
+type: node
 latitude: 35.20341
 longitude: -92.95272
 postcode: "72823"
 city: Atkins
-street: "South Shore Road"
-housenumber: 390
+street: South Shore Road
+housenumber: "390"
 phone: ""
 opening_hours: ""
 website: ""

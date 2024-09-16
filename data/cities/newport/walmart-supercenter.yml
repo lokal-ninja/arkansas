@@ -1,11 +1,11 @@
 id: 1021317850
-type: way
+type: node
 latitude: 35.61857
 longitude: -91.25549
 postcode: "72112"
 city: Newport
-street: "Highway 367 North"
-housenumber: 1211
-phone: "+1 870-523-2500"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/18/newport-ar/whats-new"
+street: Highway 367 North
+housenumber: "1211"
+phone: +1 870-523-2500
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/18/newport-ar/whats-new

@@ -1,11 +1,11 @@
 id: 280277283
-type: way
+type: node
 latitude: 36.1739
 longitude: -94.54569
 postcode: "72761"
 city: Siloam Springs
-street: "Highway 412 West"
-housenumber: 441
-phone: "+1 479 524 5131"
+street: Highway 412 West
+housenumber: "441"
+phone: +1 479 524 5131
 opening_hours: ""
-website: "https://www.wassonfuneralhome.com/"
+website: https://www.wassonfuneralhome.com/

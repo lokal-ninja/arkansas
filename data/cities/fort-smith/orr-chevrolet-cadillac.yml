@@ -1,11 +1,11 @@
 id: 642445421
-type: way
+type: node
 latitude: 35.32115
 longitude: -94.39868
 postcode: "72908"
 city: Fort Smith
-street: "Autopark Drive"
-housenumber: 6500
+street: Autopark Drive
+housenumber: "6500"
 phone: ""
 opening_hours: ""
 website: ""

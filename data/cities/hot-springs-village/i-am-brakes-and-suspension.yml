@@ -1,11 +1,11 @@
 id: 1112410670
-type: way
+type: node
 latitude: 34.66354
 longitude: -92.91282
 postcode: "71909"
 city: Hot Springs Village
-street: "Deposito Pass"
-housenumber: 99
-phone: "+1-501-922-7555"
+street: Deposito Pass
+housenumber: "99"
+phone: +1-501-922-7555
 opening_hours: ""
 website: ""

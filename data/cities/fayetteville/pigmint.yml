@@ -1,11 +1,11 @@
 id: 473914672
-type: way
+type: node
 latitude: 36.08928
 longitude: -94.15393
 postcode: "72703"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 2020
-phone: "+1 479 444 0404"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-15:00"
-website: "https://www.facebook.com/PIGMINTDOTCOM/"
+street: North College Avenue
+housenumber: "2020"
+phone: +1 479 444 0404
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-15:00
+website: https://www.facebook.com/PIGMINTDOTCOM/

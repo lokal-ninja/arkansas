@@ -1,11 +1,11 @@
 id: 553379984
-type: way
+type: node
 latitude: 34.62461
 longitude: -92.49844
 postcode: "72022"
 city: Bryant
-street: "North Reynolds Road"
-housenumber: 3220
+street: North Reynolds Road
+housenumber: "3220"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/bryant-ar-pharmacies/3220-n-reynolds-rd-bryant-ar-72022/storeid=10432"
+website: https://www.cvs.com/store-locator/bryant-ar-pharmacies/3220-n-reynolds-rd-bryant-ar-72022/storeid=10432

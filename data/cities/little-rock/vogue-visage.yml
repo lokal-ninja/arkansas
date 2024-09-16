@@ -1,11 +1,11 @@
 id: 528156598
-type: way
+type: node
 latitude: 34.75995
 longitude: -92.37512
 postcode: "72205"
 city: Little Rock
-street: "North Rodney Parham Road"
-housenumber: 9100
+street: North Rodney Parham Road
+housenumber: "9100"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

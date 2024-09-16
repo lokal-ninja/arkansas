@@ -1,11 +1,11 @@
 id: 1252964606
-type: way
+type: node
 latitude: 35.32889
 longitude: -94.39637
 postcode: "72908"
 city: Fort Smith
-street: "Zero Street"
-housenumber: 3421
-phone: "+1-479-242-3337"
+street: Zero Street
+housenumber: "3421"
+phone: +1-479-242-3337
 opening_hours: ""
-website: "https://www.pkequipment.com/about-us/locations/fort-smith-ar/"
+website: https://www.pkequipment.com/about-us/locations/fort-smith-ar/

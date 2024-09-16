@@ -1,11 +1,11 @@
 id: 516935861
-type: way
+type: node
 latitude: 35.24781
 longitude: -91.68515
 postcode: "72143"
 city: Searcy
-street: "East Race Avenue"
-housenumber: 3701
-phone: "+1 501-203-1000"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ar-searcy/1775"
+street: East Race Avenue
+housenumber: "3701"
+phone: +1 501-203-1000
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ar-searcy/1775

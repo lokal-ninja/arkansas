@@ -1,11 +1,11 @@
 id: 903252959
-type: way
+type: node
 latitude: 35.16213
 longitude: -90.16974
 postcode: "72301"
 city: West Memphis
-street: "East Service Road"
-housenumber: 1151
+street: East Service Road
+housenumber: "1151"
 phone: ""
 opening_hours: ""
 website: ""

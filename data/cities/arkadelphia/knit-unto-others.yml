@@ -1,11 +1,11 @@
 id: 1114276325
-type: way
+type: node
 latitude: 34.11942
 longitude: -93.0512
 postcode: "71923"
 city: Arkadelphia
-street: "Main Street"
-housenumber: 323
+street: Main Street
+housenumber: "323"
 phone: ""
 opening_hours: ""
-website: "http://knituntoothers.net/"
+website: http://knituntoothers.net/

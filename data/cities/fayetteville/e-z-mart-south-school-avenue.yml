@@ -1,11 +1,11 @@
 id: 478540070
-type: way
+type: node
 latitude: 36.02279
 longitude: -94.17247
 postcode: "72701"
 city: Fayetteville
-street: "South School Avenue"
-housenumber: 3408
-phone: "+1 479 444 9366"
+street: South School Avenue
+housenumber: "3408"
+phone: +1 479 444 9366
 opening_hours: ""
-website: "http://e-zmart.com/"
+website: http://e-zmart.com/

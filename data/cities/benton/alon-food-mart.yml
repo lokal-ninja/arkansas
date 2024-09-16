@@ -1,11 +1,11 @@
 id: 953606995
-type: way
+type: node
 latitude: 34.56307
 longitude: -92.60566
 postcode: "72019"
 city: Benton
-street: "I-30 Frontage Road"
-housenumber: 15541
+street: I-30 Frontage Road
+housenumber: "15541"
 phone: ""
 opening_hours: ""
 website: ""

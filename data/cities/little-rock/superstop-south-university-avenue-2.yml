@@ -1,11 +1,11 @@
 id: 1090808149
-type: way
+type: node
 latitude: 34.74112
 longitude: -92.34212
 postcode: "72204"
 city: Little Rock
-street: "South University Avenue"
-housenumber: 1200
+street: South University Avenue
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

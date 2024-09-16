@@ -1,11 +1,11 @@
 id: 934342479
-type: way
+type: node
 latitude: 33.47477
 longitude: -94.02033
 postcode: "71854"
 city: Texarkana
-street: "Trinity Boulevard"
-housenumber: 2101
+street: Trinity Boulevard
+housenumber: "2101"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1097866458
-type: way
+type: node
 latitude: 34.74083
 longitude: -92.33375
 postcode: "72204"
 city: Little Rock
-street: "West 12th Street"
-housenumber: 5403
-phone: "+1-501-666-1502"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: West 12th Street
+housenumber: "5403"
+phone: +1-501-666-1502
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

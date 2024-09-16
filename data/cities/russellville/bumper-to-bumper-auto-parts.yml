@@ -1,11 +1,11 @@
 id: 750328392
-type: way
+type: node
 latitude: 35.28025
 longitude: -93.13675
 postcode: "72801"
 city: Russellville
-street: "North Denver Avenue"
-housenumber: 201
-phone: "+1-479-968-5345"
+street: North Denver Avenue
+housenumber: "201"
+phone: +1-479-968-5345
 opening_hours: ""
 website: ""

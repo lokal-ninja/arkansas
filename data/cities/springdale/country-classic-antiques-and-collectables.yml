@@ -1,11 +1,11 @@
 id: 1292443573
-type: way
+type: node
 latitude: 36.17525
 longitude: -94.22287
 postcode: "72762"
 city: Springdale
-street: "Industrial Circle West"
-housenumber: 145
+street: Industrial Circle West
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

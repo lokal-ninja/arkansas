@@ -1,11 +1,11 @@
 id: 1245742462
-type: way
+type: node
 latitude: 35.36925
 longitude: -94.42133
 postcode: "72901"
 city: Fort Smith
-street: "Towson Avenue"
-housenumber: 1419
-phone: "+1 479 785 0341"
+street: Towson Avenue
+housenumber: "1419"
+phone: +1 479 785 0341
 opening_hours: ""
 website: ""

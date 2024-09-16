@@ -4,8 +4,8 @@ latitude: 35.06979
 longitude: -92.4637
 postcode: "72034"
 city: Conway
-street: "Dave Ward Drive"
-housenumber: 2501
-phone: "+1-501-730-1515"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su Appointment only"
-website: "https://thespaah.com/"
+street: Dave Ward Drive
+housenumber: "2501"
+phone: +1-501-730-1515
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su "Appointment only"
+website: https://thespaah.com/

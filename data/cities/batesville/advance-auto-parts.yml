@@ -1,11 +1,11 @@
 id: 574619613
-type: way
+type: node
 latitude: 35.7699
 longitude: -91.64144
 postcode: "72501"
 city: Batesville
-street: "South Saint Louis Street"
-housenumber: 900
-phone: "+1-870-698-8809"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:30-20:00"
-website: "https://stores.advanceautoparts.com/ar/batesville/990-s-saint-louis-st"
+street: South Saint Louis Street
+housenumber: "900"
+phone: +1-870-698-8809
+opening_hours: Mo-Sa 07:00-21:00; Su 08:30-20:00
+website: https://stores.advanceautoparts.com/ar/batesville/990-s-saint-louis-st

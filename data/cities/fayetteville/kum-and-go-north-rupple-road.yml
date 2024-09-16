@@ -1,11 +1,11 @@
 id: 1247058802
-type: way
+type: node
 latitude: 36.09307
 longitude: -94.21273
 postcode: "72704"
 city: Fayetteville
-street: "North Rupple Road"
-housenumber: 2200
-phone: "+1 479 391 2230"
-opening_hours: "24/7"
-website: "https://www.kumandgo.com/store-locator?details=2424"
+street: North Rupple Road
+housenumber: "2200"
+phone: +1 479 391 2230
+opening_hours: 24/7
+website: https://www.kumandgo.com/store-locator?details=2424

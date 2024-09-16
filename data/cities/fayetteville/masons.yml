@@ -1,11 +1,11 @@
 id: 485690234
-type: way
+type: node
 latitude: 36.12092
 longitude: -94.13965
 postcode: "72703"
 city: Fayetteville
-street: "East Joyce Boulevard"
-housenumber: 1350
-phone: "+1 479 571 0100"
+street: East Joyce Boulevard
+housenumber: "1350"
+phone: +1 479 571 0100
 opening_hours: ""
-website: "https://shopmasons.com/"
+website: https://shopmasons.com/

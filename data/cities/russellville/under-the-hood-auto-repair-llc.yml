@@ -1,11 +1,11 @@
 id: 786317668
-type: way
+type: node
 latitude: 35.30075
 longitude: -93.1305
 postcode: "72801"
 city: Russellville
-street: "Reasoner Lane"
-housenumber: 605
+street: Reasoner Lane
+housenumber: "605"
 phone: ""
 opening_hours: ""
 website: ""

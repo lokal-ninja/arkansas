@@ -1,11 +1,11 @@
 id: 747104268
-type: way
+type: node
 latitude: 35.27802
 longitude: -93.11987
 postcode: "72801"
 city: Russellville
-street: "East Main Street"
-housenumber: 1100
+street: East Main Street
+housenumber: "1100"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walgreens.com/locator/walgreens-1100+e+main+st-russellville-ar-72801/id=10199"
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walgreens.com/locator/walgreens-1100+e+main+st-russellville-ar-72801/id=10199

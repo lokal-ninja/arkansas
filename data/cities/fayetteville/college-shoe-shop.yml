@@ -1,11 +1,11 @@
 id: 477600216
-type: way
+type: node
 latitude: 36.05632
 longitude: -94.18542
 postcode: "72701"
 city: Fayetteville
-street: "West Martin Luther King Junior Boulevard"
-housenumber: 1703
+street: West Martin Luther King Junior Boulevard
+housenumber: "1703"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00, Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-17:00, Sa 09:00-12:00
 website: ""

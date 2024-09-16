@@ -1,11 +1,11 @@
 id: 595223748
-type: way
+type: node
 latitude: 35.37589
 longitude: -94.40182
 postcode: "72901"
 city: Fort Smith
-street: "Rogers Avenue"
-housenumber: 2805
+street: Rogers Avenue
+housenumber: "2805"
 phone: "+14798885893"
 opening_hours: ""
-website: "https://www.fortsmithsmokeshop.com/"
+website: https://www.fortsmithsmokeshop.com/

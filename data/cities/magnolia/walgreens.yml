@@ -1,11 +1,11 @@
 id: 1004762980
-type: way
+type: node
 latitude: 33.26573
 longitude: -93.21715
 postcode: "71753"
 city: Magnolia
-street: "East Main Street"
-housenumber: 1644
+street: East Main Street
+housenumber: "1644"
 phone: "+18702343493"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-1644+e+main+st-magnolia-ar-71753/id=10897"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.walgreens.com/locator/walgreens-1644+e+main+st-magnolia-ar-71753/id=10897

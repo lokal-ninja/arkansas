@@ -1,11 +1,11 @@
 id: 1016766506
-type: way
+type: node
 latitude: 36.09319
 longitude: -94.19409
 postcode: "72704"
 city: Fayetteville
-street: "West Mount Comfort Road"
-housenumber: 2486
-phone: "+1 479 442 1712"
-opening_hours: "05:00-23:00"
-website: "https://www.caseys.com/general-store/ar-fayetteville/2486-w-mount-comfort-rd/3911"
+street: West Mount Comfort Road
+housenumber: "2486"
+phone: +1 479 442 1712
+opening_hours: 05:00-23:00
+website: https://www.caseys.com/general-store/ar-fayetteville/2486-w-mount-comfort-rd/3911

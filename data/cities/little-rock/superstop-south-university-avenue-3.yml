@@ -1,11 +1,11 @@
 id: 1167673056
-type: way
+type: node
 latitude: 34.68377
 longitude: -92.35197
 postcode: "72209"
 city: Little Rock
-street: "South University Avenue"
-housenumber: 7300
-phone: "+1-501-565-1780"
+street: South University Avenue
+housenumber: "7300"
+phone: +1-501-565-1780
 opening_hours: ""
 website: ""

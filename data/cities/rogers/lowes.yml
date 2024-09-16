@@ -1,11 +1,11 @@
 id: 495337718
-type: way
+type: node
 latitude: 36.33806
 longitude: -94.18185
 postcode: "72756"
 city: Rogers
-street: "North 46th Street"
-housenumber: 300
-phone: "+1 479-936-9700"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ar-rogers/0694"
+street: North 46th Street
+housenumber: "300"
+phone: +1 479-936-9700
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ar-rogers/0694

@@ -1,11 +1,11 @@
 id: 1185082053
-type: way
+type: node
 latitude: 34.17724
 longitude: -92.59296
 postcode: "72084"
 city: Leola
-street: "AR-229"
-housenumber: 11209
-phone: "+1 501-451-7535"
+street: AR-229
+housenumber: "11209"
+phone: +1 501-451-7535
 opening_hours: ""
 website: ""

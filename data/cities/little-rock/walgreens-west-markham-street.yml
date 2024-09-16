@@ -1,11 +1,11 @@
 id: 775439395
-type: way
+type: node
 latitude: 34.75112
 longitude: -92.31721
 postcode: "72205"
 city: Little Rock
-street: "West Markham Street"
-housenumber: 3901
+street: West Markham Street
+housenumber: "3901"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3901+w+markham+st-little+rock-ar-72205/id=12738"
+website: https://www.walgreens.com/locator/walgreens-3901+w+markham+st-little+rock-ar-72205/id=12738

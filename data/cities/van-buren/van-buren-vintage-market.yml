@@ -1,11 +1,11 @@
 id: 960184395
-type: way
+type: node
 latitude: 35.43587
 longitude: -94.35354
 postcode: "72956"
 city: Van Buren
-street: "East Main Street"
-housenumber: 618
+street: East Main Street
+housenumber: "618"
 phone: ""
 opening_hours: ""
-website: "https://van-buren-vintage-market.business.site/"
+website: https://van-buren-vintage-market.business.site/

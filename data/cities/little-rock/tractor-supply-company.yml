@@ -1,11 +1,11 @@
 id: 355627020
-type: way
+type: node
 latitude: 34.70972
 longitude: -92.39722
 postcode: "72204"
 city: Little Rock
-street: "Colonel Glenn Square"
-housenumber: 10801
-phone: "+1 501-954-7451"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Colonel Glenn Square
+housenumber: "10801"
+phone: +1 501-954-7451
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

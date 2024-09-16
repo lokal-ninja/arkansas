@@ -1,11 +1,11 @@
 id: 878846714
-type: way
+type: node
 latitude: 33.23564
 longitude: -92.66957
 postcode: "71730"
 city: El Dorado
-street: "West 19th Street"
-housenumber: 507
-phone: "+1 870-875-1427"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/el-dorado/ar/el-dorado/71730/8537"
+street: West 19th Street
+housenumber: "507"
+phone: +1 870-875-1427
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/el-dorado/ar/el-dorado/71730/8537

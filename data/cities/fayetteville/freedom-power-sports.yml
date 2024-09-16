@@ -1,11 +1,11 @@
 id: 473476361
-type: way
+type: node
 latitude: 36.07971
 longitude: -94.19898
 postcode: "72703"
 city: Fayetteville
-street: "North Futrall Drive"
-housenumber: 1205
-phone: "+1 479 521 7133"
-opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-16:00, Su-Mo closed"
-website: "https://www.freedompowersportsfayetteville.com/"
+street: North Futrall Drive
+housenumber: "1205"
+phone: +1 479 521 7133
+opening_hours: Tu-Fr 09:00-18:00, Sa 09:00-16:00, Su-Mo closed
+website: https://www.freedompowersportsfayetteville.com/

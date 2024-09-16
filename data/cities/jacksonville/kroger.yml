@@ -1,11 +1,11 @@
 id: 1135300547
-type: way
+type: node
 latitude: 34.87936
 longitude: -92.10976
 postcode: "72076"
 city: Jacksonville
-street: "Gregory Place"
-housenumber: 103
-phone: "+1 501-982-0151"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ar/jacksonville/jacksonville/025/00614"
+street: Gregory Place
+housenumber: "103"
+phone: +1 501-982-0151
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ar/jacksonville/jacksonville/025/00614

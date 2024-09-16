@@ -1,11 +1,11 @@
 id: 795095925
-type: way
+type: node
 latitude: 33.72338
 longitude: -92.61959
 postcode: "71720"
 city: Bearden
-street: "1st Street Northeast"
-housenumber: 330
-phone: "870-687-3999"
+street: 1st Street Northeast
+housenumber: "330"
+phone: 870-687-3999
 opening_hours: ""
-website: "http://pategunandpawn.com"
+website: http://pategunandpawn.com

@@ -1,11 +1,11 @@
 id: 897720878
-type: way
+type: node
 latitude: 33.39557
 longitude: -94.01515
 postcode: "71854"
 city: Texarkana
-street: "East Street"
-housenumber: 2910
+street: East Street
+housenumber: "2910"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1060108799
-type: way
+type: node
 latitude: 34.74158
 longitude: -92.37261
 postcode: "72205"
 city: Little Rock
-street: "John Barrow Road"
-housenumber: 1200
+street: John Barrow Road
+housenumber: "1200"
 phone: "+15014782655"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.walgreens.com/locator/walgreens-1200+john+barrow+rd-little+rock-ar-72205/id=16545"
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.walgreens.com/locator/walgreens-1200+john+barrow+rd-little+rock-ar-72205/id=16545

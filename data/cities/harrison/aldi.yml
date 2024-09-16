@@ -1,11 +1,11 @@
 id: 934748056
-type: way
+type: node
 latitude: 36.25921
 longitude: -93.12576
 postcode: "72601"
 city: Harrison
-street: "Highway 62/65 North"
-housenumber: 1105
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ar/harrison/1105-hwy-62-65-north"
+street: Highway 62/65 North
+housenumber: "1105"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ar/harrison/1105-hwy-62-65-north

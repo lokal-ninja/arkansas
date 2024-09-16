@@ -1,11 +1,11 @@
 id: 585534269
-type: way
+type: node
 latitude: 35.06291
 longitude: -92.41274
 postcode: "72032"
 city: Conway
-street: "South Amity Road"
-housenumber: 1284
-phone: "+1 501-697-9400"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ar/conway/1295"
+street: South Amity Road
+housenumber: "1284"
+phone: +1 501-697-9400
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ar/conway/1295

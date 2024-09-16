@@ -1,11 +1,11 @@
 id: 903439160
-type: way
+type: node
 latitude: 35.80719
 longitude: -90.7228
 postcode: "72404"
 city: Jonesboro
-street: "West Parker Road"
-housenumber: 1203
+street: West Parker Road
+housenumber: "1203"
 phone: ""
 opening_hours: ""
 website: ""

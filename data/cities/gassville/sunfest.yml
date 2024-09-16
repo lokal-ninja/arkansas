@@ -1,11 +1,11 @@
 id: 246375751
-type: way
+type: node
 latitude: 36.28284
 longitude: -92.49629
 postcode: "72635"
 city: Gassville
-street: "West Main Street"
-housenumber: 119
+street: West Main Street
+housenumber: "119"
 phone: "+18704356180"
 opening_hours: ""
-website: "https://www.gwfoodsinc.com/"
+website: https://www.gwfoodsinc.com/

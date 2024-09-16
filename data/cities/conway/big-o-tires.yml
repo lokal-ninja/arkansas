@@ -1,11 +1,11 @@
 id: 702441943
-type: way
+type: node
 latitude: 35.10784
 longitude: -92.44146
 postcode: "72032"
 city: Conway
-street: "Harkrider Street"
-housenumber: 2201
-phone: "+1-501-205-4809w"
+street: Harkrider Street
+housenumber: "2201"
+phone: +1-501-205-4809w
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 820246444
-type: way
+type: node
 latitude: 36.17639
 longitude: -94.21071
 postcode: "72762"
 city: Springdale
-street: "West Sunset Avenue"
-housenumber: 7250
+street: West Sunset Avenue
+housenumber: "7250"
 phone: ""
 opening_hours: ""
-website: "https://www.murphyusa.com/"
+website: https://www.murphyusa.com/

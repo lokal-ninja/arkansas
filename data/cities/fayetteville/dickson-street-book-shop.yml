@@ -1,11 +1,11 @@
 id: 557528348
-type: way
+type: node
 latitude: 36.06588
 longitude: -94.16397
 postcode: "72701"
 city: Fayetteville
-street: "West Dickson Street"
-housenumber: 325
-phone: "+1 479 442 8182"
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-18:00"
-website: "http://www.dicksonstreetbooks.com"
+street: West Dickson Street
+housenumber: "325"
+phone: +1 479 442 8182
+opening_hours: Mo-Sa 09:00-21:00; Su 11:00-18:00
+website: http://www.dicksonstreetbooks.com

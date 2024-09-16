@@ -1,11 +1,11 @@
 id: 469824267
-type: way
+type: node
 latitude: 36.07727
 longitude: -94.16854
 postcode: "72701"
 city: Fayetteville
-street: "West North Street"
-housenumber: 693
-phone: "+1 479 445 6545"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
-website: "https://www.facebook.com/FayettevillesFunkyYardsale/"
+street: West North Street
+housenumber: "693"
+phone: +1 479 445 6545
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
+website: https://www.facebook.com/FayettevillesFunkyYardsale/

@@ -1,11 +1,11 @@
 id: 751438386
-type: way
+type: node
 latitude: 35.27885
 longitude: -93.10993
 postcode: "72801"
 city: Russellville
-street: "East Main Street"
-housenumber: 2005
+street: East Main Street
+housenumber: "2005"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ar/russellville/autoparts-362.html"
+website: https://locations.oreillyauto.com/ar/russellville/autoparts-362.html

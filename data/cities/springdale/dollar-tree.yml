@@ -1,11 +1,11 @@
 id: 733987459
-type: way
+type: node
 latitude: 36.16672
 longitude: -94.14391
 postcode: "72764"
 city: Springdale
-street: "South Pleasant Street"
-housenumber: 2002
+street: South Pleasant Street
+housenumber: "2002"
 phone: ""
 opening_hours: ""
-website: "https://www.dollartree.com/locations/ar/springdale/1830/"
+website: https://www.dollartree.com/locations/ar/springdale/1830/

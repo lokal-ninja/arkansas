@@ -1,11 +1,11 @@
 id: 591254106
-type: way
+type: node
 latitude: 36.18594
 longitude: -90.38402
 postcode: "72443"
 city: Marmaduke
-street: "East Main Street"
-housenumber: 
+street: East Main Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

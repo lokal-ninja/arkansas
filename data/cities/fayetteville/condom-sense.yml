@@ -1,11 +1,11 @@
 id: 516270029
-type: way
+type: node
 latitude: 36.06654
 longitude: -94.16492
 postcode: "72701"
 city: Fayetteville
-street: "West Dickson Street"
-housenumber: 418
-phone: "+1 479 444 6228"
-opening_hours: "Mo,Tu 11:00-20:00; We,Th 11:00-21:00; Fr,Sa 11:00-22:00"
-website: "https://www.condomsensefayetteville.com/"
+street: West Dickson Street
+housenumber: "418"
+phone: +1 479 444 6228
+opening_hours: Mo,Tu 11:00-20:00; We,Th 11:00-21:00; Fr,Sa 11:00-22:00
+website: https://www.condomsensefayetteville.com/

@@ -1,11 +1,11 @@
 id: 528156519
-type: way
+type: node
 latitude: 34.76016
 longitude: -92.37819
 postcode: "72227"
 city: Little Rock
-street: "Towne Oaks Drive"
-housenumber: 724
+street: Towne Oaks Drive
+housenumber: "724"
 phone: ""
 opening_hours: ""
 website: ""

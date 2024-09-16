@@ -1,11 +1,11 @@
 id: 396114701
-type: way
+type: node
 latitude: 35.16191
 longitude: -90.17531
 postcode: "72301"
 city: West Memphis
-street: "North 7th Street"
-housenumber: 1601
-phone: "+1 870-702-6000"
+street: North 7th Street
+housenumber: "1601"
+phone: +1 870-702-6000
 opening_hours: ""
-website: "https://truevalue.com/"
+website: https://truevalue.com/

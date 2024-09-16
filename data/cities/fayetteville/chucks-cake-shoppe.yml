@@ -1,11 +1,11 @@
 id: 467847051
-type: way
+type: node
 latitude: 36.06912
 longitude: -94.15823
 postcode: "72701"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 407
-phone: "+1 479 442 2253"
-opening_hours: "Tu-Fr 09:00-17:30; Sa 09:00-15:00"
-website: "https://www.facebook.com/Chucks-Cake-Shoppe-118412174905363/"
+street: North College Avenue
+housenumber: "407"
+phone: +1 479 442 2253
+opening_hours: Tu-Fr 09:00-17:30; Sa 09:00-15:00
+website: https://www.facebook.com/Chucks-Cake-Shoppe-118412174905363/

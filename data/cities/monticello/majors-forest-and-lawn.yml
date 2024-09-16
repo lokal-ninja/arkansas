@@ -1,11 +1,11 @@
 id: 1001195571
-type: way
+type: node
 latitude: 33.62823
 longitude: -91.78827
 postcode: "71655"
 city: Monticello
-street: "East Gaines Street"
-housenumber: 314
-phone: "+1-870-367-1146"
+street: East Gaines Street
+housenumber: "314"
+phone: +1-870-367-1146
 opening_hours: ""
-website: "https://www.majorsforestandlawn.com/"
+website: https://www.majorsforestandlawn.com/

@@ -1,11 +1,11 @@
 id: 1201884243
-type: way
+type: node
 latitude: 34.3632
 longitude: -92.81049
 postcode: "72104"
 city: Malvern
-street: "East Page Avenue"
-housenumber: 215
-phone: "+1 501-467-3353"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East Page Avenue
+housenumber: "215"
+phone: +1 501-467-3353
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

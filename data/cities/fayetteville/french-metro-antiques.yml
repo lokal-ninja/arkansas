@@ -1,11 +1,11 @@
 id: 467841763
-type: way
+type: node
 latitude: 36.0668
 longitude: -94.16171
 postcode: "72701"
 city: Fayetteville
-street: "West Dickson Street"
-housenumber: 200
-phone: "+1 479 587 0804"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://frenchmetro.com/"
+street: West Dickson Street
+housenumber: "200"
+phone: +1 479 587 0804
+opening_hours: Mo-Sa 10:00-18:00
+website: https://frenchmetro.com/

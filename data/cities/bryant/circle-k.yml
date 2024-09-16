@@ -1,11 +1,11 @@
 id: 1091571519
-type: way
+type: node
 latitude: 34.6166
 longitude: -92.51575
 postcode: "72022"
 city: Bryant
-street: "Springhill Road"
-housenumber: 2400
-phone: "+1-501-451-7550"
-opening_hours: "24/7"
+street: Springhill Road
+housenumber: "2400"
+phone: +1-501-451-7550
+opening_hours: 24/7
 website: ""

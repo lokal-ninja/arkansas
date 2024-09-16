@@ -1,11 +1,11 @@
 id: 741779245
-type: way
+type: node
 latitude: 36.15708
 longitude: -94.11776
 postcode: "72764"
 city: Springdale
-street: "South Old Missouri Road"
-housenumber: 3111
-phone: "+1 479 872 5600"
-opening_hours: "24/7"
-website: "https://www.whiteoakstation.com/"
+street: South Old Missouri Road
+housenumber: "3111"
+phone: +1 479 872 5600
+opening_hours: 24/7
+website: https://www.whiteoakstation.com/

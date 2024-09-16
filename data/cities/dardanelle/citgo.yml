@@ -1,11 +1,11 @@
 id: 723236399
-type: way
+type: node
 latitude: 35.22315
 longitude: -93.15592
 postcode: "72834"
 city: Dardanelle
-street: "Union Street"
-housenumber: 115
-phone: "+1-479-477-3902"
+street: Union Street
+housenumber: "115"
+phone: +1-479-477-3902
 opening_hours: ""
 website: ""

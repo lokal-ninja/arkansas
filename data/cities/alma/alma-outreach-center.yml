@@ -1,11 +1,11 @@
 id: 1215912003
-type: way
+type: node
 latitude: 35.48105
 longitude: -94.22592
 postcode: "72921"
 city: Alma
-street: "Fayetteville Ave"
-housenumber: 135
+street: Fayetteville Ave
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

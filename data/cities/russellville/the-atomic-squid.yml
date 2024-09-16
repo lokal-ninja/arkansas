@@ -1,11 +1,11 @@
 id: 1200964035
-type: way
+type: node
 latitude: 35.27987
 longitude: -93.13161
 postcode: "72801"
 city: Russellville
-street: "North Boston Place"
-housenumber: 216
-phone: "+1-479-968-3337"
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su off"
+street: North Boston Place
+housenumber: "216"
+phone: +1-479-968-3337
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 483134464
-type: way
+type: node
 latitude: 36.11158
 longitude: -94.14659
 postcode: "72703"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 3311
-phone: "+1 888 262 1745"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.lewischryslerdodge.com/"
+street: North College Avenue
+housenumber: "3311"
+phone: +1 888 262 1745
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.lewischryslerdodge.com/

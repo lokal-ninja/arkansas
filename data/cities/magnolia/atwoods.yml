@@ -1,11 +1,11 @@
 id: 1004762388
-type: way
+type: node
 latitude: 33.26313
 longitude: -93.21815
 postcode: "71753"
 city: Magnolia
-street: "East Main Street"
-housenumber: 1629
+street: East Main Street
+housenumber: "1629"
 phone: "+18702348000"
-opening_hours: "Mo-Sa 07:00-20:00; Su 09:00-19:00"
-website: "https://atwoods.com/"
+opening_hours: Mo-Sa 07:00-20:00; Su 09:00-19:00
+website: https://atwoods.com/

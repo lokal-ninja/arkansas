@@ -1,11 +1,11 @@
 id: 442970829
-type: way
+type: node
 latitude: 35.0859
 longitude: -92.41146
 postcode: "72032"
 city: Conway
-street: "Elsinger Boulevard"
-housenumber: 500
-phone: "+1 501-329-6763"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Conway/AR/Conway/72032/1407"
+street: Elsinger Boulevard
+housenumber: "500"
+phone: +1 501-329-6763
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Conway/AR/Conway/72032/1407

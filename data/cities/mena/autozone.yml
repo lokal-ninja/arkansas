@@ -1,11 +1,11 @@
 id: 1206540554
-type: way
+type: node
 latitude: 34.58713
 longitude: -94.2271
 postcode: "71953"
 city: Mena
-street: "North Cherry Street"
-housenumber: 104
-phone: "+1 479-394-1185"
-opening_hours: "Mo-We,Fr-Sa 07:30-21:00; Th 07:30-20:00; Su 09:00-19:00"
-website: "https://www.autozone.com/locations/ar/mena/104-n-cherry-st.html"
+street: North Cherry Street
+housenumber: "104"
+phone: +1 479-394-1185
+opening_hours: Mo-We,Fr-Sa 07:30-21:00; Th 07:30-20:00; Su 09:00-19:00
+website: https://www.autozone.com/locations/ar/mena/104-n-cherry-st.html

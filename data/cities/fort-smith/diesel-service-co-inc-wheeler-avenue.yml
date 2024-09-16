@@ -1,11 +1,11 @@
 id: 1211647476
-type: way
+type: node
 latitude: 35.38077
 longitude: -94.42528
 postcode: "72901"
 city: Fort Smith
-street: "Wheeler Avenue"
-housenumber: 319
+street: Wheeler Avenue
+housenumber: "319"
 phone: "+14797830337"
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://lomyu.me/diesel-service-co-inc-154388-us"
+opening_hours: Mo-Fr 07:00-16:30
+website: https://lomyu.me/diesel-service-co-inc-154388-us

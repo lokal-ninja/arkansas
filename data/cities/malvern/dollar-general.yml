@@ -1,11 +1,11 @@
 id: 1201884250
-type: way
+type: node
 latitude: 34.41096
 longitude: -92.82086
 postcode: "72104"
 city: Malvern
-street: "US 270"
-housenumber: 7316
+street: US 270
+housenumber: "7316"
 phone: ""
-opening_hours: "08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/ar/malvern/17849"
+opening_hours: 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/ar/malvern/17849

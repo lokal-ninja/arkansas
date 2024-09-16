@@ -1,11 +1,11 @@
 id: 778979238
-type: way
+type: node
 latitude: 35.82924
 longitude: -92.55929
 postcode: "72645"
 city: Leslie
-street: "Main Street"
-housenumber: 423
+street: Main Street
+housenumber: "423"
 phone: ""
 opening_hours: ""
 website: ""

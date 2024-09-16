@@ -1,11 +1,11 @@
 id: 1053649046
-type: way
+type: node
 latitude: 35.35248
 longitude: -94.42758
 postcode: "72901"
 city: Fort Smith
-street: "Wheeler Avenue"
-housenumber: 3316
+street: Wheeler Avenue
+housenumber: "3316"
 phone: "+14797833403"
-opening_hours: "24/7"
-website: "http://www.thehydrationstations.com/locations.html"
+opening_hours: 24/7
+website: http://www.thehydrationstations.com/locations.html

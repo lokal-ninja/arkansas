@@ -1,11 +1,11 @@
 id: 1109010927
-type: way
+type: node
 latitude: 34.80162
 longitude: -92.4381
 postcode: "72223"
 city: Little Rock
-street: "Cantrell Road"
-housenumber: 14820
-phone: "+1-501-868-6324"
-opening_hours: "07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-14820+cantrell+rd-little+rock-ar-72223/id=7284"
+street: Cantrell Road
+housenumber: "14820"
+phone: +1-501-868-6324
+opening_hours: 07:00-22:00
+website: https://www.walgreens.com/locator/walgreens-14820+cantrell+rd-little+rock-ar-72223/id=7284

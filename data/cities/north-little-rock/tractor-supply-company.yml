@@ -1,11 +1,11 @@
 id: 918528796
-type: way
+type: node
 latitude: 34.8023
 longitude: -92.21173
 postcode: "72117"
 city: North Little Rock
-street: "Landers Road"
-housenumber: 5470
-phone: "+1 501-945-2906"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Landers Road
+housenumber: "5470"
+phone: +1 501-945-2906
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

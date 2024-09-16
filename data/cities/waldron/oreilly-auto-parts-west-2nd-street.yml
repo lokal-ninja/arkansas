@@ -1,11 +1,11 @@
 id: 1270455485
-type: way
+type: node
 latitude: 34.90051
 longitude: -94.10294
 postcode: "72958"
 city: Waldron
-street: "West 2nd Street"
-housenumber: 1082
+street: West 2nd Street
+housenumber: "1082"
 phone: ""
 opening_hours: ""
 website: ""

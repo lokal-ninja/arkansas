@@ -1,11 +1,11 @@
 id: 1126103442
-type: way
+type: node
 latitude: 34.60924
 longitude: -92.54033
 postcode: "72019"
 city: Benton
-street: "AR 5"
-housenumber: 1515
-phone: "+1-501-794-0820"
+street: AR 5
+housenumber: "1515"
+phone: +1-501-794-0820
 opening_hours: ""
 website: ""

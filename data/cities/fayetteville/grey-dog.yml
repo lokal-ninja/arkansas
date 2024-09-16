@@ -1,11 +1,11 @@
 id: 466556359
-type: way
+type: node
 latitude: 36.07454
 longitude: -94.15713
 postcode: "72701"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 824
-phone: "+1 479 521 1582"
-opening_hours: "Mo-Sa 11:00-18:00; Su 12:00-17:00"
-website: "https://shopgreydog.com/"
+street: North College Avenue
+housenumber: "824"
+phone: +1 479 521 1582
+opening_hours: Mo-Sa 11:00-18:00; Su 12:00-17:00
+website: https://shopgreydog.com/

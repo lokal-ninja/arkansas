@@ -1,11 +1,11 @@
 id: 565909822
-type: way
+type: node
 latitude: 35.76932
 longitude: -91.63884
 postcode: "72501"
 city: Batesville
-street: "Harrison Street"
-housenumber: 1488
-phone: "+1-870-793-5527"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/ar/batesville/autoparts-813.html"
+street: Harrison Street
+housenumber: "1488"
+phone: +1-870-793-5527
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/ar/batesville/autoparts-813.html

@@ -1,11 +1,11 @@
 id: 934342514
-type: way
+type: node
 latitude: 33.45928
 longitude: -93.99853
 postcode: "71854"
 city: Texarkana
-street: "East Broad Street"
-housenumber: 3809
+street: East Broad Street
+housenumber: "3809"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 466549792
-type: way
+type: node
 latitude: 36.07769
 longitude: -94.15673
 postcode: "72703"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 1108
-phone: "+1 479 301 2256"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.beautifullivesboutique.com/"
+street: North College Avenue
+housenumber: "1108"
+phone: +1 479 301 2256
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.beautifullivesboutique.com/

@@ -1,11 +1,11 @@
 id: 1256130440
-type: way
+type: node
 latitude: 35.39412
 longitude: -93.11357
 postcode: "72837"
 city: Dover
-street: "Market Street"
-housenumber: 9152
-phone: "+1-479-970-5267"
+street: Market Street
+housenumber: "9152"
+phone: +1-479-970-5267
 opening_hours: ""
 website: ""

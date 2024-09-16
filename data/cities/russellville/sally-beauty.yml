@@ -1,11 +1,11 @@
 id: 911632125
-type: way
+type: node
 latitude: 35.28051
 longitude: -93.09586
 postcode: "72802"
 city: Russellville
-street: "East Main Street"
-housenumber: 3091
-phone: "+1-479-498-2029"
+street: East Main Street
+housenumber: "3091"
+phone: +1-479-498-2029
 opening_hours: ""
 website: ""

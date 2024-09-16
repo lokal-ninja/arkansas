@@ -1,11 +1,11 @@
 id: 584497732
-type: way
+type: node
 latitude: 34.95369
 longitude: -92.00729
 postcode: "72023"
 city: Cabot
-street: "South Pine Street"
-housenumber: 1203
-phone: "+1 501-628-9200"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.walmart.com/store/6975/cabot-ar/whats-new"
+street: South Pine Street
+housenumber: "1203"
+phone: +1 501-628-9200
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.walmart.com/store/6975/cabot-ar/whats-new

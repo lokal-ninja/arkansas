@@ -1,11 +1,11 @@
 id: 488694514
-type: way
+type: node
 latitude: 36.10875
 longitude: -94.17903
 postcode: "72704"
 city: Fayetteville
-street: "West Showroom Drive"
-housenumber: 1384
-phone: "+1 866 981 3045"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hondaoffayetteville.com/"
+street: West Showroom Drive
+housenumber: "1384"
+phone: +1 866 981 3045
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hondaoffayetteville.com/

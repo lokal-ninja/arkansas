@@ -1,11 +1,11 @@
 id: 1287230884
-type: way
+type: node
 latitude: 34.74673
 longitude: -92.16601
 postcode: "72117"
 city: North Little Rock
-street: "Faulkner Lake Road"
-housenumber: 8720
+street: Faulkner Lake Road
+housenumber: "8720"
 phone: ""
 opening_hours: ""
-website: "https://haletrailer.com/locations/little-rock-ar/"
+website: https://haletrailer.com/locations/little-rock-ar/

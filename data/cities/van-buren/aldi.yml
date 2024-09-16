@@ -1,11 +1,11 @@
 id: 933701408
-type: way
+type: node
 latitude: 35.4714
 longitude: -94.35776
 postcode: "72956"
 city: Van Buren
-street: "Fayetteville Road"
-housenumber: 2309
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ar/van-buren/2309-fayetteville-road"
+street: Fayetteville Road
+housenumber: "2309"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ar/van-buren/2309-fayetteville-road

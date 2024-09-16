@@ -1,11 +1,11 @@
 id: 1002820594
-type: way
+type: node
 latitude: 36.44069
 longitude: -94.23567
 postcode: "72714"
 city: Bella Vista
-street: "Sugar Creek Center"
-housenumber: 30
+street: Sugar Creek Center
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

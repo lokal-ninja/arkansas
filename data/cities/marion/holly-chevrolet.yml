@@ -1,11 +1,11 @@
 id: 1287059028
-type: way
+type: node
 latitude: 35.25551
 longitude: -90.22526
 postcode: "72364"
 city: Marion
-street: "I-55 Service Road"
-housenumber: 6601
+street: I-55 Service Road
+housenumber: "6601"
 phone: ""
 opening_hours: ""
 website: ""

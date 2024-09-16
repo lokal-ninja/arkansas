@@ -1,11 +1,11 @@
 id: 481896369
-type: way
+type: node
 latitude: 36.09963
 longitude: -94.1515
 postcode: "72703"
 city: Fayetteville
-street: "North Drake Street"
-housenumber: 2703
-phone: "+1 479 442 2422"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-19:00"
-website: "https://www.pottershousethrift.com/home"
+street: North Drake Street
+housenumber: "2703"
+phone: +1 479 442 2422
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-19:00
+website: https://www.pottershousethrift.com/home

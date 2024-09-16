@@ -1,11 +1,11 @@
 id: 467819628
-type: way
+type: node
 latitude: 36.06398
 longitude: -94.16021
 postcode: "72701"
 city: Fayetteville
-street: "North Block Avenue"
-housenumber: 106
-phone: "+1 479 443 2323"
+street: North Block Avenue
+housenumber: "106"
+phone: +1 479 443 2323
 opening_hours: ""
-website: "https://www.facebook.com/darkstarvisuals/"
+website: https://www.facebook.com/darkstarvisuals/

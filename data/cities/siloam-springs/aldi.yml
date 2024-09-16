@@ -1,11 +1,11 @@
 id: 280177472
-type: way
+type: node
 latitude: 36.18026
 longitude: -94.51345
 postcode: "72761"
 city: Siloam Springs
-street: "Highway 412 East"
-housenumber: 2802
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ar/siloam-springs/2802-hwy-412-east"
+street: Highway 412 East
+housenumber: "2802"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ar/siloam-springs/2802-hwy-412-east

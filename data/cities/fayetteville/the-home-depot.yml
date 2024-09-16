@@ -1,11 +1,11 @@
 id: 113108367
-type: way
+type: node
 latitude: 36.1214
 longitude: -94.14788
 postcode: "72703"
 city: Fayetteville
-street: "East Joyce Boulevard"
-housenumber: 675
-phone: "+1 479-571-4700"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-18:00"
-website: "https://www.homedepot.com/l/Fayetteville-AR/AR/Fayetteville/72703/1403"
+street: East Joyce Boulevard
+housenumber: "675"
+phone: +1 479-571-4700
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-18:00
+website: https://www.homedepot.com/l/Fayetteville-AR/AR/Fayetteville/72703/1403

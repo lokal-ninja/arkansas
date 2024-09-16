@@ -1,11 +1,11 @@
 id: 750628607
-type: way
+type: node
 latitude: 36.17191
 longitude: -94.18313
 postcode: "72762"
 city: Springdale
-street: "South 48th Street"
-housenumber: 1591
-phone: "+1 479 751 2444"
+street: South 48th Street
+housenumber: "1591"
+phone: +1 479 751 2444
 opening_hours: ""
-website: "http://heritageofnwa.com/"
+website: http://heritageofnwa.com/

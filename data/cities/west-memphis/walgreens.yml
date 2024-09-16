@@ -1,11 +1,11 @@
 id: 384668101
-type: way
+type: node
 latitude: 35.16702
 longitude: -90.18636
 postcode: "72301"
 city: West Memphis
-street: "North Missouri Street"
-housenumber: 1800
+street: North Missouri Street
+housenumber: "1800"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1800+n+missouri+st-west+memphis-ar-72301/id=5789"
+website: https://www.walgreens.com/locator/walgreens-1800+n+missouri+st-west+memphis-ar-72301/id=5789

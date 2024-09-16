@@ -1,11 +1,11 @@
 id: 1202473869
-type: way
+type: node
 latitude: 35.07718
 longitude: -91.89414
-postcode: "72012-2105"
+postcode: 72012-2105
 city: Beebe
-street: "West Dewitt Henry Drive"
-housenumber: 905
-phone: "+1 501-232-5155"
-opening_hours: "Mo-Sa 07:30-18:00"
+street: West Dewitt Henry Drive
+housenumber: "905"
+phone: +1 501-232-5155
+opening_hours: Mo-Sa 07:30-18:00
 website: ""

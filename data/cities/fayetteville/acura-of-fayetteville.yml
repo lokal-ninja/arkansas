@@ -1,11 +1,11 @@
 id: 488694507
-type: way
+type: node
 latitude: 36.10806
 longitude: -94.17929
 postcode: "72704"
 city: Fayetteville
-street: "West Showroom Drive"
-housenumber: 1418
-phone: "+1 877 372 0429"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.acuraoffayetteville.com/"
+street: West Showroom Drive
+housenumber: "1418"
+phone: +1 877 372 0429
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.acuraoffayetteville.com/

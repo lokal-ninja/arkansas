@@ -1,11 +1,11 @@
 id: 466556457
-type: way
+type: node
 latitude: 36.0759
 longitude: -94.15665
 postcode: "72701"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 928
-phone: "+1 479 442 4451"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-15:00"
-website: "https://www.ozarkfloors.com/"
+street: North College Avenue
+housenumber: "928"
+phone: +1 479 442 4451
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-15:00
+website: https://www.ozarkfloors.com/

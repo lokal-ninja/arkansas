@@ -1,11 +1,11 @@
 id: 1311908070
-type: way
+type: node
 latitude: 35.68103
 longitude: -90.55028
 postcode: "72472"
 city: Trumann
-street: "Industrial Park Drive"
-housenumber: 512
-phone: "+1 870-483-1971"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/229/trumann-ar/whats-new"
+street: Industrial Park Drive
+housenumber: "512"
+phone: +1 870-483-1971
+opening_hours: 24/7
+website: https://www.walmart.com/store/229/trumann-ar/whats-new

@@ -1,11 +1,11 @@
 id: 1181058793
-type: way
+type: node
 latitude: 35.62512
 longitude: -91.19616
 postcode: "72112"
 city: Newport
-street: "Rice Road"
-housenumber: 3698
-phone: "+1-870-551-3642"
+street: Rice Road
+housenumber: "3698"
+phone: +1-870-551-3642
 opening_hours: ""
 website: ""

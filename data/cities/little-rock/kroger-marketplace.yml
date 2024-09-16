@@ -1,11 +1,11 @@
 id: 585196283
-type: way
+type: node
 latitude: 34.80466
 longitude: -92.42909
 postcode: "72223"
 city: Little Rock
-street: "Cantrell Road"
-housenumber: 14000
-phone: "+1-501-225-4588"
-opening_hours: "06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ar/little-rock/cantrell-marketplace/025/00622"
+street: Cantrell Road
+housenumber: "14000"
+phone: +1-501-225-4588
+opening_hours: 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ar/little-rock/cantrell-marketplace/025/00622

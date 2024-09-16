@@ -1,11 +1,11 @@
 id: 1154612913
-type: way
+type: node
 latitude: 34.94204
 longitude: -92.0746
 postcode: "72023"
 city: Cabot
-street: "East Republican Road"
-housenumber: 3132
-phone: "501-434-4336"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: East Republican Road
+housenumber: "3132"
+phone: 501-434-4336
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

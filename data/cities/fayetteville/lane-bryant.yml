@@ -1,11 +1,11 @@
 id: 112485443
-type: way
+type: node
 latitude: 36.11686
 longitude: -94.15328
 postcode: "72703"
 city: Fayetteville
-street: "North Shiloh Drive"
-housenumber: 3581
-phone: "+1 479 439 6624"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://stores.lanebryant.com/ar/fayetteville/plus-size-clothing-fayetteville-ar-4770.html"
+street: North Shiloh Drive
+housenumber: "3581"
+phone: +1 479 439 6624
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://stores.lanebryant.com/ar/fayetteville/plus-size-clothing-fayetteville-ar-4770.html

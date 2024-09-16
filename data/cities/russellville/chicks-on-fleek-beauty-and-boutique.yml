@@ -1,11 +1,11 @@
 id: 762384632
-type: way
+type: node
 latitude: 35.27595
 longitude: -93.1342
 postcode: "72801"
 city: Russellville
-street: "South Arkansas Avenue"
-housenumber: 306
+street: South Arkansas Avenue
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

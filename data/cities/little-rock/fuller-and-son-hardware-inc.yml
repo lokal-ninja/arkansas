@@ -1,11 +1,11 @@
 id: 1071295334
-type: way
+type: node
 latitude: 34.76897
 longitude: -92.34025
 postcode: "72207"
 city: Little Rock
-street: "R Street"
-housenumber: 5915
+street: R Street
+housenumber: "5915"
 phone: "+15019169677"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00"
-website: "https://www.fullerandson.com/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00
+website: https://www.fullerandson.com/

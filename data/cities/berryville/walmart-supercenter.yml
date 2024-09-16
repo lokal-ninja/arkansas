@@ -1,11 +1,11 @@
 id: 1250023097
-type: way
+type: node
 latitude: 36.37561
 longitude: -93.58679
 postcode: "72616"
 city: Berryville
-street: "West Trimble Avenue"
-housenumber: 1000
-phone: "+1 870-423-4636"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/76/berryville-ar/whats-new"
+street: West Trimble Avenue
+housenumber: "1000"
+phone: +1 870-423-4636
+opening_hours: 24/7
+website: https://www.walmart.com/store/76/berryville-ar/whats-new

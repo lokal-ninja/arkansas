@@ -1,11 +1,11 @@
 id: 880766681
-type: way
+type: node
 latitude: 36.4197
 longitude: -94.45572
 postcode: "72736"
 city: Gravette
-street: "3rd Avenue Southwest"
-housenumber: 
+street: 3rd Avenue Southwest
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

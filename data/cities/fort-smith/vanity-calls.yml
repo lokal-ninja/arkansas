@@ -1,11 +1,11 @@
 id: 1149737749
-type: way
+type: node
 latitude: 35.33915
 longitude: -94.4157
 postcode: "72901"
 city: Fort Smith
-street: "Phoenix Avenue"
-housenumber: 1715
-phone: "+1 479-648-3514"
+street: Phoenix Avenue
+housenumber: "1715"
+phone: +1 479-648-3514
 opening_hours: ""
-website: "http://www.vanity-calls.com/"
+website: http://www.vanity-calls.com/

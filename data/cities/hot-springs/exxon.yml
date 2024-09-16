@@ -1,11 +1,11 @@
 id: 1117640266
-type: way
+type: node
 latitude: 34.50319
 longitude: -93.05584
 postcode: "71901"
 city: Hot Springs
-street: "Central Avenue"
-housenumber: 1200
-phone: "+1 501-623-7201"
-opening_hours: "06:00-25:00"
-website: "https://www.exxon.com/en/find-station/exxon-hotsprings-ar-expressfoodplaza-200319256"
+street: Central Avenue
+housenumber: "1200"
+phone: +1 501-623-7201
+opening_hours: 06:00-25:00
+website: https://www.exxon.com/en/find-station/exxon-hotsprings-ar-expressfoodplaza-200319256

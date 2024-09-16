@@ -1,11 +1,11 @@
 id: 941518480
-type: way
+type: node
 latitude: 35.30324
 longitude: -94.39503
 postcode: "72908"
 city: Fort Smith
-street: "US Highway 71 South"
-housenumber: 8600
-phone: "+1 479-289-6896"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4579/fort-smith-ar/whats-new"
+street: US Highway 71 South
+housenumber: "8600"
+phone: +1 479-289-6896
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4579/fort-smith-ar/whats-new

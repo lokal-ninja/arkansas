@@ -1,11 +1,11 @@
 id: 223584654
-type: way
+type: node
 latitude: 36.30648
 longitude: -94.17796
 postcode: "72758"
 city: Rogers
-street: "Promenade Boulevard"
-housenumber: 2101
+street: Promenade Boulevard
+housenumber: "2101"
 phone: ""
 opening_hours: ""
 website: ""

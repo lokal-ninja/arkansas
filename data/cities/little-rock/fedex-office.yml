@@ -1,11 +1,11 @@
 id: 597790388
-type: way
+type: node
 latitude: 34.73809
 longitude: -92.27565
 postcode: "72202"
 city: Little Rock
-street: "South Spring Street"
-housenumber: 1121
-phone: "+1-501-372-0775"
-opening_hours: "Mo-Fr 09:00-19:00"
+street: South Spring Street
+housenumber: "1121"
+phone: +1-501-372-0775
+opening_hours: Mo-Fr 09:00-19:00
 website: ""

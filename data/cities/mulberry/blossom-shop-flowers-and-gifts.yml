@@ -1,11 +1,11 @@
 id: 1180055041
-type: way
+type: node
 latitude: 35.49755
 longitude: -94.05172
 postcode: "72947"
 city: Mulberry
-street: "North Main Street"
-housenumber: 210
+street: North Main Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

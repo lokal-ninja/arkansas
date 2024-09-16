@@ -1,11 +1,11 @@
 id: 781900695
-type: way
+type: node
 latitude: 34.66622
 longitude: -92.39484
 postcode: "72209"
 city: Little Rock
-street: "I-30 Frontage Road"
-housenumber: 10900
+street: I-30 Frontage Road
+housenumber: "10900"
 phone: ""
 opening_hours: ""
 website: ""

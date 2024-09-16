@@ -1,11 +1,11 @@
 id: 506286718
-type: way
+type: node
 latitude: 36.17556
 longitude: -94.5578
 postcode: "72761"
 city: Siloam Springs
-street: "South Holly Street"
-housenumber: 935
-phone: "+1 479-549-9060"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/6960/siloam-springs-ar/whats-new"
+street: South Holly Street
+housenumber: "935"
+phone: +1 479-549-9060
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/6960/siloam-springs-ar/whats-new

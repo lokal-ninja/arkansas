@@ -1,11 +1,11 @@
 id: 999350836
-type: way
+type: node
 latitude: 34.5303
 longitude: -93.04917
 postcode: "71901"
 city: Hot Springs National Park
-street: "Park Avenue"
-housenumber: 873
+street: Park Avenue
+housenumber: "873"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 723236324
-type: way
+type: node
 latitude: 35.22042
 longitude: -93.15558
 postcode: "72834"
 city: Dardanelle
-street: "Quay Street"
-housenumber: 207
+street: Quay Street
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 809206951
-type: way
+type: node
 latitude: 34.77977
 longitude: -92.26827
 postcode: "72114"
 city: North Little Rock
-street: "West Pershing Boulevard"
-housenumber: 111
-phone: "+1-501-812-6206"
-opening_hours: "04:30-24:00"
+street: West Pershing Boulevard
+housenumber: "111"
+phone: +1-501-812-6206
+opening_hours: 04:30-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 487562473
-type: way
+type: node
 latitude: 36.12449
 longitude: -94.14718
 postcode: "72703"
 city: Fayetteville
-street: "East Joyce Boulevard"
-housenumber: 744
-phone: "+1 479-444-0002"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.mattressfirm.com/stores/ar/fayetteville/mattress-stores-fayetteville-ar-72703-6157.html"
+street: East Joyce Boulevard
+housenumber: "744"
+phone: +1 479-444-0002
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.mattressfirm.com/stores/ar/fayetteville/mattress-stores-fayetteville-ar-72703-6157.html

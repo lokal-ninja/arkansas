@@ -1,11 +1,11 @@
 id: 1005915247
-type: way
+type: node
 latitude: 35.25501
 longitude: -93.13509
 postcode: "72802"
 city: Russellville
-street: "South Arkansas Avenue"
-housenumber: 2500
+street: South Arkansas Avenue
+housenumber: "2500"
 phone: ""
 opening_hours: ""
-website: "https://vinsonelectric.com/"
+website: https://vinsonelectric.com/

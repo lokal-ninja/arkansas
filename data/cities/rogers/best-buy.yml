@@ -1,11 +1,11 @@
 id: 223325510
-type: way
+type: node
 latitude: 36.30465
 longitude: -94.17994
 postcode: "72758"
 city: Rogers
-street: "Promenade Boulevard"
-housenumber: 2220
-phone: "479-619-2301"
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-19:00"
-website: "https://stores.bestbuy.com/ar/rogers/2220-promenade-blvd-1148.html"
+street: Promenade Boulevard
+housenumber: "2220"
+phone: 479-619-2301
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-19:00
+website: https://stores.bestbuy.com/ar/rogers/2220-promenade-blvd-1148.html

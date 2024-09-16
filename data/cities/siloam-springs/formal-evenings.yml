@@ -1,11 +1,11 @@
 id: 308940525
-type: way
+type: node
 latitude: 36.1864
 longitude: -94.5417
 postcode: "72761"
 city: Siloam Springs
-street: "West University Street"
-housenumber: 103
+street: West University Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

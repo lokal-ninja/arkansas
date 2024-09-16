@@ -1,11 +1,11 @@
 id: 1014887501
-type: way
+type: node
 latitude: 36.13935
 longitude: -93.58473
 postcode: "72740"
 city: Huntsville
-street: "Highway 412"
-housenumber: 22784
+street: Highway 412
+housenumber: "22784"
 phone: ""
 opening_hours: ""
 website: ""

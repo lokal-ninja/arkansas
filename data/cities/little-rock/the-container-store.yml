@@ -1,11 +1,11 @@
 id: 1009564694
-type: way
+type: node
 latitude: 34.75224
 longitude: -92.33918
 postcode: "72205"
 city: Little Rock
-street: "North University Avenue"
-housenumber: 209
-phone: "+1-501-660-7828"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.containerstore.com/locations/showStore.htm?store=LTR"
+street: North University Avenue
+housenumber: "209"
+phone: +1-501-660-7828
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.containerstore.com/locations/showStore.htm?store=LTR

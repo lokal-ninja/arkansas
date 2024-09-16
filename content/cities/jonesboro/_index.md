@@ -1,6 +1,6 @@
 ---
 title: Jonesboro
 url: /jonesboro/
-latitude: 35.792
-longitude: -90.671
+latitude: 35.864
+longitude: -90.623
 ---

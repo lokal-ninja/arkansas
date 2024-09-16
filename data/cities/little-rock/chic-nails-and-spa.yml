@@ -1,11 +1,11 @@
 id: 1079617944
-type: way
+type: node
 latitude: 34.75236
 longitude: -92.40665
 postcode: "72211"
 city: Little Rock
-street: "South Bowman Road"
-housenumber: 301
+street: South Bowman Road
+housenumber: "301"
 phone: "+15012256551"
-opening_hours: "Mo-Sa 09:00-19:00; Su 12:00-17:00"
-website: "https://chicnailslr.com/"
+opening_hours: Mo-Sa 09:00-19:00; Su 12:00-17:00
+website: https://chicnailslr.com/

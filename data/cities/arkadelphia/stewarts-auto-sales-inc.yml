@@ -1,11 +1,11 @@
 id: 1110738625
-type: way
+type: node
 latitude: 34.12093
 longitude: -93.05699
 postcode: "71923"
 city: Arkadelphia
-street: "South 9th Street"
-housenumber: 102
+street: South 9th Street
+housenumber: "102"
 phone: "+18702458547"
 opening_hours: ""
 website: ""

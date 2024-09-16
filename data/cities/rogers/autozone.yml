@@ -1,11 +1,11 @@
 id: 1172228152
-type: way
+type: node
 latitude: 36.33284
 longitude: -94.12515
 postcode: "72756"
 city: Rogers
-street: "South 8th Street"
-housenumber: 119
-phone: "+1 479 636 1306"
+street: South 8th Street
+housenumber: "119"
+phone: +1 479 636 1306
 opening_hours: ""
-website: "https://www.autozone.com/locations/ar/rogers/119-s-8th-st.html"
+website: https://www.autozone.com/locations/ar/rogers/119-s-8th-st.html

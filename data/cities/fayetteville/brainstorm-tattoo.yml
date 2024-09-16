@@ -1,11 +1,11 @@
 id: 466556458
-type: way
+type: node
 latitude: 36.07589
 longitude: -94.15693
 postcode: "72701"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 930
-phone: "+1 479 442 4877"
-opening_hours: "Mo-Th 12:00-20:00; We off; Fr,Sa 12:00-21:00; Su 12:00-18:00"
-website: "http://brainstormtattoo.com/"
+street: North College Avenue
+housenumber: "930"
+phone: +1 479 442 4877
+opening_hours: Mo-Th 12:00-20:00; We off; Fr,Sa 12:00-21:00; Su 12:00-18:00
+website: http://brainstormtattoo.com/

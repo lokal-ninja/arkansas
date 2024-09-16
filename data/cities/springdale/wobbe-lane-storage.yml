@@ -1,11 +1,11 @@
 id: 849286245
-type: way
+type: node
 latitude: 36.20347
 longitude: -94.1235
 postcode: "72764"
 city: Springdale
-street: "East Randall Wobbe Lane"
-housenumber: 598
-phone: "+1 479 927 2111"
+street: East Randall Wobbe Lane
+housenumber: "598"
+phone: +1 479 927 2111
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 786365510
-type: way
+type: node
 latitude: 35.27869
 longitude: -93.09833
 postcode: "72801"
 city: Russellville
-street: "North Hampton Avenue"
-housenumber: 104
+street: North Hampton Avenue
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

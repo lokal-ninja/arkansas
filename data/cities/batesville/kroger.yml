@@ -1,11 +1,11 @@
 id: 564804878
-type: way
+type: node
 latitude: 35.77622
 longitude: -91.63999
 postcode: "72501"
 city: Batesville
-street: "South Saint Louis Street"
-housenumber: 303
-phone: "+1 870-793-2143"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ar/batesville/batesville-ar/025/00687"
+street: South Saint Louis Street
+housenumber: "303"
+phone: +1 870-793-2143
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ar/batesville/batesville-ar/025/00687

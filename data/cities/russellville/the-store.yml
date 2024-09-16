@@ -1,11 +1,11 @@
 id: 960131471
-type: way
+type: node
 latitude: 35.27481
 longitude: -93.12593
 postcode: "72801"
 city: Russellville
-street: "East 4th Street"
-housenumber: 620
-phone: "+1-479-970-9748"
+street: East 4th Street
+housenumber: "620"
+phone: +1-479-970-9748
 opening_hours: ""
 website: ""

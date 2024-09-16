@@ -1,11 +1,11 @@
 id: 1082821811
-type: way
+type: node
 latitude: 35.29703
 longitude: -94.42266
 postcode: "72908"
 city: Fort Smith
-street: "US Highway 271 South"
-housenumber: 9301
+street: US Highway 271 South
+housenumber: "9301"
 phone: ""
 opening_hours: ""
 website: ""

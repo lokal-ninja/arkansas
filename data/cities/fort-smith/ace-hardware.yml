@@ -1,11 +1,11 @@
 id: 1204795312
-type: way
+type: node
 latitude: 35.33748
 longitude: -94.4147
-postcode: "72901-8524"
+postcode: 72901-8524
 city: Fort Smith
-street: "Jenny Lind Road"
-housenumber: 4910
-phone: "+1 479-646-1209"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:30-18:00; Su 09:00-17:00"
+street: Jenny Lind Road
+housenumber: "4910"
+phone: +1 479-646-1209
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:30-18:00; Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 825866594
-type: way
+type: node
 latitude: 35.23678
 longitude: -91.70821
 postcode: "72143"
 city: Searcy
-street: "Janet Drive"
-housenumber: 1307
-phone: "+1 501-263-2889"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/searcy-ar-1262"
+street: Janet Drive
+housenumber: "1307"
+phone: +1 501-263-2889
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/searcy-ar-1262

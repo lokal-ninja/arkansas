@@ -1,11 +1,11 @@
 id: 1215912006
-type: way
+type: node
 latitude: 35.45346
 longitude: -94.30259
 postcode: "72956"
 city: Van Burren
-street: "Alma Highway"
-housenumber: 4508
+street: Alma Highway
+housenumber: "4508"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 574636593
-type: way
+type: node
 latitude: 35.80641
 longitude: -90.70372
 postcode: "72404"
 city: Jonesboro
-street: "East Parker Road"
-housenumber: 711
-phone: "+1 870-268-0619"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/jonesboro-ar/ar/jonesboro/72404/1406"
+street: East Parker Road
+housenumber: "711"
+phone: +1 870-268-0619
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/jonesboro-ar/ar/jonesboro/72404/1406

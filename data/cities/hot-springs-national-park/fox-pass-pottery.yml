@@ -1,11 +1,11 @@
 id: 999352721
-type: way
+type: node
 latitude: 34.55244
 longitude: -93.02473
 postcode: "71901"
 city: Hot Springs National Park
-street: "Fox Pass Cutoff"
-housenumber: 379
+street: Fox Pass Cutoff
+housenumber: "379"
 phone: ""
 opening_hours: ""
 website: ""

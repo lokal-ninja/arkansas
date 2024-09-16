@@ -1,11 +1,11 @@
 id: 1126610835
-type: way
+type: node
 latitude: 35.14625
 longitude: -90.18442
 postcode: "72301"
 city: West Memphis
-street: "East Broadway Boulevard"
-housenumber: 101
-phone: "+1-870-514-1600"
-opening_hours: "Tu-Su 05:00-22:00; Mo 06:00-22:00"
+street: East Broadway Boulevard
+housenumber: "101"
+phone: +1-870-514-1600
+opening_hours: Tu-Su 05:00-22:00; Mo 06:00-22:00
 website: ""

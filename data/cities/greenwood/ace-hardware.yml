@@ -1,11 +1,11 @@
 id: 1133340592
-type: way
+type: node
 latitude: 35.21747
 longitude: -94.26906
-postcode: "72936-3724"
+postcode: 72936-3724
 city: Greenwood
-street: "West Center Street"
-housenumber: 814
-phone: "+1 479-996-0670"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:30-18:00; Su 09:00-17:00"
+street: West Center Street
+housenumber: "814"
+phone: +1 479-996-0670
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:30-18:00; Su 09:00-17:00
 website: ""

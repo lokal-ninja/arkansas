@@ -1,11 +1,11 @@
 id: 1079617942
-type: way
+type: node
 latitude: 34.75264
 longitude: -92.40664
 postcode: "72211"
 city: Little Rock
-street: "South Bowman Road"
-housenumber: 301
+street: South Bowman Road
+housenumber: "301"
 phone: "+15012170505"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-16:00"
-website: "https://www.mattresskinginfo.com/locations/little_rock_ar.html"
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-16:00
+website: https://www.mattresskinginfo.com/locations/little_rock_ar.html

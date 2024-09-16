@@ -1,11 +1,11 @@
 id: 893586117
-type: way
+type: node
 latitude: 34.23061
 longitude: -92.043
 postcode: "71601"
 city: Pine Bluff
-street: "North Blake Street"
-housenumber: 101
+street: North Blake Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

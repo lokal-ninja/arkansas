@@ -1,11 +1,11 @@
 id: 753555511
-type: way
+type: node
 latitude: 36.1741
 longitude: -94.1393
 postcode: "72764"
 city: Springdale
-street: "South Thompson Street"
-housenumber: 1100
+street: South Thompson Street
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

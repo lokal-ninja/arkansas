@@ -1,11 +1,11 @@
 id: 934742221
-type: way
+type: node
 latitude: 36.3329
 longitude: -94.13612
 postcode: "72756"
 city: Rogers
-street: "West Walnut Street"
-housenumber: 1316
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ar/rogers/1316-west-walnut"
+street: West Walnut Street
+housenumber: "1316"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ar/rogers/1316-west-walnut

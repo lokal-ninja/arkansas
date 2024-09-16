@@ -1,11 +1,11 @@
 id: 293183845
-type: way
+type: node
 latitude: 35.46787
 longitude: -94.354
 postcode: "72956"
 city: Van Buren
-street: "Fayetteville Road"
-housenumber: 2120
-phone: "+1 479-494-4470"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ar-van-buren/2598"
+street: Fayetteville Road
+housenumber: "2120"
+phone: +1 479-494-4470
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ar-van-buren/2598

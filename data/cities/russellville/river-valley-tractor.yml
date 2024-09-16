@@ -1,11 +1,11 @@
 id: 762406692
-type: way
+type: node
 latitude: 35.28378
 longitude: -93.10633
 postcode: "72802"
 city: Russellville
-street: "Weir Road"
-housenumber: 702
-phone: "+1-479-968-3795"
+street: Weir Road
+housenumber: "702"
+phone: +1-479-968-3795
 opening_hours: ""
-website: "https://www.rivervalleytractor.com/"
+website: https://www.rivervalleytractor.com/

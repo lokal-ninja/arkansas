@@ -1,11 +1,11 @@
 id: 723236342
-type: way
+type: node
 latitude: 35.21726
 longitude: -93.16669
 postcode: "72834"
 city: Dardanelle
-street: "North State Highway 7"
-housenumber: 1172
-phone: "+1 479-229-2502"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/296/dardanelle-ar/whats-new"
+street: North State Highway 7
+housenumber: "1172"
+phone: +1 479-229-2502
+opening_hours: 24/7
+website: https://www.walmart.com/store/296/dardanelle-ar/whats-new

@@ -1,11 +1,11 @@
 id: 1244645704
-type: way
+type: node
 latitude: 35.2539
 longitude: -92.93904
 postcode: "72823"
 city: Atkins
-street: "Crow Mountain Drive"
-housenumber: 206
-phone: "+1-479-641-2285"
+street: Crow Mountain Drive
+housenumber: "206"
+phone: +1-479-641-2285
 opening_hours: ""
 website: ""

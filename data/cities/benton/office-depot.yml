@@ -1,11 +1,11 @@
 id: 1091598440
-type: way
+type: node
 latitude: 34.57942
 longitude: -92.5731
 postcode: "72015"
 city: Benton
-street: "Military Road"
-housenumber: 1621
-phone: "+1 501-776-1368"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.officedepot.com/storelocator/ar/benton/office-depot-2155"
+street: Military Road
+housenumber: "1621"
+phone: +1 501-776-1368
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-17:00
+website: https://www.officedepot.com/storelocator/ar/benton/office-depot-2155

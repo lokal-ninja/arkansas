@@ -1,11 +1,11 @@
 id: 911632122
-type: way
+type: node
 latitude: 35.28108
 longitude: -93.09504
 postcode: "72802"
 city: Russellville
-street: "East Main Street"
-housenumber: 3093
-phone: "+1-479-967-9082"
+street: East Main Street
+housenumber: "3093"
+phone: +1-479-967-9082
 opening_hours: ""
-website: "https://www.belk.com/store/russellville-ar/?StoreID=359"
+website: https://www.belk.com/store/russellville-ar/?StoreID=359

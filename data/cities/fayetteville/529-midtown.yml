@@ -1,11 +1,11 @@
 id: 470105667
-type: way
+type: node
 latitude: 36.07102
 longitude: -94.15822
 postcode: "72701"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 529
-phone: "+1 479 442 7433"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.facebook.com/529-Midtown-331995213525596/"
+street: North College Avenue
+housenumber: "529"
+phone: +1 479 442 7433
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.facebook.com/529-Midtown-331995213525596/

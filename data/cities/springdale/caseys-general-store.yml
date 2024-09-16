@@ -1,11 +1,11 @@
 id: 735322257
-type: way
+type: node
 latitude: 36.1531
 longitude: -94.18329
 postcode: "72762"
 city: Springdale
-street: "West Don Tyson Parkway"
-housenumber: 4751
-phone: "+1 479 751 0149"
-opening_hours: "24/7"
-website: "https://www.caseys.com/general-store/ar-springdale/4751-w-don-tyson-pkwy/3414"
+street: West Don Tyson Parkway
+housenumber: "4751"
+phone: +1 479 751 0149
+opening_hours: 24/7
+website: https://www.caseys.com/general-store/ar-springdale/4751-w-don-tyson-pkwy/3414

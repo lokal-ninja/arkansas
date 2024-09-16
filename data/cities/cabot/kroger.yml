@@ -1,11 +1,11 @@
 id: 267435343
-type: way
+type: node
 latitude: 34.97547
 longitude: -92.02924
 postcode: "72023"
 city: Cabot
-street: "West Main Street"
-housenumber: 1295
-phone: "+1 501-628-5187"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ar/cabot/cabot/025/00613"
+street: West Main Street
+housenumber: "1295"
+phone: +1 501-628-5187
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ar/cabot/cabot/025/00613

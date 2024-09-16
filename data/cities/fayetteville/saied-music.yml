@@ -1,11 +1,11 @@
 id: 483131370
-type: way
+type: node
 latitude: 36.10411
 longitude: -94.17825
 postcode: "72704"
 city: Fayetteville
-street: "North Point Circle"
-housenumber: 2880
+street: North Point Circle
+housenumber: "2880"
 phone: ""
 opening_hours: ""
 website: ""

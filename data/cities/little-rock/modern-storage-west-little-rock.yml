@@ -1,11 +1,11 @@
 id: 1044161210
-type: way
+type: node
 latitude: 34.74887
 longitude: -92.40264
 postcode: "72211"
 city: Little Rock
-street: "Autumn Road"
-housenumber: 601
-phone: "+1-501-812-6500"
-opening_hours: "Mo-Sa 08:30-17:30"
-website: "https://www.modernstorage.com/self-storage-little-rock-ar-f5198"
+street: Autumn Road
+housenumber: "601"
+phone: +1-501-812-6500
+opening_hours: Mo-Sa 08:30-17:30
+website: https://www.modernstorage.com/self-storage-little-rock-ar-f5198

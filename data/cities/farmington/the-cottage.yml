@@ -1,11 +1,11 @@
 id: 496567962
-type: way
+type: node
 latitude: 36.04306
 longitude: -94.23892
 postcode: "72730"
 city: Farmington
-street: "East Main Street"
-housenumber: 34
-phone: "+1 501 266 0994"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://the-cottage-beauty-salon.business.site/"
+street: East Main Street
+housenumber: "34"
+phone: +1 501 266 0994
+opening_hours: Mo-Sa 09:00-17:00
+website: https://the-cottage-beauty-salon.business.site/

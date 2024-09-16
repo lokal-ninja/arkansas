@@ -1,11 +1,11 @@
 id: 487759021
-type: way
+type: node
 latitude: 36.33971
 longitude: -94.11614
 postcode: "72756"
 city: Rogers
-street: "North 2nd Street"
-housenumber: 715
+street: North 2nd Street
+housenumber: "715"
 phone: ""
 opening_hours: ""
 website: ""

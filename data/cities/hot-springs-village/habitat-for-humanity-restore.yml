@@ -1,11 +1,11 @@
 id: 1109693661
-type: way
+type: node
 latitude: 34.63791
 longitude: -93.0601
 postcode: "71909"
 city: Hot Springs Village
-street: "AR 7"
-housenumber: 3825
+street: AR 7
+housenumber: "3825"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1298948620
-type: way
+type: node
 latitude: 36.07052
 longitude: -90.95951
 postcode: "72476"
 city: Walnut Ridge
-street: "West Main Street"
-housenumber: 401
+street: West Main Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 262602270
-type: way
+type: node
 latitude: 35.38113
 longitude: -94.42564
 postcode: "72901"
 city: Fort Smith
-street: "Wheeler Avenue"
-housenumber: 307
+street: Wheeler Avenue
+housenumber: "307"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

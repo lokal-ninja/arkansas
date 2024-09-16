@@ -1,11 +1,11 @@
 id: 70541286
-type: way
+type: node
 latitude: 35.0907
 longitude: -92.40167
 postcode: "72032"
 city: Conway
-street: "East German Lane"
-housenumber: 811
-phone: "+1-501-932-6688"
-opening_hours: "24/7"
+street: East German Lane
+housenumber: "811"
+phone: +1-501-932-6688
+opening_hours: 24/7
 website: ""

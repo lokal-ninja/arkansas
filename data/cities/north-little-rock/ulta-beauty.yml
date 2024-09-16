@@ -1,11 +1,11 @@
 id: 918407953
-type: way
+type: node
 latitude: 34.79801
 longitude: -92.23154
 postcode: "72116"
 city: North Little Rock
-street: "Lakewood Village Drive"
-housenumber: 2743
-phone: "+1 501-771-0626"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/north-little-rock-ar-780"
+street: Lakewood Village Drive
+housenumber: "2743"
+phone: +1 501-771-0626
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/north-little-rock-ar-780

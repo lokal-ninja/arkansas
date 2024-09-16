@@ -1,11 +1,11 @@
 id: 376899136
-type: way
+type: node
 latitude: 34.74967
 longitude: -92.28258
 postcode: "72201"
 city: Little Rock
-street: "West Markham Street"
-housenumber: 1101
-phone: "+1-501-683-8400"
-opening_hours: "Mo-Fr 10:00-18:00"
+street: West Markham Street
+housenumber: "1101"
+phone: +1-501-683-8400
+opening_hours: Mo-Fr 10:00-18:00
 website: ""

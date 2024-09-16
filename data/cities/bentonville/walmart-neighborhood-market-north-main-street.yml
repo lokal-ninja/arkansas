@@ -1,11 +1,11 @@
 id: 533179978
-type: way
+type: node
 latitude: 36.37395
 longitude: -94.20942
 postcode: "72712"
 city: Bentonville
-street: "North Main Street"
-housenumber: 205
-phone: "+1 479-268-9244"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.walmart.com/store/3164/bentonville-ar/whats-new"
+street: North Main Street
+housenumber: "205"
+phone: +1 479-268-9244
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.walmart.com/store/3164/bentonville-ar/whats-new

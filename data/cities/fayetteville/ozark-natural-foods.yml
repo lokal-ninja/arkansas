@@ -1,11 +1,11 @@
 id: 467353095
-type: way
+type: node
 latitude: 36.068
 longitude: -94.15689
 postcode: "72701"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 380
-phone: "+1 479 521 7558"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-21:00"
-website: "https://onf.coop/"
+street: North College Avenue
+housenumber: "380"
+phone: +1 479 521 7558
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-21:00
+website: https://onf.coop/

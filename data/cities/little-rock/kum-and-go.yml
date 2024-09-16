@@ -1,11 +1,11 @@
 id: 1272219465
-type: way
+type: node
 latitude: 34.67045
 longitude: -92.36245
 postcode: "72209"
 city: Little Rock
-street: "Baseline Road"
-housenumber: 7620
-phone: "+1-501=907=7513"
-opening_hours: "24/7"
-website: "https://www.kumandgo.com/store-locator?details=0146"
+street: Baseline Road
+housenumber: "7620"
+phone: +1-501=907=7513
+opening_hours: 24/7
+website: https://www.kumandgo.com/store-locator?details=0146

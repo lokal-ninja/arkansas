@@ -1,11 +1,11 @@
 id: 592520233
-type: way
+type: node
 latitude: 35.36482
 longitude: -94.37924
 postcode: "72903"
 city: Fort Smith
-street: "Rogers Avenue"
-housenumber: 4900
-phone: "+1 479-221-9462"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ar/fort-smith-store2331.html"
+street: Rogers Avenue
+housenumber: "4900"
+phone: +1 479-221-9462
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ar/fort-smith-store2331.html

@@ -1,11 +1,11 @@
 id: 1057752606
-type: way
+type: node
 latitude: 34.75261
 longitude: -92.36953
 postcode: "72205"
 city: Little Rock
-street: "West Markham Street"
-housenumber: 8513
+street: West Markham Street
+housenumber: "8513"
 phone: "+15016638253"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://bestwayrto.com/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://bestwayrto.com/

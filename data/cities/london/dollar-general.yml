@@ -1,11 +1,11 @@
 id: 911971346
-type: way
+type: node
 latitude: 35.33221
 longitude: -93.25261
 postcode: "72847"
 city: London
-street: "US 64"
-housenumber: 10362
-phone: "+1-501-242-5395"
+street: US 64
+housenumber: "10362"
+phone: +1-501-242-5395
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ar/london/11620"
+website: https://www.dollargeneral.com/store-directory/ar/london/11620

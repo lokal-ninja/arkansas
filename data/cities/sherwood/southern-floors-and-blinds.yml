@@ -1,11 +1,11 @@
 id: 1000334835
-type: way
+type: node
 latitude: 34.83247
 longitude: -92.1778
 postcode: "72120"
 city: Sherwood
-street: "Warden Road"
-housenumber: 8713
-phone: "+1-501-214-0268"
+street: Warden Road
+housenumber: "8713"
+phone: +1-501-214-0268
 opening_hours: ""
 website: ""

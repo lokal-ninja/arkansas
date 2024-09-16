@@ -1,11 +1,11 @@
 id: 918528750
-type: way
+type: node
 latitude: 34.79812
 longitude: -92.23625
 postcode: "72116"
 city: North Little Rock
-street: "McCain Boulevard"
-housenumber: 2509
+street: McCain Boulevard
+housenumber: "2509"
 phone: ""
-opening_hours: "06:00-01:00"
-website: "https://www.kroger.com/stores/grocery/ar/north-little-rock/mccain/025/00639"
+opening_hours: 06:00-01:00
+website: https://www.kroger.com/stores/grocery/ar/north-little-rock/mccain/025/00639

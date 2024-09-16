@@ -1,11 +1,11 @@
 id: 918503017
-type: way
+type: node
 latitude: 34.78748
 longitude: -92.22149
 postcode: "72117"
 city: Little Rock
-street: "East McCain Road"
-housenumber: 4220
-phone: "+1 501-955-9300"
-opening_hours: "Mo-Th 08:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/ar/little-rock/313"
+street: East McCain Road
+housenumber: "4220"
+phone: +1 501-955-9300
+opening_hours: Mo-Th 08:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/ar/little-rock/313

@@ -1,11 +1,11 @@
 id: 820246463
-type: way
+type: node
 latitude: 36.1772
 longitude: -94.18811
 postcode: "72762"
 city: Springdale
-street: "West Sunset Avenue"
-housenumber: 5244
-phone: "+1 479 750 4119"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:30"
-website: "https://www.hobbylobby.com/store/35?lat=36.1675026&long=-94.21283369999999"
+street: West Sunset Avenue
+housenumber: "5244"
+phone: +1 479 750 4119
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-17:30
+website: https://www.hobbylobby.com/store/35?lat=36.1675026&long=-94.21283369999999

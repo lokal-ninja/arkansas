@@ -1,11 +1,11 @@
 id: 1191530396
-type: way
+type: node
 latitude: 36.12398
 longitude: -94.14419
 postcode: "72703"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 4020
-phone: "+1 479 595 0208"
-opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-17:00"
-website: "https://www.take5.com/locations/oil-change/arkansas/fayetteville/30694/"
+street: North College Avenue
+housenumber: "4020"
+phone: +1 479 595 0208
+opening_hours: Mo-Sa 07:00-19:00; Su 09:00-17:00
+website: https://www.take5.com/locations/oil-change/arkansas/fayetteville/30694/

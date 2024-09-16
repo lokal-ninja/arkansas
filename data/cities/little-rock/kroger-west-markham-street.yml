@@ -1,11 +1,11 @@
 id: 297477826
-type: way
+type: node
 latitude: 34.75217
 longitude: -92.36868
 postcode: "72205"
 city: Little Rock
-street: "West Markham Street"
-housenumber: 8415
-phone: "+1 501-227-7262"
+street: West Markham Street
+housenumber: "8415"
+phone: +1 501-227-7262
 opening_hours: ""
-website: "https://www.kroger.com/stores/grocery/ar/little-rock/markham/025/00630"
+website: https://www.kroger.com/stores/grocery/ar/little-rock/markham/025/00630

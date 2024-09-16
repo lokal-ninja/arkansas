@@ -1,11 +1,11 @@
 id: 767365578
-type: way
+type: node
 latitude: 35.09611
 longitude: -92.42576
 postcode: "72032"
 city: Conway
-street: "Collier Drive"
-housenumber: 1213
+street: Collier Drive
+housenumber: "1213"
 phone: ""
 opening_hours: ""
 website: ""

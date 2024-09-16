@@ -1,11 +1,11 @@
 id: 1153458611
-type: way
+type: node
 latitude: 33.2669
 longitude: -93.24148
 postcode: "71753"
 city: Magnolia
-street: "South Jefferson Street"
-housenumber: 103
+street: South Jefferson Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

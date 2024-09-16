@@ -1,11 +1,11 @@
 id: 1136125178
-type: way
+type: node
 latitude: 34.90535
 longitude: -91.20029
 postcode: "72021"
 city: Brinkley
-street: "Pinecrest Street"
-housenumber: 1413
-phone: "+1-870-589-2369"
-opening_hours: "Su-Th 07:00-21:00; Fr-Sa 07:00-22:00"
+street: Pinecrest Street
+housenumber: "1413"
+phone: +1-870-589-2369
+opening_hours: Su-Th 07:00-21:00; Fr-Sa 07:00-22:00
 website: ""

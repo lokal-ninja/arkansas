@@ -1,11 +1,11 @@
 id: 918502987
-type: way
+type: node
 latitude: 34.79106
 longitude: -92.22255
 postcode: "72217"
 city: North Little Rock
-street: "East McCain Boulevard"
-housenumber: 4213
-phone: "+1 501-945-1600"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ar/north-little-rock/4213-e-mccain-boulevard"
+street: East McCain Boulevard
+housenumber: "4213"
+phone: +1 501-945-1600
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ar/north-little-rock/4213-e-mccain-boulevard

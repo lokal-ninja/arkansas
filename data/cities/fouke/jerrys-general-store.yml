@@ -1,11 +1,11 @@
 id: 949562401
-type: way
+type: node
 latitude: 33.26191
 longitude: -93.88625
 postcode: "71837"
 city: Fouke
-street: "North Jenkins Expressway"
-housenumber: 107
+street: North Jenkins Expressway
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

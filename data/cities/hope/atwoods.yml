@@ -1,11 +1,11 @@
 id: 952812998
-type: way
+type: node
 latitude: 33.66698
 longitude: -93.5956
 postcode: "71801"
 city: Hope
-street: "South Hervey Street"
-housenumber: 201
+street: South Hervey Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

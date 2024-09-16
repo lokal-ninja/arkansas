@@ -1,11 +1,11 @@
 id: 1271093636
-type: way
+type: node
 latitude: 34.75343
 longitude: -92.34057
 postcode: "72205"
 city: Little Rock
-street: "North University Avenue"
-housenumber: 201
-phone: "+1-501-558-3030"
-opening_hours: "Mo=Sa 10:00-20:00; Su 12:00-16:00"
+street: North University Avenue
+housenumber: "201"
+phone: +1-501-558-3030
+opening_hours: Mo=Sa 10:00-20:00; Su 12:00-16:00
 website: ""

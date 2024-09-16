@@ -1,11 +1,11 @@
 id: 903249019
-type: way
+type: node
 latitude: 35.21123
 longitude: -90.20563
 postcode: "72364"
 city: Marion
-street: "I-55 Service Road"
-housenumber: 3312
+street: I-55 Service Road
+housenumber: "3312"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ar/marion/autoparts-5356.html"
+website: https://locations.oreillyauto.com/ar/marion/autoparts-5356.html

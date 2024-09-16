@@ -1,11 +1,11 @@
 id: 1203052391
-type: way
+type: node
 latitude: 36.03054
 longitude: -90.52346
 postcode: "72450"
 city: Paragould
-street: "Linwood Drive"
-housenumber: 2600
-phone: "+1 870-586-7946"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5780/paragould-ar/whats-new"
+street: Linwood Drive
+housenumber: "2600"
+phone: +1 870-586-7946
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5780/paragould-ar/whats-new

@@ -1,11 +1,11 @@
 id: 954034770
-type: way
+type: node
 latitude: 35.28599
 longitude: -93.3893
 postcode: "72835"
 city: New Blaine
-street: "AR 22"
-housenumber: 21276
-phone: "+1-479-938-7154"
+street: AR 22
+housenumber: "21276"
+phone: +1-479-938-7154
 opening_hours: ""
 website: ""

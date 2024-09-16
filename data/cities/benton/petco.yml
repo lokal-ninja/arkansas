@@ -1,11 +1,11 @@
 id: 485979232
-type: way
+type: node
 latitude: 34.60581
 longitude: -92.53117
 postcode: "72015"
 city: Benton
-street: "I-30"
-housenumber: 20825
-phone: "+1 501-776-2136"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ar/benton/pet-supplies-benton-ar-1662.html"
+street: I-30
+housenumber: "20825"
+phone: +1 501-776-2136
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ar/benton/pet-supplies-benton-ar-1662.html

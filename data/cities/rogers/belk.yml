@@ -1,11 +1,11 @@
 id: 827256941
-type: way
+type: node
 latitude: 36.33873
 longitude: -94.17589
 postcode: "72756"
 city: Rogers
-street: "North 46th Street"
-housenumber: 503
+street: North 46th Street
+housenumber: "503"
 phone: ""
 opening_hours: ""
 website: ""

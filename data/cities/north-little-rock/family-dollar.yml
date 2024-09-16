@@ -1,11 +1,11 @@
 id: 936814451
-type: way
+type: node
 latitude: 34.75659
 longitude: -92.25992
 postcode: "72114"
 city: North Little Rock
-street: "East Broadway Street"
-housenumber: 715
+street: East Broadway Street
+housenumber: "715"
 phone: ""
 opening_hours: ""
 website: ""

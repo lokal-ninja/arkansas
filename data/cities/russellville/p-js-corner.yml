@@ -1,11 +1,11 @@
 id: 764039377
-type: way
+type: node
 latitude: 35.27955
 longitude: -93.14155
 postcode: "72801"
 city: Russellville
-street: "West Main Street"
-housenumber: 903
+street: West Main Street
+housenumber: "903"
 phone: ""
 opening_hours: ""
 website: ""

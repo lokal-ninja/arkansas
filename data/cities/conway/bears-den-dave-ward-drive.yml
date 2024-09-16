@@ -1,11 +1,11 @@
 id: 1287802634
-type: way
+type: node
 latitude: 35.0711
 longitude: -92.47192
 postcode: "72034"
 city: Conway
-street: "Dave Ward Drive"
-housenumber: 2890
+street: Dave Ward Drive
+housenumber: "2890"
 phone: ""
 opening_hours: ""
 website: ""

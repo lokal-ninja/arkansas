@@ -1,11 +1,11 @@
 id: 822803803
-type: way
+type: node
 latitude: 34.69149
 longitude: -92.34614
 postcode: "72209"
 city: Little Rock
-street: "South University Avenue"
-housenumber: 6425
-phone: "+1-501-565-1999"
-opening_hours: "24/7"
-website: "https://www.racetrac.com/"
+street: South University Avenue
+housenumber: "6425"
+phone: +1-501-565-1999
+opening_hours: 24/7
+website: https://www.racetrac.com/

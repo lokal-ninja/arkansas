@@ -1,11 +1,11 @@
 id: 384668097
-type: way
+type: node
 latitude: 35.1669
 longitude: -90.18929
 postcode: "72301"
 city: West Memphis
-street: "Shoppingway Boulevard"
-housenumber: 209
+street: Shoppingway Boulevard
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

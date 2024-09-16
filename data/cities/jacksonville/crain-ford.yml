@@ -1,11 +1,11 @@
 id: 1135716126
-type: way
+type: node
 latitude: 34.86569
 longitude: -92.12747
 postcode: "72076"
 city: Jacksonville
-street: "School Drive"
-housenumber: 1800
-phone: "+1-501-436-4981"
+street: School Drive
+housenumber: "1800"
+phone: +1-501-436-4981
 opening_hours: ""
-website: "https://www.crainfordjacksonville.com/"
+website: https://www.crainfordjacksonville.com/

@@ -1,11 +1,11 @@
 id: 488694512
-type: way
+type: node
 latitude: 36.10913
 longitude: -94.17723
 postcode: "72704"
 city: Fayetteville
-street: "West Showroom Drive"
-housenumber: 1310
-phone: "+1 877 204 2888"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.fayettevillechev.com/"
+street: West Showroom Drive
+housenumber: "1310"
+phone: +1 877 204 2888
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.fayettevillechev.com/

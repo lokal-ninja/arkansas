@@ -1,11 +1,11 @@
 id: 223610974
-type: way
+type: node
 latitude: 36.31825
 longitude: -94.18365
 postcode: "72758"
 city: Rogers
-street: "South 46th Street"
-housenumber: 1701
-phone: "+1 479-619-2730"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/rogers/ar/rogers/72758/8445"
+street: South 46th Street
+housenumber: "1701"
+phone: +1 479-619-2730
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/rogers/ar/rogers/72758/8445

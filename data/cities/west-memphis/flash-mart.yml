@@ -1,11 +1,11 @@
 id: 534396134
-type: way
+type: node
 latitude: 35.16418
 longitude: -90.18432
 postcode: "72301"
 city: West Memphis
-street: "North Missouri Street"
-housenumber: 1621
+street: North Missouri Street
+housenumber: "1621"
 phone: "+18704000188"
 opening_hours: ""
 website: ""

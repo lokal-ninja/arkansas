@@ -1,11 +1,11 @@
 id: 488694508
-type: way
+type: node
 latitude: 36.10857
 longitude: -94.17839
 postcode: "72704"
 city: Fayetteville
-street: "West Showroom Drive"
-housenumber: 1352
-phone: "+1 888 693 4615"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.toyotaoffayetteville.com/"
+street: West Showroom Drive
+housenumber: "1352"
+phone: +1 888 693 4615
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.toyotaoffayetteville.com/

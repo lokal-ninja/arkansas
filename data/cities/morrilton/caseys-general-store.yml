@@ -1,11 +1,11 @@
 id: 959828019
-type: way
+type: node
 latitude: 35.17069
 longitude: -92.72111
 postcode: "72110"
 city: Morrilton
-street: "East Harding Street"
-housenumber: 1705
+street: East Harding Street
+housenumber: "1705"
 phone: ""
 opening_hours: ""
 website: ""

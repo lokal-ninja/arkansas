@@ -1,11 +1,11 @@
 id: 999346103
-type: way
+type: node
 latitude: 34.32664
 longitude: -93.55026
 postcode: "71943"
 city: Glenwood
-street: "Broadway Street"
-housenumber: 201
+street: Broadway Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

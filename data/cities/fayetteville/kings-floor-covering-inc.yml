@@ -1,11 +1,11 @@
 id: 474514197
-type: way
+type: node
 latitude: 36.08509
 longitude: -94.16684
 postcode: "72703"
 city: Fayetteville
-street: "West Sycamore Street"
-housenumber: 622
-phone: "+1 479 294 2044"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-15:00"
-website: "https://www.kingsfloorcovering.com/"
+street: West Sycamore Street
+housenumber: "622"
+phone: +1 479 294 2044
+opening_hours: Mo-Fr 08:00-17:00; Sa 10:00-15:00
+website: https://www.kingsfloorcovering.com/

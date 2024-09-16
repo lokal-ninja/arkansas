@@ -1,11 +1,11 @@
 id: 971046157
-type: way
+type: node
 latitude: 36.13319
 longitude: -94.16273
 postcode: "72704"
 city: Fayetteville
-street: "Main Drive"
-housenumber: 2803
+street: Main Drive
+housenumber: "2803"
 phone: ""
 opening_hours: ""
-website: "https://gpminvestments.com/"
+website: https://gpminvestments.com/

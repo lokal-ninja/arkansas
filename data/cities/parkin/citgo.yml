@@ -1,11 +1,11 @@
 id: 1158069735
-type: way
+type: node
 latitude: 35.27284
 longitude: -90.55549
 postcode: "72373"
 city: Parkin
-street: "U.S. 64 Highway"
-housenumber: 5660
+street: U.S. 64 Highway
+housenumber: "5660"
 phone: ""
 opening_hours: ""
 website: ""

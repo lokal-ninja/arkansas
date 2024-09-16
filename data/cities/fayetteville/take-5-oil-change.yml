@@ -1,11 +1,11 @@
 id: 710589452
-type: way
+type: node
 latitude: 36.05629
 longitude: -94.18374
 postcode: "72701"
 city: Fayetteville
-street: "West Martin Luther King Junior Boulevard"
-housenumber: 1561
-phone: "+1 479 310 7570"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00"
-website: "https://www.take5oilchange.com/locations/ar/fayetteville-240/"
+street: West Martin Luther King Junior Boulevard
+housenumber: "1561"
+phone: +1 479 310 7570
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00
+website: https://www.take5oilchange.com/locations/ar/fayetteville-240/

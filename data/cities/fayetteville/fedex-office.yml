@@ -1,11 +1,11 @@
 id: 483573790
-type: way
+type: node
 latitude: 36.11191
 longitude: -94.14459
 postcode: "72703"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 3358
-phone: "+1 479 443 5018"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 08:00-20:00; Su 10:00-20:00"
-website: "https://local.fedex.com/ar/fayetteville/office-0128/"
+street: North College Avenue
+housenumber: "3358"
+phone: +1 479 443 5018
+opening_hours: Mo-Fr 07:00-22:00; Sa 08:00-20:00; Su 10:00-20:00
+website: https://local.fedex.com/ar/fayetteville/office-0128/

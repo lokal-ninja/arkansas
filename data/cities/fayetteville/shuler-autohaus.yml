@@ -1,11 +1,11 @@
 id: 481896320
-type: way
+type: node
 latitude: 36.10102
 longitude: -94.15061
 postcode: "72703"
 city: Fayetteville
-street: "North Drake Street"
-housenumber: 2722
+street: North Drake Street
+housenumber: "2722"
 phone: ""
 opening_hours: ""
 website: ""

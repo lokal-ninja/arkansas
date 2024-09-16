@@ -1,11 +1,11 @@
 id: 918502990
-type: way
+type: node
 latitude: 34.7914
 longitude: -92.22188
-postcode: "72117-2516"
+postcode: 72117-2516
 city: North Little Rock
-street: "East McCain Boulevard"
-housenumber: 4221
-phone: "+1 501-955-2561"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ar/n-littlerock/pet-supplies-n-littlerock-ar-1607.html"
+street: East McCain Boulevard
+housenumber: "4221"
+phone: +1 501-955-2561
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ar/n-littlerock/pet-supplies-n-littlerock-ar-1607.html

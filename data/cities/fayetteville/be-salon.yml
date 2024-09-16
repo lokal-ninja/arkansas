@@ -1,11 +1,11 @@
 id: 467334297
-type: way
+type: node
 latitude: 36.06482
 longitude: -94.15704
 postcode: "72701"
 city: Fayetteville
-street: "East Spring Street"
-housenumber: 118
-phone: "+1 479 443 7707"
-opening_hours: "Tu-Fr 11:00-19:00"
-website: "https://www.facebook.com/besalonfayetteville/"
+street: East Spring Street
+housenumber: "118"
+phone: +1 479 443 7707
+opening_hours: Tu-Fr 11:00-19:00
+website: https://www.facebook.com/besalonfayetteville/

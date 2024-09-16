@@ -1,11 +1,11 @@
 id: 1002556851
-type: way
+type: node
 latitude: 34.49305
 longitude: -93.10836
 postcode: "71913"
 city: Hot Springs
-street: "Albert Pike Road"
-housenumber: 2320
+street: Albert Pike Road
+housenumber: "2320"
 phone: ""
 opening_hours: ""
 website: ""

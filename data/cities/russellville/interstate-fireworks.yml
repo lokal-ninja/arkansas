@@ -1,11 +1,11 @@
 id: 980621908
-type: way
+type: node
 latitude: 35.31663
 longitude: -93.13447
 postcode: "72802"
 city: Russellville
-street: "Darby Lane"
-housenumber: 73
-phone: "+1-479-890-7976"
+street: Darby Lane
+housenumber: "73"
+phone: +1-479-890-7976
 opening_hours: ""
-website: "http://www.interstatefireworks.com/"
+website: http://www.interstatefireworks.com/

@@ -1,11 +1,11 @@
 id: 741778372
-type: way
+type: node
 latitude: 36.16666
 longitude: -94.11849
 postcode: "72764"
 city: Springdale
-street: "East Robinson Avenue"
-housenumber: 1253
-phone: "+1 479 202 3911"
+street: East Robinson Avenue
+housenumber: "1253"
+phone: +1 479 202 3911
 opening_hours: ""
 website: ""

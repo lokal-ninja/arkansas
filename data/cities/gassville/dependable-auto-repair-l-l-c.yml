@@ -1,11 +1,11 @@
 id: 246375768
-type: way
+type: node
 latitude: 36.28354
 longitude: -92.49674
 postcode: "72635"
 city: Gassville
-street: "West Main Street"
-housenumber: 128
+street: West Main Street
+housenumber: "128"
 phone: "+18704352227"
 opening_hours: ""
 website: ""

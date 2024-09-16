@@ -1,11 +1,11 @@
 id: 953604723
-type: way
+type: node
 latitude: 34.39035
 longitude: -92.83778
 postcode: "72104"
 city: Malvern
-street: "River Creek Road"
-housenumber: 2730
+street: River Creek Road
+housenumber: "2730"
 phone: ""
 opening_hours: ""
 website: ""

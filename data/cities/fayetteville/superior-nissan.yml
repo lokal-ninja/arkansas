@@ -1,11 +1,11 @@
 id: 483573802
-type: way
+type: node
 latitude: 36.11294
 longitude: -94.14454
 postcode: "72703"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 3372
-phone: "+1 866 937 3914"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.superiornissannwa.com/"
+street: North College Avenue
+housenumber: "3372"
+phone: +1 866 937 3914
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.superiornissannwa.com/

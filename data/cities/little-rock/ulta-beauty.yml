@@ -1,11 +1,11 @@
 id: 1271093633
-type: way
+type: node
 latitude: 34.7537
 longitude: -92.3398
 postcode: "72205"
 city: Little Rock
-street: "North University Avenue"
-housenumber: 207
-phone: "+1 501-660-4096"
-opening_hours: "Mo-We 10:00-20:00; Th=Sa 10:00=21:00; Su 11:00-17:00"
-website: "https://www.ulta.com/stores/little-rock-ar-610"
+street: North University Avenue
+housenumber: "207"
+phone: +1 501-660-4096
+opening_hours: Mo-We 10:00-20:00; Th=Sa 10:00=21:00; Su 11:00-17:00
+website: https://www.ulta.com/stores/little-rock-ar-610

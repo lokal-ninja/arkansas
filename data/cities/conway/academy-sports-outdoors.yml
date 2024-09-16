@@ -1,11 +1,11 @@
 id: 585534261
-type: way
+type: node
 latitude: 35.063
 longitude: -92.41484
 postcode: "72032"
 city: Conway
-street: "South Amity Road"
-housenumber: 1260
+street: South Amity Road
+housenumber: "1260"
 phone: ""
 opening_hours: ""
-website: "https://www.academy.com/storelocator/arkansas/conway/store-0229"
+website: https://www.academy.com/storelocator/arkansas/conway/store-0229

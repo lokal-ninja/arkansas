@@ -1,11 +1,11 @@
 id: 740851696
-type: way
+type: node
 latitude: 36.2786
 longitude: -90.98404
 postcode: "72455"
 city: Pocahontas
-street: "North Park Street"
-housenumber: 2129
+street: North Park Street
+housenumber: "2129"
 phone: ""
 opening_hours: ""
 website: ""

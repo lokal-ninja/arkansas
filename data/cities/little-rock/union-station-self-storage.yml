@@ -1,11 +1,11 @@
 id: 376475772
-type: way
+type: node
 latitude: 34.75151
 longitude: -92.28417
 postcode: "72201"
 city: Little Rock
-street: "Garland Street"
-housenumber: 1222
-phone: "+1-501-916-9375"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-14:00"
+street: Garland Street
+housenumber: "1222"
+phone: +1-501-916-9375
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-14:00
 website: ""

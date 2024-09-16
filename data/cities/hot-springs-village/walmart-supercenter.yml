@@ -1,11 +1,11 @@
 id: 827943057
-type: way
+type: node
 latitude: 34.63289
 longitude: -93.05525
 postcode: "71909"
 city: Hot Springs Village
-street: "North Highway 7"
-housenumber: 3604
-phone: "+1 501-318-0185"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/5433/hot-springs%20village-ar/whats-new"
+street: North Highway 7
+housenumber: "3604"
+phone: +1 501-318-0185
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/5433/hot-springs%20village-ar/whats-new

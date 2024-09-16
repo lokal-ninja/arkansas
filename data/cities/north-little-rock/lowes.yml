@@ -1,11 +1,11 @@
 id: 918502968
-type: way
+type: node
 latitude: 34.78722
 longitude: -92.21865
 postcode: "72117"
 city: North Little Rock
-street: "East McCain Boulevard"
-housenumber: 4330
-phone: "+1 501-955-2219"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ar-north-little-rock/1627"
+street: East McCain Boulevard
+housenumber: "4330"
+phone: +1 501-955-2219
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ar-north-little-rock/1627

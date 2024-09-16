@@ -1,11 +1,11 @@
 id: 480097944
-type: way
+type: node
 latitude: 35.28003
 longitude: -93.10622
 postcode: "72802"
 city: Russellville
-street: "East Main Street"
-housenumber: 2409
-phone: "+1 479-967-9777"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/58-russellville-ar"
+street: East Main Street
+housenumber: "2409"
+phone: +1 479-967-9777
+opening_hours: 24/7
+website: https://www.walmart.com/store/58-russellville-ar

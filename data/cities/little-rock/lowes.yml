@@ -1,11 +1,11 @@
 id: 1030333725
-type: way
+type: node
 latitude: 34.74504
 longitude: -92.40984
 postcode: "72211"
 city: Little Rock
-street: "South Bowman Road"
-housenumber: 1100
-phone: "+1 501-435-3164"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-16:00"
-website: "https://www.lowes.com/store/AR-Little-Rock/3331?cm_mmc=lod-_-c-_-lcl-_-awr-_-yxt-_-go-_-3331-_-na-_-0-_-0&y_source=1_ODUyMDE3NS03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU%3D"
+street: South Bowman Road
+housenumber: "1100"
+phone: +1 501-435-3164
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-16:00
+website: https://www.lowes.com/store/AR-Little-Rock/3331?cm_mmc=lod-_-c-_-lcl-_-awr-_-yxt-_-go-_-3331-_-na-_-0-_-0&y_source=1_ODUyMDE3NS03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU%3D

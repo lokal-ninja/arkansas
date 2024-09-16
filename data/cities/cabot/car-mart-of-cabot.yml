@@ -1,11 +1,11 @@
 id: 889348700
-type: way
+type: node
 latitude: 34.98122
 longitude: -92.04136
 postcode: "72023"
 city: Cabot
-street: "Arena Road"
-housenumber: 177
+street: Arena Road
+housenumber: "177"
 phone: ""
 opening_hours: ""
 website: ""

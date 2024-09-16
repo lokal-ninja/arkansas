@@ -1,11 +1,11 @@
 id: 1167454858
-type: way
+type: node
 latitude: 34.80668
 longitude: -92.29208
 postcode: "72118"
 city: North Little Rock
-street: "MacArthur Drive"
-housenumber: 5506
+street: MacArthur Drive
+housenumber: "5506"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1172228164
-type: way
+type: node
 latitude: 36.33407
 longitude: -94.12781
 postcode: "72756"
 city: Rogers
-street: "West Walnut Street"
-housenumber: 917
+street: West Walnut Street
+housenumber: "917"
 phone: ""
 opening_hours: ""
 website: ""

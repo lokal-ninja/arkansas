@@ -1,11 +1,11 @@
 id: 952404883
-type: way
+type: node
 latitude: 34.75494
 longitude: -92.40613
 postcode: ""
 city: Little Rock
-street: "North Bowman Road"
-housenumber: 
+street: North Bowman Road
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-111+n+bowman+rd-little+rock-ar-72211/id=5993"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-111+n+bowman+rd-little+rock-ar-72211/id=5993

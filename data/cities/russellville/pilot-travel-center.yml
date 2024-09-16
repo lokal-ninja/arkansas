@@ -1,11 +1,11 @@
 id: 1233318839
-type: way
+type: node
 latitude: 35.28085
 longitude: -93.09294
 postcode: "72802"
 city: Russellville
-street: "Sr 331"
-housenumber: 215
+street: Sr 331
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

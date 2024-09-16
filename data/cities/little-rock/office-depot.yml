@@ -1,11 +1,11 @@
 id: 1059389574
-type: way
+type: node
 latitude: 34.75565
 longitude: -92.4013
 postcode: "72211"
 city: Little Rock
-street: "West Markham Street"
-housenumber: 11400
-phone: "+1 501-221-1818"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/ar/little-rock/office-depot-121"
+street: West Markham Street
+housenumber: "11400"
+phone: +1 501-221-1818
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/ar/little-rock/office-depot-121

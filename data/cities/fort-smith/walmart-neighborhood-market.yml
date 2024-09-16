@@ -1,11 +1,11 @@
 id: 592520234
-type: way
+type: node
 latitude: 35.36443
 longitude: -94.37925
 postcode: "72903"
 city: Fort Smith
-street: "Rogers Avenue"
-housenumber: 4900
-phone: "+1 479-484-9122"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2744/fort-smith-ar/whats-new"
+street: Rogers Avenue
+housenumber: "4900"
+phone: +1 479-484-9122
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2744/fort-smith-ar/whats-new

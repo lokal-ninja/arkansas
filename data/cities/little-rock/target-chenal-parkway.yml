@@ -1,11 +1,11 @@
 id: 942938548
-type: way
+type: node
 latitude: 34.75633
 longitude: -92.41565
 postcode: "72211"
 city: Little Rock
-street: "Chenal Parkway"
-housenumber: 12700
+street: Chenal Parkway
+housenumber: "12700"
 phone: "+15012170200"
-opening_hours: "8:00-22:00"
-website: "https://www.target.com/sl/little-rock-west/1114"
+opening_hours: 8:00-22:00
+website: https://www.target.com/sl/little-rock-west/1114

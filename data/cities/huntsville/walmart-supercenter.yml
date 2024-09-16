@@ -1,11 +1,11 @@
 id: 1311909976
-type: way
+type: node
 latitude: 36.11316
 longitude: -93.71648
 postcode: "72740"
 city: Huntsville
-street: "Gary Hatfield Way"
-housenumber: 157
-phone: "+1 479-738-2001"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/373/huntsville-ar/whats-new"
+street: Gary Hatfield Way
+housenumber: "157"
+phone: +1 479-738-2001
+opening_hours: 24/7
+website: https://www.walmart.com/store/373/huntsville-ar/whats-new

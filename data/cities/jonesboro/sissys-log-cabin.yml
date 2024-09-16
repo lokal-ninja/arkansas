@@ -1,11 +1,11 @@
 id: 547527096
-type: way
+type: node
 latitude: 35.81768
 longitude: -90.6698
 postcode: "72401"
 city: Jonesboro
-street: "Parkwood Road"
-housenumber: 2900
-phone: "+1 870 336-0066"
-opening_hours: "Mo-Sa 10:00-17:30"
-website: "https://sissyslogcabin.com/"
+street: Parkwood Road
+housenumber: "2900"
+phone: +1 870 336-0066
+opening_hours: Mo-Sa 10:00-17:30
+website: https://sissyslogcabin.com/

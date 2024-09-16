@@ -1,11 +1,11 @@
 id: 1117640268
-type: way
+type: node
 latitude: 34.50315
 longitude: -93.05522
 postcode: "71901"
 city: Hot Springs National Park
-street: "Central Avenue"
-housenumber: 1201
-phone: "+1-866-297-6093"
-opening_hours: "24/7"
+street: Central Avenue
+housenumber: "1201"
+phone: +1-866-297-6093
+opening_hours: 24/7
 website: ""

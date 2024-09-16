@@ -1,11 +1,11 @@
 id: 454296894
-type: way
+type: node
 latitude: 34.73335
 longitude: -92.39818
 postcode: "72205"
 city: Little Rock
-street: "South Shackleford Road"
-housenumber: 2600
-phone: "+1-501-224-0347"
+street: South Shackleford Road
+housenumber: "2600"
+phone: +1-501-224-0347
 opening_hours: ""
 website: ""

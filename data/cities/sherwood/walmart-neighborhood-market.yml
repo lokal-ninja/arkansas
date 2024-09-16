@@ -1,11 +1,11 @@
 id: 486914952
-type: way
+type: node
 latitude: 34.83559
 longitude: -92.23284
 postcode: "72120"
 city: Sherwood
-street: "Highway 107"
-housenumber: 8801
-phone: "+1 501-833-3127"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2743/sherwood-ar/whats-new"
+street: Highway 107
+housenumber: "8801"
+phone: +1 501-833-3127
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2743/sherwood-ar/whats-new

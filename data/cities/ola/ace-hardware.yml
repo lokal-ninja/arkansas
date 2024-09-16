@@ -1,11 +1,11 @@
 id: 801793214
-type: way
+type: node
 latitude: 35.02889
 longitude: -93.22416
 postcode: "72853"
 city: Ola
-street: "South Scenic 7 Drive"
-housenumber: 414
-phone: "+1 479-489-5614"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-16:00"
+street: South Scenic 7 Drive
+housenumber: "414"
+phone: +1 479-489-5614
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-16:00
 website: ""

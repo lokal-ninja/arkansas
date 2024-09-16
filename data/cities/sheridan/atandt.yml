@@ -1,11 +1,11 @@
 id: 1165475569
-type: way
+type: node
 latitude: 34.28973
 longitude: -92.39932
 postcode: "72150"
 city: Sheridan
-street: "South Rock Street"
-housenumber: 1407
+street: South Rock Street
+housenumber: "1407"
 phone: ""
 opening_hours: ""
 website: ""

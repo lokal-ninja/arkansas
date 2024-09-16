@@ -1,11 +1,11 @@
 id: 1110738626
-type: way
+type: node
 latitude: 34.12056
 longitude: -93.05655
 postcode: "71923"
 city: Arkadelphia
-street: "Clinton Street"
-housenumber: 860
+street: Clinton Street
+housenumber: "860"
 phone: "+15018446387"
 opening_hours: ""
 website: ""

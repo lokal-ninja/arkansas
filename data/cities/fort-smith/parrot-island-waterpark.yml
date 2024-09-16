@@ -1,11 +1,11 @@
 id: 1099919479
-type: way
+type: node
 latitude: 35.32511
 longitude: -94.35219
 postcode: "72903"
 city: Fort Smith
-street: "Zero Street"
-housenumber: 7300
-phone: "+1-479-788-6550"
+street: Zero Street
+housenumber: "7300"
+phone: +1-479-788-6550
 opening_hours: ""
-website: "https://www.parrotislandwaterpark.com"
+website: https://www.parrotislandwaterpark.com

@@ -1,11 +1,11 @@
 id: 744505854
-type: way
+type: node
 latitude: 36.16675
 longitude: -94.12523
 postcode: "72764"
 city: Springdale
-street: "East Robinson Avenue"
-housenumber: 623
+street: East Robinson Avenue
+housenumber: "623"
 phone: ""
 opening_hours: ""
 website: ""

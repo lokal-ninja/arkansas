@@ -1,11 +1,11 @@
 id: 442970828
-type: way
+type: node
 latitude: 35.08672
 longitude: -92.41421
-postcode: "72032-4717"
+postcode: 72032-4717
 city: Conway
-street: "Elsinger Boulevard"
-housenumber: 501
-phone: "+1 501-328-5739"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.target.com/sl/conway/1891"
+street: Elsinger Boulevard
+housenumber: "501"
+phone: +1 501-328-5739
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.target.com/sl/conway/1891

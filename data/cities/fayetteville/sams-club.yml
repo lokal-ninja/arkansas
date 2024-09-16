@@ -1,11 +1,11 @@
 id: 488784761
-type: way
+type: node
 latitude: 36.10762
 longitude: -94.18414
 postcode: "72704"
 city: Fayetteville
-street: "North Highway 112"
-housenumber: 3081
-phone: "+1 479-587-1840"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:00-20:30; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/8209"
+street: North Highway 112
+housenumber: "3081"
+phone: +1 479-587-1840
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:00-20:30; Su 10:00-18:00
+website: https://www.samsclub.com/club/8209

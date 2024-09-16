@@ -1,11 +1,11 @@
 id: 718047027
-type: way
+type: node
 latitude: 35.27999
 longitude: -93.09346
 postcode: "72801"
 city: Russellville
-street: "AR 331"
-housenumber: 143
-phone: "+1-479-967-5800"
+street: AR 331
+housenumber: "143"
+phone: +1-479-967-5800
 opening_hours: ""
-website: "https://www.summittruckgroup.com/semi-truck-dealers/russellville-arkansas/"
+website: https://www.summittruckgroup.com/semi-truck-dealers/russellville-arkansas/

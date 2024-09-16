@@ -1,11 +1,11 @@
 id: 280208314
-type: way
+type: node
 latitude: 36.17327
 longitude: -94.5376
 postcode: "72761"
 city: Siloam Springs
-street: "Highway 412 East"
-housenumber: 491
-phone: "+1 888 207 3780"
+street: Highway 412 East
+housenumber: "491"
+phone: +1 888 207 3780
 opening_hours: ""
-website: "https://www.superiorfordnwa.com/"
+website: https://www.superiorfordnwa.com/

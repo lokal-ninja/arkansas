@@ -4,8 +4,8 @@ latitude: 34.7568
 longitude: -92.32486
 postcode: "72205"
 city: Little Rock
-street: "Beechwood Street"
-housenumber: 614
-phone: "+1 501-666-0102"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-18:00;Su 11:00-17:00"
-website: "https://www.kroger.com/stores/grocery/ar/little-rock/hillcrest/025/00636"
+street: Beechwood Street
+housenumber: "614"
+phone: +1 501-666-0102
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-18:00;Su 11:00-17:00
+website: https://www.kroger.com/stores/grocery/ar/little-rock/hillcrest/025/00636

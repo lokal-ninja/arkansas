@@ -1,11 +1,11 @@
 id: 863383504
-type: way
+type: node
 latitude: 36.20839
 longitude: -94.13851
 postcode: "72764"
 city: Springdale
-street: "North Thompson Street"
-housenumber: 2672
-phone: "+1 479 751 3333"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
-website: "http://norththompsonstorage.com/"
+street: North Thompson Street
+housenumber: "2672"
+phone: +1 479 751 3333
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
+website: http://norththompsonstorage.com/

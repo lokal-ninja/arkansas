@@ -1,11 +1,11 @@
 id: 479558198
-type: way
+type: node
 latitude: 35.56741
 longitude: -92.4549
 postcode: "72031"
 city: Clinton
-street: "Highway 65 South"
-housenumber: 1966
-phone: "+1 501-745-2498"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/788/clinton-ar/whats-new"
+street: Highway 65 South
+housenumber: "1966"
+phone: +1 501-745-2498
+opening_hours: 24/7
+website: https://www.walmart.com/store/788/clinton-ar/whats-new

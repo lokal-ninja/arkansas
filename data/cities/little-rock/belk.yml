@@ -1,11 +1,11 @@
 id: 1137090894
-type: way
+type: node
 latitude: 34.79261
 longitude: -92.40304
 postcode: "72212"
 city: Little Rock
-street: "Cantrell Road"
-housenumber: 11525
-phone: "+1-501-907-6200"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+street: Cantrell Road
+housenumber: "11525"
+phone: +1-501-907-6200
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 website: ""

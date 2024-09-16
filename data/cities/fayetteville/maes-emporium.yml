@@ -1,11 +1,11 @@
 id: 568397628
-type: way
+type: node
 latitude: 36.06832
 longitude: -94.16531
 postcode: "72701"
 city: Fayetteville
-street: "North West Avenue"
-housenumber: 352
-phone: "+1 479 575 9626"
-opening_hours: "We-Fr 11:00-17:00"
-website: "http://www.bossmae.com/"
+street: North West Avenue
+housenumber: "352"
+phone: +1 479 575 9626
+opening_hours: We-Fr 11:00-17:00
+website: http://www.bossmae.com/

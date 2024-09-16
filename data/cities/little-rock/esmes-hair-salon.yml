@@ -1,11 +1,11 @@
 id: 1272561960
-type: way
+type: node
 latitude: 34.67632
 longitude: -92.41218
 postcode: "72210"
 city: Little Rock
-street: "Stagecoach Road"
-housenumber: 8300
-phone: "+1-501-350-3417"
-opening_hours: "Mo-Fr 08:00-20:00"
+street: Stagecoach Road
+housenumber: "8300"
+phone: +1-501-350-3417
+opening_hours: Mo-Fr 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1013898586
-type: way
+type: node
 latitude: 35.59106
 longitude: -92.45638
 postcode: "72031"
 city: Clinton
-street: "US 65B"
-housenumber: 218
-phone: "+1-501-745-6792"
+street: US 65B
+housenumber: "218"
+phone: +1-501-745-6792
 opening_hours: ""
-website: "https://www.clintonfuneralservice.com"
+website: https://www.clintonfuneralservice.com

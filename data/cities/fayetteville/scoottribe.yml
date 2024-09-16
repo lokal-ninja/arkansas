@@ -1,11 +1,11 @@
 id: 466549963
-type: way
+type: node
 latitude: 36.07749
 longitude: -94.15665
 postcode: "72703"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 1104
-phone: "+1 479 316 8501"
-opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-17:00"
-website: "https://www.scoottribefayetteville.com/"
+street: North College Avenue
+housenumber: "1104"
+phone: +1 479 316 8501
+opening_hours: Mo-Th 10:00-18:00; Fr 10:00-17:00
+website: https://www.scoottribefayetteville.com/

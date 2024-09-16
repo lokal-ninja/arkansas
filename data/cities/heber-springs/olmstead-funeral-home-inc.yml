@@ -1,11 +1,11 @@
 id: 1196129312
-type: way
+type: node
 latitude: 35.49159
 longitude: -92.03522
 postcode: ""
 city: Heber Springs
-street: "West Main Street"
-housenumber: 601
+street: West Main Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

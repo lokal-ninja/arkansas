@@ -1,11 +1,11 @@
 id: 1240586611
-type: way
+type: node
 latitude: 33.66925
 longitude: -93.57149
 postcode: "71801"
 city: Hope
-street: "East 3rd Street"
-housenumber: 1704
-phone: "+1 870-777-8831"
+street: East 3rd Street
+housenumber: "1704"
+phone: +1 870-777-8831
 opening_hours: ""
 website: ""

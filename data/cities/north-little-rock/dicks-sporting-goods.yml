@@ -1,11 +1,11 @@
 id: 918503032
-type: way
+type: node
 latitude: 34.78647
 longitude: -92.22279
 postcode: "72117"
 city: North Little Rock
-street: "East McCain Boulevard"
-housenumber: 4188
-phone: "+1 501-478-2126"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ar/north-little-rock/1337/"
+street: East McCain Boulevard
+housenumber: "4188"
+phone: +1 501-478-2126
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ar/north-little-rock/1337/

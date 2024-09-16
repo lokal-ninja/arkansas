@@ -1,11 +1,11 @@
 id: 507370234
-type: way
+type: node
 latitude: 36.18023
 longitude: -94.49401
 postcode: "72761"
 city: Siloam Springs
-street: "Highway 412 East"
-housenumber: 4700
+street: Highway 412 East
+housenumber: "4700"
 phone: ""
 opening_hours: ""
-website: "https://www.dogwoodjunction.biz/"
+website: https://www.dogwoodjunction.biz/

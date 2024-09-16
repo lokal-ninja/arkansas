@@ -1,11 +1,11 @@
 id: 942938549
-type: way
+type: node
 latitude: 34.75668
 longitude: -92.41351
 postcode: "72211"
 city: Little Rock
-street: "Chenal Parkway"
-housenumber: 12610
-phone: "+1 501-219-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/W-Little-Rock/AR/Little-Rock/72211/1401"
+street: Chenal Parkway
+housenumber: "12610"
+phone: +1 501-219-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/W-Little-Rock/AR/Little-Rock/72211/1401

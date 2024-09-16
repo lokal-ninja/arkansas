@@ -1,11 +1,11 @@
 id: 474514044
-type: way
+type: node
 latitude: 36.08634
 longitude: -94.16722
 postcode: "72703"
 city: Fayetteville
-street: "West Ash Street"
-housenumber: 661
-phone: "+1 479 587 0007"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://ashstreetstorage.com/"
+street: West Ash Street
+housenumber: "661"
+phone: +1 479 587 0007
+opening_hours: Mo-Fr 08:00-18:00
+website: https://ashstreetstorage.com/

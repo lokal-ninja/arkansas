@@ -1,11 +1,11 @@
 id: 536482291
-type: way
+type: node
 latitude: 34.75427
 longitude: -92.36704
 postcode: "72205"
 city: Little Rock
-street: "North Rodney Parham Road"
-housenumber: 105
-phone: "+1-501-954-7637"
+street: North Rodney Parham Road
+housenumber: "105"
+phone: +1-501-954-7637
 opening_hours: ""
 website: ""

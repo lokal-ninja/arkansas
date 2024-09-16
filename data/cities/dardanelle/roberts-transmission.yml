@@ -1,11 +1,11 @@
 id: 963307151
-type: way
+type: node
 latitude: 35.23237
 longitude: -93.17052
 postcode: "72834"
 city: Dardanelle
-street: "AR 22"
-housenumber: 1872
+street: AR 22
+housenumber: "1872"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1245742458
-type: way
+type: node
 latitude: 35.36632
 longitude: -94.42114
 postcode: "72901"
 city: Fort Smith
-street: "Towson Avenue"
-housenumber: 
+street: Towson Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

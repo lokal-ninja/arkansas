@@ -1,11 +1,11 @@
 id: 1091597899
-type: way
+type: node
 latitude: 34.57504
 longitude: -92.57765
 postcode: "72015"
 city: Benton
-street: "Military Road"
-housenumber: 1225
-phone: "+1-501-315-2400"
+street: Military Road
+housenumber: "1225"
+phone: +1-501-315-2400
 opening_hours: ""
 website: ""

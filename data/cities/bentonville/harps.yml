@@ -1,11 +1,11 @@
 id: 457903006
-type: way
+type: node
 latitude: 36.38697
 longitude: -94.22284
 postcode: "72712"
 city: Bentonville
-street: "North Walton Boulevard"
-housenumber: 1211
+street: North Walton Boulevard
+housenumber: "1211"
 phone: ""
 opening_hours: ""
 website: ""

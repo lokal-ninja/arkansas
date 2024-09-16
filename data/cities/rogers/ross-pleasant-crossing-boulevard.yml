@@ -1,11 +1,11 @@
 id: 791508061
-type: way
+type: node
 latitude: 36.28147
 longitude: -94.15007
 postcode: "72758"
 city: Rogers
-street: "Pleasant Crossing Boulevard"
-housenumber: 4329
-phone: "+1 479-246-0819"
-opening_hours: "Mo-Th 09:30-23:00; Fr-Sa 09:00-23:00; Su 09:30-23:00"
+street: Pleasant Crossing Boulevard
+housenumber: "4329"
+phone: +1 479-246-0819
+opening_hours: Mo-Th 09:30-23:00; Fr-Sa 09:00-23:00; Su 09:30-23:00
 website: ""

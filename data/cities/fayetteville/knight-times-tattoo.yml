@@ -1,11 +1,11 @@
 id: 483331802
-type: way
+type: node
 latitude: 36.10685
 longitude: -94.14568
 postcode: "72703"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 3014
-phone: "+1 479 571 4465"
-opening_hours: "Tu-Th 13:00-20:00; Fr,Sa 12:00-22:00"
-website: "https://www.facebook.com/Knight-Times-Tattoo-232198996915119/"
+street: North College Avenue
+housenumber: "3014"
+phone: +1 479 571 4465
+opening_hours: Tu-Th 13:00-20:00; Fr,Sa 12:00-22:00
+website: https://www.facebook.com/Knight-Times-Tattoo-232198996915119/

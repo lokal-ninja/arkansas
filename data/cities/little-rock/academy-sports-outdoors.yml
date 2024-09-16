@@ -1,11 +1,11 @@
 id: 1059389572
-type: way
+type: node
 latitude: 34.75511
 longitude: -92.40187
 postcode: "72211"
 city: Little Rock
-street: "West Markham Street"
-housenumber: 11400
-phone: "+1-501-217-3700"
-opening_hours: "Su-Th 09:00-21:00; Fr-Sa 09:00-22:00"
-website: "https://www.academy.com/storelocator/arkansas/little-rock/store-0093"
+street: West Markham Street
+housenumber: "11400"
+phone: +1-501-217-3700
+opening_hours: Su-Th 09:00-21:00; Fr-Sa 09:00-22:00
+website: https://www.academy.com/storelocator/arkansas/little-rock/store-0093

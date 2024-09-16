@@ -1,11 +1,11 @@
 id: 547533388
-type: way
+type: node
 latitude: 35.8253
 longitude: -90.67979
 postcode: "72401"
 city: Jonesboro
-street: "Wilkins Avenue"
-housenumber: 2106
+street: Wilkins Avenue
+housenumber: "2106"
 phone: ""
 opening_hours: ""
 website: ""

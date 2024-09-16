@@ -1,11 +1,11 @@
 id: 554962450
-type: way
+type: node
 latitude: 35.82904
 longitude: -90.67711
 postcode: "72401"
 city: Jonesboro
-street: "South Caraway Road"
-housenumber: 1330
+street: South Caraway Road
+housenumber: "1330"
 phone: ""
 opening_hours: ""
 website: ""

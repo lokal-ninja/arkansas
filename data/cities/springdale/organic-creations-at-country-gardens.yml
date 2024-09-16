@@ -1,11 +1,11 @@
 id: 775582814
-type: way
+type: node
 latitude: 36.1849
 longitude: -94.13299
 postcode: "72764"
 city: Springdale
-street: "West Emma Avenue"
-housenumber: 209
-phone: "+1-479-756-5531"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "http://www.organiccreations.com"
+street: West Emma Avenue
+housenumber: "209"
+phone: +1-479-756-5531
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: http://www.organiccreations.com

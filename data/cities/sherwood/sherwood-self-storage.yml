@@ -1,11 +1,11 @@
 id: 1000090028
-type: way
+type: node
 latitude: 34.83106
 longitude: -92.19101
 postcode: "72120"
 city: Sherwood
-street: "Jan Drive"
-housenumber: 220
+street: Jan Drive
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

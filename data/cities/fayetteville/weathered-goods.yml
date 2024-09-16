@@ -1,11 +1,11 @@
 id: 473914863
-type: way
+type: node
 latitude: 36.08738
 longitude: -94.1546
 postcode: "72703"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 1904
-phone: "+1 479 445 6083"
-opening_hours: "Tu-Sa 10:00-17:00"
-website: "http://weatheredgoods.com/"
+street: North College Avenue
+housenumber: "1904"
+phone: +1 479 445 6083
+opening_hours: Tu-Sa 10:00-17:00
+website: http://weatheredgoods.com/

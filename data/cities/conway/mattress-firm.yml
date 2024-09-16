@@ -1,11 +1,11 @@
 id: 585536376
-type: way
+type: node
 latitude: 35.06567
 longitude: -92.41364
 postcode: "72032"
 city: Conway
-street: "South Amity Road"
-housenumber: 1105
-phone: "+1 501-504-2146"
+street: South Amity Road
+housenumber: "1105"
+phone: +1 501-504-2146
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ar/conway/064009/"
+website: https://www.mattressfirm.com/en-us/stores/ar/conway/064009/

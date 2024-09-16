@@ -1,11 +1,11 @@
 id: 278018950
-type: way
+type: node
 latitude: 34.75687
 longitude: -92.26762
 postcode: "72114"
 city: North Little Rock
-street: "North Main Street"
-housenumber: 320
+street: North Main Street
+housenumber: "320"
 phone: ""
 opening_hours: ""
-website: "https://greendragonpc.com/"
+website: https://greendragonpc.com/

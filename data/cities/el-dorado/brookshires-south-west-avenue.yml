@@ -1,11 +1,11 @@
 id: 651192372
-type: way
+type: node
 latitude: 33.21093
 longitude: -92.66649
 postcode: "71730"
 city: El Dorado
-street: "South West Avenue"
-housenumber: 220
-phone: "+1-870-863-4081"
+street: South West Avenue
+housenumber: "220"
+phone: +1-870-863-4081
 opening_hours: ""
 website: ""

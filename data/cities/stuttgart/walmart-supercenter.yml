@@ -1,11 +1,11 @@
 id: 1201431066
-type: way
+type: node
 latitude: 34.47667
 longitude: -91.54973
 postcode: "72160"
 city: Stuttgart
-street: "East 22nd Street"
-housenumber: 406
-phone: "+1 870-673-3349"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/102/stuttgart-ar/whats-new"
+street: East 22nd Street
+housenumber: "406"
+phone: +1 870-673-3349
+opening_hours: 24/7
+website: https://www.walmart.com/store/102/stuttgart-ar/whats-new

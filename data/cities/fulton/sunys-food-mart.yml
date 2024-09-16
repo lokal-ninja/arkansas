@@ -1,11 +1,11 @@
 id: 952806200
-type: way
+type: node
 latitude: 33.60982
 longitude: -93.81035
 postcode: "71838"
 city: Fulton
-street: "US Highway 67"
-housenumber: 5370
+street: US Highway 67
+housenumber: "5370"
 phone: ""
 opening_hours: ""
 website: ""

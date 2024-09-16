@@ -1,11 +1,11 @@
 id: 499747003
-type: way
+type: node
 latitude: 35.19828
 longitude: -90.18282
 postcode: "72364"
 city: Marion
-street: "Highway 77"
-housenumber: 2100
-phone: "+1 870-394-7308"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4654-marion-ar"
+street: Highway 77
+housenumber: "2100"
+phone: +1 870-394-7308
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4654-marion-ar

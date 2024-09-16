@@ -1,11 +1,11 @@
 id: 112753549
-type: way
+type: node
 latitude: 36.12579
 longitude: -94.14265
 postcode: "72703"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 4116
-phone: "+1 479 443 4600"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-19:30"
-website: "https://www.naturalgrocers.com/store-location/fayetteville/"
+street: North College Avenue
+housenumber: "4116"
+phone: +1 479 443 4600
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-19:30
+website: https://www.naturalgrocers.com/store-location/fayetteville/

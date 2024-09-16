@@ -1,11 +1,11 @@
 id: 483574094
-type: way
+type: node
 latitude: 36.11077
 longitude: -94.14471
 postcode: "72703"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 3264
-phone: "+1 479 521 2383"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-15:00"
-website: "https://www.fayettevilletire.com/"
+street: North College Avenue
+housenumber: "3264"
+phone: +1 479 521 2383
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-15:00
+website: https://www.fayettevilletire.com/

@@ -1,11 +1,11 @@
 id: 960783804
-type: way
+type: node
 latitude: 35.86053
 longitude: -90.65152
 postcode: "72401"
 city: Jonesboro
-street: "East Johnson Avenue"
-housenumber: 3900
+street: East Johnson Avenue
+housenumber: "3900"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ar/jonesboro/3900-e-johnson-ave.html"
+website: https://www.autozone.com/locations/ar/jonesboro/3900-e-johnson-ave.html

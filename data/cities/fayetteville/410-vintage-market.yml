@@ -1,11 +1,11 @@
 id: 467353069
-type: way
+type: node
 latitude: 36.06903
 longitude: -94.15708
 postcode: "72701"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 410
-phone: "+1 479 521 2444"
-opening_hours: "Mo-Sa 10:00-18:00; Su 13:00-17:00"
-website: "https://www.facebook.com/410Vintage/"
+street: North College Avenue
+housenumber: "410"
+phone: +1 479 521 2444
+opening_hours: Mo-Sa 10:00-18:00; Su 13:00-17:00
+website: https://www.facebook.com/410Vintage/

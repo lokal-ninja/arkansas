@@ -1,11 +1,11 @@
 id: 1001195569
-type: way
+type: node
 latitude: 33.62794
 longitude: -91.78902
 postcode: "71655"
 city: Monticello
-street: "South Edwards Street"
-housenumber: 103
+street: South Edwards Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

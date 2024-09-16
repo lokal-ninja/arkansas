@@ -1,11 +1,11 @@
 id: 485229200
-type: way
+type: node
 latitude: 34.57779
 longitude: -92.58666
 postcode: "72019"
 city: Benton
-street: "Interstate 30"
-housenumber: 17060
-phone: "+1 501-860-6288"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/benton/ar/benton/72019/1405"
+street: Interstate 30
+housenumber: "17060"
+phone: +1 501-860-6288
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/benton/ar/benton/72019/1405

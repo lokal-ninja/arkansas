@@ -1,11 +1,11 @@
 id: 1249176642
-type: way
+type: node
 latitude: 35.05391
 longitude: -93.39062
 postcode: "72833"
 city: Danville
-street: "East 8th Street"
-housenumber: 300
-phone: "+1-479-495-5444"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
-website: "https://www.walgreens.com/locator/walgreens-300+e+8th+st-danville-ar-72833/id=15703"
+street: East 8th Street
+housenumber: "300"
+phone: +1-479-495-5444
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-14:00
+website: https://www.walgreens.com/locator/walgreens-300+e+8th+st-danville-ar-72833/id=15703

@@ -1,11 +1,11 @@
 id: 1311916209
-type: way
+type: node
 latitude: 35.50788
 longitude: -92.03271
 postcode: "72543"
 city: Heber Spgs
-street: "Highway 25B"
-housenumber: 1500
-phone: "+1 501-362-8188"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/281/heber-springs-ar/whats-new"
+street: Highway 25B
+housenumber: "1500"
+phone: +1 501-362-8188
+opening_hours: 24/7
+website: https://www.walmart.com/store/281/heber-springs-ar/whats-new

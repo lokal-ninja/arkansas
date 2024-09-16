@@ -1,11 +1,11 @@
 id: 1173766212
-type: way
+type: node
 latitude: 35.361
 longitude: -93.53503
 postcode: "72863"
 city: Scranton
-street: "North 5th Street"
-housenumber: 103
+street: North 5th Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

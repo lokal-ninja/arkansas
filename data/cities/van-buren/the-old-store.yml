@@ -1,11 +1,11 @@
 id: 960184391
-type: way
+type: node
 latitude: 35.43568
 longitude: -94.3538
 postcode: "72956"
 city: Van Buren
-street: "East Main Street"
-housenumber: 610
-phone: "+1-918-304-7410"
+street: East Main Street
+housenumber: "610"
+phone: +1-918-304-7410
 opening_hours: ""
 website: ""

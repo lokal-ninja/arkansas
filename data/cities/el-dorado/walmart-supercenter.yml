@@ -1,11 +1,11 @@
 id: 878846716
-type: way
+type: node
 latitude: 33.24124
 longitude: -92.66819
 postcode: "71730"
 city: El Dorado
-street: "North West Avenue"
-housenumber: 2730
-phone: "+1 870-862-2128"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/530-el-dorado-ar"
+street: North West Avenue
+housenumber: "2730"
+phone: +1 870-862-2128
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/530-el-dorado-ar

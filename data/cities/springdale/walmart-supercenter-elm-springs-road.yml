@@ -1,11 +1,11 @@
 id: 813701394
-type: way
+type: node
 latitude: 36.19671
 longitude: -94.18384
 postcode: "72762"
 city: Springdale
-street: "Elm Springs Road"
-housenumber: 4870
-phone: "+1 479-306-7025"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4108/springdale-ar/whats-new"
+street: Elm Springs Road
+housenumber: "4870"
+phone: +1 479-306-7025
+opening_hours: 24/7
+website: https://www.walmart.com/store/4108/springdale-ar/whats-new

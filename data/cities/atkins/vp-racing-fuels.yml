@@ -1,11 +1,11 @@
 id: 1037397113
-type: way
+type: node
 latitude: 35.25483
 longitude: -92.93685
 postcode: "72823"
 city: Atkins
-street: "North Church Street"
-housenumber: 1202
+street: North Church Street
+housenumber: "1202"
 phone: ""
 opening_hours: ""
 website: ""

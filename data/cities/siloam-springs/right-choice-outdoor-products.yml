@@ -1,11 +1,11 @@
 id: 306047924
-type: way
+type: node
 latitude: 36.18149
 longitude: -94.52614
 postcode: "72761"
 city: Siloam Springs
-street: "East Main Street"
-housenumber: 1521
-phone: "+1-479-524-9371"
+street: East Main Street
+housenumber: "1521"
+phone: +1-479-524-9371
 opening_hours: ""
-website: "https://www.rightchoiceoutdoor.com/"
+website: https://www.rightchoiceoutdoor.com/

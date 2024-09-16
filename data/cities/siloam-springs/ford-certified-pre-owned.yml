@@ -1,11 +1,11 @@
 id: 280208311
-type: way
+type: node
 latitude: 36.17308
 longitude: -94.53904
 postcode: "72761"
 city: Siloam Springs
-street: "Highway 412 East"
-housenumber: 351
-phone: "+1 479 524 8200"
+street: Highway 412 East
+housenumber: "351"
+phone: +1 479 524 8200
 opening_hours: ""
 website: ""

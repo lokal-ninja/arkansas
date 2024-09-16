@@ -1,11 +1,11 @@
 id: 700589916
-type: way
+type: node
 latitude: 33.63517
 longitude: -91.80437
 postcode: "71655"
 city: Monticello
-street: "Highway 425 North"
-housenumber: 427
-phone: "+1 870-367-0409"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/348/monticello-ar/whats-new"
+street: Highway 425 North
+housenumber: "427"
+phone: +1 870-367-0409
+opening_hours: 24/7
+website: https://www.walmart.com/store/348/monticello-ar/whats-new

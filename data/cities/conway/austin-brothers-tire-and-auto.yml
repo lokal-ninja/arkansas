@@ -1,11 +1,11 @@
 id: 70662284
-type: way
+type: node
 latitude: 35.11018
 longitude: -92.44059
 postcode: "72032"
 city: Conway
-street: "Skyline Drive"
-housenumber: 1120
+street: Skyline Drive
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

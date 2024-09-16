@@ -1,11 +1,11 @@
 id: 442970841
-type: way
+type: node
 latitude: 35.08646
 longitude: -92.41158
 postcode: "72032"
 city: Conway
-street: "Elsinger Boulevard"
-housenumber: 600
-phone: "+1 501-328-3147"
+street: Elsinger Boulevard
+housenumber: "600"
+phone: +1 501-328-3147
 opening_hours: ""
-website: "https://stores.bestbuy.com/ar/conway/600-elsinger-blvd-1438.html"
+website: https://stores.bestbuy.com/ar/conway/600-elsinger-blvd-1438.html

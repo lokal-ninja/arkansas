@@ -1,11 +1,11 @@
 id: 371758863
-type: way
+type: node
 latitude: 34.7501
 longitude: -92.34178
 postcode: "72205"
 city: Little Rock
-street: "South University Avenue"
-housenumber: 310
+street: South University Avenue
+housenumber: "310"
 phone: ""
 opening_hours: ""
-website: "https://www.jared.com"
+website: https://www.jared.com

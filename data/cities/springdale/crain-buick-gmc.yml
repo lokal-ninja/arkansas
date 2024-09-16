@@ -1,11 +1,11 @@
 id: 820246439
-type: way
+type: node
 latitude: 36.1769
 longitude: -94.20051
 postcode: "72762"
 city: Springdale
-street: "West Sunset Avenue"
-housenumber: 6372
-phone: "+1 479 306 6499"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+street: West Sunset Avenue
+housenumber: "6372"
+phone: +1 479 306 6499
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

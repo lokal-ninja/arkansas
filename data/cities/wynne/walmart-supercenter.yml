@@ -1,11 +1,11 @@
 id: 872201583
-type: way
+type: node
 latitude: 35.25377
 longitude: -90.77817
 postcode: "72396"
 city: Wynne
-street: "Highway 64 East"
-housenumber: 800
-phone: "+1 870-238-8129"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/68/wynne-ar/whats-new"
+street: Highway 64 East
+housenumber: "800"
+phone: +1 870-238-8129
+opening_hours: 24/7
+website: https://www.walmart.com/store/68/wynne-ar/whats-new

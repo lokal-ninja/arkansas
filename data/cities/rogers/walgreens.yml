@@ -1,11 +1,11 @@
 id: 791510719
-type: way
+type: node
 latitude: 36.2837
 longitude: -94.15129
 postcode: "72758"
 city: Rogers
-street: "West Pleasant Grove Road"
-housenumber: 2503
+street: West Pleasant Grove Road
+housenumber: "2503"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2503+w+pleasant+grove+rd-rogers-ar-72758/id=9813"
+website: https://www.walgreens.com/locator/walgreens-2503+w+pleasant+grove+rd-rogers-ar-72758/id=9813

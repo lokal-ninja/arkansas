@@ -1,11 +1,11 @@
 id: 1270455504
-type: way
+type: node
 latitude: 34.90126
 longitude: -94.10693
 postcode: "72958"
 city: Waldron
-street: "North Hwy 71 Bypass"
-housenumber: 165
+street: North Hwy 71 Bypass
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

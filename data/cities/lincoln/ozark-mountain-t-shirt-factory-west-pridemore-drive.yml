@@ -1,11 +1,11 @@
 id: 1124272122
-type: way
+type: node
 latitude: 35.94779
 longitude: -94.42465
 postcode: "72744"
 city: Lincoln
-street: "West Pridemore Drive"
-housenumber: 110
-phone: "+1-479-445-6031"
-opening_hours: "Mo-Fr 09:00-16:30"
-website: "https://ozarkmtntees.com"
+street: West Pridemore Drive
+housenumber: "110"
+phone: +1-479-445-6031
+opening_hours: Mo-Fr 09:00-16:30
+website: https://ozarkmtntees.com

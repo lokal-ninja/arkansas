@@ -1,11 +1,11 @@
 id: 611332149
-type: way
+type: node
 latitude: 35.33596
 longitude: -94.31375
 postcode: "72923"
 city: Barling
-street: "Strozier Lane"
-housenumber: 1124
+street: Strozier Lane
+housenumber: "1124"
 phone: ""
 opening_hours: ""
 website: ""

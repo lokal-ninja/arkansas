@@ -1,11 +1,11 @@
 id: 997334586
-type: way
+type: node
 latitude: 36.00837
 longitude: -92.37893
 postcode: "72617"
 city: Big Flat
-street: "Highway 14 East"
-housenumber: 11512
+street: Highway 14 East
+housenumber: "11512"
 phone: "8704482077"
-opening_hours: "Th-Sa 12:00-20:00"
-website: "http://gravitybrewworks.com"
+opening_hours: Th-Sa 12:00-20:00
+website: http://gravitybrewworks.com

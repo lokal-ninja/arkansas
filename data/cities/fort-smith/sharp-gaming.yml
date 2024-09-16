@@ -1,11 +1,11 @@
 id: 1308787646
-type: way
+type: node
 latitude: 35.34342
 longitude: -94.4263
 postcode: "72901"
 city: Fort Smith
-street: "Louisville Street"
-housenumber: 923
-phone: "(479)242-2594"
+street: Louisville Street
+housenumber: "923"
+phone: (479)242-2594
 opening_hours: ""
-website: "https://www.sb-gaming.com/"
+website: https://www.sb-gaming.com/

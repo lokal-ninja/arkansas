@@ -1,11 +1,11 @@
 id: 558666724
-type: way
+type: node
 latitude: 35.34073
 longitude: -94.39026
 postcode: "72903"
 city: Fort Smith
-street: "Phoenix Avenue"
-housenumber: 3835
-phone: "+1 479-646-1252"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ar/fortsmith/pet-supplies-fortsmith-ar-1499.html"
+street: Phoenix Avenue
+housenumber: "3835"
+phone: +1 479-646-1252
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ar/fortsmith/pet-supplies-fortsmith-ar-1499.html

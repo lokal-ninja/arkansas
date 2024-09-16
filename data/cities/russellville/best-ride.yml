@@ -1,11 +1,11 @@
 id: 753776568
-type: way
+type: node
 latitude: 35.27157
 longitude: -93.12039
 postcode: "72801"
 city: Russellville
-street: "South Knoxville Avenue"
-housenumber: 621
-phone: "+1-479-967-3192"
+street: South Knoxville Avenue
+housenumber: "621"
+phone: +1-479-967-3192
 opening_hours: ""
 website: ""

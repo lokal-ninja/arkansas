@@ -1,11 +1,11 @@
 id: 1029297118
-type: way
+type: node
 latitude: 34.753
 longitude: -92.37165
 postcode: "72205"
 city: Little Rock
-street: "West Markham Street"
-housenumber: 8717
+street: West Markham Street
+housenumber: "8717"
 phone: "+15012247611"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00; Su closed"
-website: "http://oakforestcleaners.com/"
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-12:00; Su closed
+website: http://oakforestcleaners.com/

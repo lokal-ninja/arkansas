@@ -1,11 +1,11 @@
 id: 1118740720
-type: way
+type: node
 latitude: 35.98568
 longitude: -94.29801
 postcode: "72753"
 city: Prairie Grove
-street: "E Heritage Pakwy"
-housenumber: 1001
-phone: "+1-479-334-2091"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ar/prairie-grove/16552.html"
+street: E Heritage Pakwy
+housenumber: "1001"
+phone: +1-479-334-2091
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.dollargeneral.com/store-directory/ar/prairie-grove/16552.html

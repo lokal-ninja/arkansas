@@ -1,11 +1,11 @@
 id: 747469526
-type: way
+type: node
 latitude: 36.16449
 longitude: -94.09179
 postcode: "72764"
 city: Springdale
-street: "East Robinson Avenue"
-housenumber: 3553
-phone: "+1 479-750-4683"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5738/springdale-ar/whats-new"
+street: East Robinson Avenue
+housenumber: "3553"
+phone: +1 479-750-4683
+opening_hours: 24/7
+website: https://www.walmart.com/store/5738/springdale-ar/whats-new

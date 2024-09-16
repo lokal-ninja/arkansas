@@ -1,11 +1,11 @@
 id: 486177666
-type: way
+type: node
 latitude: 34.57809
 longitude: -92.57949
 postcode: "72015"
 city: Benton
-street: "I-30 Frontage Road"
-housenumber: 17309
-phone: "+1 501-860-6135"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/85/benton-ar/whats-new"
+street: I-30 Frontage Road
+housenumber: "17309"
+phone: +1 501-860-6135
+opening_hours: 24/7
+website: https://www.walmart.com/store/85/benton-ar/whats-new

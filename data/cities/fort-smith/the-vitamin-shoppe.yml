@@ -1,11 +1,11 @@
 id: 558662799
-type: way
+type: node
 latitude: 35.33909
 longitude: -94.38997
 postcode: "72903"
 city: Fort Smith
-street: "Phoenix Avenue"
-housenumber: 3901
+street: Phoenix Avenue
+housenumber: "3901"
 phone: ""
 opening_hours: ""
 website: ""

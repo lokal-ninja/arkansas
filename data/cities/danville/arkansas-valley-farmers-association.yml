@@ -1,11 +1,11 @@
 id: 1028667434
-type: way
+type: node
 latitude: 35.06475
 longitude: -93.39555
 postcode: "72833"
 city: Danville
-street: "Highway 27 North"
-housenumber: 208
+street: Highway 27 North
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

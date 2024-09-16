@@ -1,11 +1,11 @@
 id: 1061945511
-type: way
+type: node
 latitude: 34.75298
 longitude: -92.37007
 postcode: "72205"
 city: Little Rock
-street: "West Markham Street"
-housenumber: 8601
+street: West Markham Street
+housenumber: "8601"
 phone: "+15016158118"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.facebook.com/bollweevilpawnmarkham/?ref=page_internal"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.facebook.com/bollweevilpawnmarkham/?ref=page_internal

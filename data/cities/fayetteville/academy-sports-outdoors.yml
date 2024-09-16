@@ -1,11 +1,11 @@
 id: 487163703
-type: way
+type: node
 latitude: 36.12148
 longitude: -94.15411
 postcode: "72703"
 city: Fayetteville
-street: "North Steele Boulevard"
-housenumber: 3864
-phone: "+1 479 444 2500"
+street: North Steele Boulevard
+housenumber: "3864"
+phone: +1 479 444 2500
 opening_hours: ""
-website: "https://www.academy.com/storelocator/arkansas/fayetteville/store-0180"
+website: https://www.academy.com/storelocator/arkansas/fayetteville/store-0180

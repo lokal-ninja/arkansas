@@ -1,11 +1,11 @@
 id: 642445427
-type: way
+type: node
 latitude: 35.32567
 longitude: -94.39693
 postcode: "72908"
 city: Fort Smith
-street: "South 36th Street"
-housenumber: 6000
+street: South 36th Street
+housenumber: "6000"
 phone: ""
 opening_hours: ""
 website: ""

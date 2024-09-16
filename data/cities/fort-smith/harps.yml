@@ -1,11 +1,11 @@
 id: 293100151
-type: way
+type: node
 latitude: 35.34853
 longitude: -94.35008
 postcode: "72903"
 city: Fort Smith
-street: "South 74th Street"
-housenumber: 3401
-phone: "479-452-6335"
+street: South 74th Street
+housenumber: "3401"
+phone: 479-452-6335
 opening_hours: ""
-website: "https://www.harpsfood.com/StoreLocator/Store/?L=174&S="
+website: https://www.harpsfood.com/StoreLocator/Store/?L=174&S=

@@ -1,11 +1,11 @@
 id: 1212882936
-type: way
+type: node
 latitude: 35.14132
 longitude: -93.90178
 postcode: "72927"
 city: Booneville
-street: "East Main Street"
-housenumber: 1534
-phone: "+1-479-849-1148"
+street: East Main Street
+housenumber: "1534"
+phone: +1-479-849-1148
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1060164848
-type: way
+type: node
 latitude: 34.74005
 longitude: -92.37292
 postcode: "72204"
 city: Little Rock
-street: "John Barrow Road"
-housenumber: 1400
-phone: "+1-501-219-8749"
-opening_hours: "07:00-24:00"
+street: John Barrow Road
+housenumber: "1400"
+phone: +1-501-219-8749
+opening_hours: 07:00-24:00
 website: ""

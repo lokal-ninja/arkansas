@@ -1,11 +1,11 @@
 id: 553576662
-type: way
+type: node
 latitude: 34.62337
 longitude: -92.49992
 postcode: "72022"
 city: Bryant
-street: "North Reynolds Road"
-housenumber: 3121
+street: North Reynolds Road
+housenumber: "3121"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ar/bryant/3121-n-reynolds-rd--ste-7.html"
+website: https://www.autozone.com/locations/ar/bryant/3121-n-reynolds-rd--ste-7.html

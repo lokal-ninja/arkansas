@@ -1,11 +1,11 @@
 id: 280209677
-type: way
+type: node
 latitude: 36.17187
 longitude: -94.5365
 postcode: "72761"
 city: Siloam Springs
-street: "Highway 412 East"
-housenumber: 504
-phone: "+1 888 958 8058"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.superiorautomall.com/index.htm"
+street: Highway 412 East
+housenumber: "504"
+phone: +1 888 958 8058
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.superiorautomall.com/index.htm

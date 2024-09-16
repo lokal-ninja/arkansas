@@ -1,11 +1,11 @@
 id: 1204590177
-type: way
+type: node
 latitude: 36.35639
 longitude: -92.33561
 postcode: "72653"
 city: Mountain Home
-street: "Charles Blackburn Drive"
-housenumber: 124
-phone: "+1 870-492-1000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ar-mountain-home/2236"
+street: Charles Blackburn Drive
+housenumber: "124"
+phone: +1 870-492-1000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ar-mountain-home/2236

@@ -1,11 +1,11 @@
 id: 903439156
-type: way
+type: node
 latitude: 35.81763
 longitude: -90.73014
 postcode: "72401"
 city: Jonesboro
-street: "Woodsprings Road"
-housenumber: 1901
+street: Woodsprings Road
+housenumber: "1901"
 phone: ""
 opening_hours: ""
 website: ""

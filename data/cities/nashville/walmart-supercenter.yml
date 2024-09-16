@@ -1,11 +1,11 @@
 id: 589132390
-type: way
+type: node
 latitude: 33.92532
 longitude: -93.85827
 postcode: "71852"
 city: Nashville
-street: "South 4th Street"
-housenumber: 1710
-phone: "+1 870-845-1881"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/33/nashville-ar/whats-new"
+street: South 4th Street
+housenumber: "1710"
+phone: +1 870-845-1881
+opening_hours: 24/7
+website: https://www.walmart.com/store/33/nashville-ar/whats-new

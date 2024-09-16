@@ -1,11 +1,11 @@
 id: 1270323892
-type: way
+type: node
 latitude: 34.89821
 longitude: -94.09243
 postcode: "72958"
 city: Waldron
-street: "West 4th Street"
-housenumber: 101
+street: West 4th Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

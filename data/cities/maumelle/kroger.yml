@@ -1,11 +1,11 @@
 id: 1092339714
-type: way
+type: node
 latitude: 34.84741
 longitude: -92.40887
 postcode: "72113"
 city: Maumelle
-street: "Commons Drive"
-housenumber: 110
-phone: "+1 501-210-7670"
-opening_hours: "06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/ar/maumelle/maumelle/025/00606"
+street: Commons Drive
+housenumber: "110"
+phone: +1 501-210-7670
+opening_hours: 06:00-23:00
+website: https://www.kroger.com/stores/grocery/ar/maumelle/maumelle/025/00606

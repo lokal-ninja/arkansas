@@ -1,11 +1,11 @@
 id: 1082440390
-type: way
+type: node
 latitude: 36.0529
 longitude: -94.1342
 postcode: "72701"
 city: Fayetteville
-street: "East Huntsville Road"
-housenumber: 1875
-phone: "+1 479 396 4270"
-opening_hours: "24/7"
+street: East Huntsville Road
+housenumber: "1875"
+phone: +1 479 396 4270
+opening_hours: 24/7
 website: ""

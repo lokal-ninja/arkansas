@@ -1,11 +1,11 @@
 id: 933951466
-type: way
+type: node
 latitude: 34.45125
 longitude: -93.06968
 postcode: "71913"
 city: Hot Springs
-street: "Central Avenue"
-housenumber: 4201
-phone: "+1-501-443-1851"
+street: Central Avenue
+housenumber: "4201"
+phone: +1-501-443-1851
 opening_hours: ""
 website: ""

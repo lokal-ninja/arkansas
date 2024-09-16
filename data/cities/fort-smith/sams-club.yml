@@ -1,11 +1,11 @@
 id: 293100154
-type: way
+type: node
 latitude: 35.34884
 longitude: -94.34877
 postcode: "72903"
 city: Fort Smith
-street: "Rogers Avenue"
-housenumber: 7700
-phone: "+1 479-484-5454"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/ft-smith-ar-sams-club/8134"
+street: Rogers Avenue
+housenumber: "7700"
+phone: +1 479-484-5454
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/ft-smith-ar-sams-club/8134

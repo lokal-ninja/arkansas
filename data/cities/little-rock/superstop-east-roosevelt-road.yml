@@ -1,11 +1,11 @@
 id: 1163339387
-type: way
+type: node
 latitude: 34.72433
 longitude: -92.26584
 postcode: "72206"
 city: Little Rock
-street: "East Roosevelt Road"
-housenumber: 700
-phone: "+1-501-372-7822"
+street: East Roosevelt Road
+housenumber: "700"
+phone: +1-501-372-7822
 opening_hours: ""
 website: ""

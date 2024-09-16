@@ -1,11 +1,11 @@
 id: 484860386
-type: way
+type: node
 latitude: 36.26708
 longitude: -94.47995
 postcode: "72734"
 city: Gentry
-street: "South Gentry Boulevard"
-housenumber: 105
+street: South Gentry Boulevard
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

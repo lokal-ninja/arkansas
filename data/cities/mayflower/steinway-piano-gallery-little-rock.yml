@@ -1,11 +1,11 @@
 id: 789056981
-type: way
+type: node
 latitude: 34.95538
 longitude: -92.42319
 postcode: ""
 city: Mayflower
-street: "AR 365"
-housenumber: 657
-phone: "+1 501-258-8637"
+street: AR 365
+housenumber: "657"
+phone: +1 501-258-8637
 opening_hours: ""
-website: "https://www.steinwaylr.com/"
+website: https://www.steinwaylr.com/

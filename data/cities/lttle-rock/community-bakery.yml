@@ -1,11 +1,11 @@
 id: 1109968200
-type: way
+type: node
 latitude: 34.75205
 longitude: -92.39456
 postcode: "72211"
 city: Lttle Rock
-street: "South Shackleford Road"
-housenumber: 270
-phone: "+1-501-224-1656"
-opening_hours: "Mo-Sa 07:00-18:00"
+street: South Shackleford Road
+housenumber: "270"
+phone: +1-501-224-1656
+opening_hours: Mo-Sa 07:00-18:00
 website: ""

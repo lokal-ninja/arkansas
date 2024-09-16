@@ -1,11 +1,11 @@
 id: 361402639
-type: way
+type: node
 latitude: 34.74616
 longitude: -92.41004
 postcode: "72211"
 city: Little Rock
-street: "Bowman Road"
-housenumber: 900
-phone: "+1 501-227-7119"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "http://www3.samsclub.com/clublocator/club_detail.aspx?myClub=8104"
+street: Bowman Road
+housenumber: "900"
+phone: +1 501-227-7119
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: http://www3.samsclub.com/clublocator/club_detail.aspx?myClub=8104

@@ -1,11 +1,11 @@
 id: 638076188
-type: way
+type: node
 latitude: 36.06269
 longitude: -94.15853
 postcode: "72701"
 city: Fayetteville
-street: "East Center Street"
-housenumber: 28
-phone: "+1 479 527 6984"
-opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-20:00; Sa 09:00-20:00"
-website: "https://www.pearlsbooks.com/"
+street: East Center Street
+housenumber: "28"
+phone: +1 479 527 6984
+opening_hours: Mo-Th 10:00-18:00; Fr 10:00-20:00; Sa 09:00-20:00
+website: https://www.pearlsbooks.com/

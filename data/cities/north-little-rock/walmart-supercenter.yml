@@ -1,11 +1,11 @@
 id: 486881018
-type: way
+type: node
 latitude: 34.78689
 longitude: -92.21378
 postcode: "72117"
 city: North Little Rock
-street: "East McCain Boulevard"
-housenumber: 4450
-phone: "+1 501-945-2700"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1105/north-little%20rock-ar/whats-new"
+street: East McCain Boulevard
+housenumber: "4450"
+phone: +1 501-945-2700
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1105/north-little%20rock-ar/whats-new

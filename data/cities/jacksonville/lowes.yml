@@ -4,8 +4,8 @@ latitude: 34.8868
 longitude: -92.10437
 postcode: "72076"
 city: Jacksonville
-street: "T.P. White Drive"
-housenumber: 2301
-phone: "+1 501-241-1500"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ar-jacksonville/1766"
+street: T.P. White Drive
+housenumber: "2301"
+phone: +1 501-241-1500
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ar-jacksonville/1766

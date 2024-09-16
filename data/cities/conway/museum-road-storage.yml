@@ -1,11 +1,11 @@
 id: 767365624
-type: way
+type: node
 latitude: 35.09696
 longitude: -92.42097
 postcode: "72032"
 city: Conway
-street: "North Museum Road"
-housenumber: 1325
+street: North Museum Road
+housenumber: "1325"
 phone: ""
 opening_hours: ""
 website: ""

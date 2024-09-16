@@ -1,11 +1,11 @@
 id: 1042807428
-type: way
+type: node
 latitude: 34.66597
 longitude: -92.40661
 postcode: "72210"
 city: Little Rock
-street: "Gateway Grove Loop"
-housenumber: 400
+street: Gateway Grove Loop
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

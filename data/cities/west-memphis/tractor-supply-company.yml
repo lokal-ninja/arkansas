@@ -1,11 +1,11 @@
 id: 1202696353
-type: way
+type: node
 latitude: 35.15915
 longitude: -90.22127
 postcode: "72301"
 city: West Memphis
-street: "West Service Road"
-housenumber: 2100
-phone: "+1 870-735-5841"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West Service Road
+housenumber: "2100"
+phone: +1 870-735-5841
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

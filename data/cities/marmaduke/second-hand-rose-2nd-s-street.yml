@@ -1,11 +1,11 @@
 id: 590881533
-type: way
+type: node
 latitude: 36.18632
 longitude: -90.38392
 postcode: "72443"
 city: Marmaduke
-street: "2nd S Street"
-housenumber: 113
+street: 2nd S Street
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: Mo-Su 09:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 661902577
-type: way
+type: node
 latitude: 35.38858
 longitude: -94.42622
 postcode: "72901"
 city: Fort Smith
-street: "Garrison Avenue"
-housenumber: 415
+street: Garrison Avenue
+housenumber: "415"
 phone: "+14792226169"
-opening_hours: "24/7"
-website: "https://www.oakcrestmarket.com/"
+opening_hours: 24/7
+website: https://www.oakcrestmarket.com/

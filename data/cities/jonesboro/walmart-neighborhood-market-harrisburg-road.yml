@@ -1,11 +1,11 @@
 id: 574636594
-type: way
+type: node
 latitude: 35.80319
 longitude: -90.69916
 postcode: "72404"
 city: Jonesboro
-street: "Harrisburg Road"
-housenumber: 3319
-phone: "+1 870-203-7018"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/6876/jonesboro-ar/whats-new"
+street: Harrisburg Road
+housenumber: "3319"
+phone: +1 870-203-7018
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/6876/jonesboro-ar/whats-new

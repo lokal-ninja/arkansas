@@ -1,11 +1,11 @@
 id: 565125776
-type: way
+type: node
 latitude: 35.7693
 longitude: -91.64021
 postcode: "72501"
 city: Batesville
-street: "South Saint Louis Street"
-housenumber: 1045
-phone: "+1-870-307-0262"
-opening_hours: "09:00-17:00"
-website: "https://www.walgreens.com/locator/walgreens-1045+s+saint+louis+st-batesville-ar-72501/id=12417"
+street: South Saint Louis Street
+housenumber: "1045"
+phone: +1-870-307-0262
+opening_hours: 09:00-17:00
+website: https://www.walgreens.com/locator/walgreens-1045+s+saint+louis+st-batesville-ar-72501/id=12417

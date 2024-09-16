@@ -1,11 +1,11 @@
 id: 595223749
-type: way
+type: node
 latitude: 35.37464
 longitude: -94.40006
 postcode: "72901"
 city: Fort Smith
-street: "Rogers Avenue"
-housenumber: 3000
+street: Rogers Avenue
+housenumber: "3000"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 266602778
-type: way
+type: node
 latitude: 34.97729
 longitude: -92.04125
 postcode: "72023"
 city: Cabot
-street: "South Rockwood Drive"
-housenumber: 304
-phone: "+1 501-941-5200"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2587/cabot-ar/whats-new"
+street: South Rockwood Drive
+housenumber: "304"
+phone: +1 501-941-5200
+opening_hours: 24/7
+website: https://www.walmart.com/store/2587/cabot-ar/whats-new

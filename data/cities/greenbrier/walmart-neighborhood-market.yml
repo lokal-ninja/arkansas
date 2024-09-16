@@ -1,11 +1,11 @@
 id: 1308460206
-type: way
+type: node
 latitude: 35.22615
 longitude: -92.3898
 postcode: "72058"
 city: Greenbrier
-street: "South Broadview"
-housenumber: 75
-phone: "+1 501-287-6001"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/7317/greenbrier-ar/whats-new"
+street: South Broadview
+housenumber: "75"
+phone: +1 501-287-6001
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/7317/greenbrier-ar/whats-new

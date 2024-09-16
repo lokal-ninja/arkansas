@@ -1,11 +1,11 @@
 id: 466556253
-type: way
+type: node
 latitude: 36.07087
 longitude: -94.1502
 postcode: "72701"
 city: Fayetteville
-street: "North Mission Boulevard"
-housenumber: 525
-phone: "+1 479 521 4334"
-opening_hours: "Mo-Fr 10:00-17:30; Sa 10:00-17:00"
-website: "https://www.facebook.com/Gift-House-Antiques-431241543625144/"
+street: North Mission Boulevard
+housenumber: "525"
+phone: +1 479 521 4334
+opening_hours: Mo-Fr 10:00-17:30; Sa 10:00-17:00
+website: https://www.facebook.com/Gift-House-Antiques-431241543625144/

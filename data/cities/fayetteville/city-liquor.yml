@@ -1,11 +1,11 @@
 id: 476813120
-type: way
+type: node
 latitude: 36.04863
 longitude: -94.16411
 postcode: "72701"
 city: Fayetteville
-street: "South School Avenue"
-housenumber: 1428
-phone: "+1 479 442 5414"
-opening_hours: "Mo-Th 08:00-23:00; Fr,Sa 08:00-24:00"
-website: "https://www.facebook.com/cityliquor/"
+street: South School Avenue
+housenumber: "1428"
+phone: +1 479 442 5414
+opening_hours: Mo-Th 08:00-23:00; Fr,Sa 08:00-24:00
+website: https://www.facebook.com/cityliquor/

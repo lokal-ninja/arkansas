@@ -1,11 +1,11 @@
 id: 286984425
-type: way
+type: node
 latitude: 34.48971
 longitude: -93.08602
 postcode: "71913"
 city: Hot Springs National Park
-street: "Airport Road"
-housenumber: 207
-phone: "+1 501-318-0956"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ar/hot-springs-national-park/207-airport-rd"
+street: Airport Road
+housenumber: "207"
+phone: +1 501-318-0956
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ar/hot-springs-national-park/207-airport-rd

@@ -1,11 +1,11 @@
 id: 712195439
-type: way
+type: node
 latitude: 35.2787
 longitude: -93.0988
 postcode: "72801"
 city: Russellville
-street: "North Hampton Avenue"
-housenumber: 104
-phone: "+1 501-596-8660"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/104-n-hampton-avenue-russellville-72802?number=2904"
+street: North Hampton Avenue
+housenumber: "104"
+phone: +1 501-596-8660
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/104-n-hampton-avenue-russellville-72802?number=2904

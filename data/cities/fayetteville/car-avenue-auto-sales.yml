@@ -1,11 +1,11 @@
 id: 474255462
-type: way
+type: node
 latitude: 36.09264
 longitude: -94.15382
 postcode: "72703"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 2243
-phone: "+1 479 332 4311"
+street: North College Avenue
+housenumber: "2243"
+phone: +1 479 332 4311
 opening_hours: ""
-website: "https://www.caravenueauto.com/"
+website: https://www.caravenueauto.com/

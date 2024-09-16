@@ -4,8 +4,8 @@ latitude: 35.11053
 longitude: -92.42826
 postcode: "72032"
 city: Conway
-street: "Skyline Dr #2"
-housenumber: 201
+street: 'Skyline Dr #2'
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 13:00-18:00"
-website: "https://stores.catofashions.com/ar/conway/201-skyline-drive"
+opening_hours: Mo-Sa 10:00-20:00; Su 13:00-18:00
+website: https://stores.catofashions.com/ar/conway/201-skyline-drive

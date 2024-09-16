@@ -1,11 +1,11 @@
 id: 1245725279
-type: way
+type: node
 latitude: 34.81511
 longitude: -91.56771
 postcode: "72064"
 city: Hazen
-street: "US 63 North"
-housenumber: 3404
-phone: "+1 870 255 1395"
+street: US 63 North
+housenumber: "3404"
+phone: +1 870 255 1395
 opening_hours: ""
 website: ""

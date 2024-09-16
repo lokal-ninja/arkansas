@@ -1,11 +1,11 @@
 id: 301095821
-type: way
+type: node
 latitude: 36.17436
 longitude: -94.52169
 postcode: "72761"
 city: Siloam Springs
-street: "Highway 412 East"
-housenumber: 1911
-phone: "+1 479 640 3715"
+street: Highway 412 East
+housenumber: "1911"
+phone: +1 479 640 3715
 opening_hours: ""
-website: "https://www.holdenbuildings.com/"
+website: https://www.holdenbuildings.com/

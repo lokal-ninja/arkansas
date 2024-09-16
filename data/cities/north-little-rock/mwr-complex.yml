@@ -1,11 +1,11 @@
 id: 1091746879
-type: way
+type: node
 latitude: 34.82366
 longitude: -92.28215
 postcode: "72199"
 city: North Little Rock
-street: "Missouri Avenue"
-housenumber: 1404
-phone: "501-753-9017"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://mwrcomplex.com/"
+street: Missouri Avenue
+housenumber: "1404"
+phone: 501-753-9017
+opening_hours: Mo-Fr 07:30-17:00
+website: https://mwrcomplex.com/

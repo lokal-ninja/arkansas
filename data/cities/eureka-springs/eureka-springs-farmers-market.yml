@@ -1,11 +1,11 @@
 id: 707035654
-type: way
+type: node
 latitude: 36.39887
 longitude: -93.74616
 postcode: "72632"
 city: Eureka Springs
-street: "Kings Highway"
-housenumber: 44
+street: Kings Highway
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

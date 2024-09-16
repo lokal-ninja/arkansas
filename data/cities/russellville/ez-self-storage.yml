@@ -1,11 +1,11 @@
 id: 1312904855
-type: way
+type: node
 latitude: 35.25294
 longitude: -93.13417
 postcode: "72802"
 city: Russellville
-street: "South Arkansas Avenue"
-housenumber: 2707
+street: South Arkansas Avenue
+housenumber: "2707"
 phone: ""
 opening_hours: ""
 website: ""

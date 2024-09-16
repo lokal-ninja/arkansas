@@ -1,11 +1,11 @@
 id: 682747046
-type: way
+type: node
 latitude: 36.0528
 longitude: -94.19135
 postcode: "72701"
 city: Fayetteville
-street: "West Martin Luther King Blvd"
-housenumber: 2301
-phone: "+1 479 443 2381"
-opening_hours: "Mo-Fr 07:30-17:00,Sa 07:30-12:00"
-website: "https://www.lockesupply.com/"
+street: West Martin Luther King Blvd
+housenumber: "2301"
+phone: +1 479 443 2381
+opening_hours: Mo-Fr 07:30-17:00,Sa 07:30-12:00
+website: https://www.lockesupply.com/

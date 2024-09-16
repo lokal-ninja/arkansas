@@ -1,11 +1,11 @@
 id: 592520232
-type: way
+type: node
 latitude: 35.36494
 longitude: -94.37923
 postcode: "72903"
 city: Fort Smith
-street: "Rogers Avenue"
-housenumber: 4900
-phone: "+1 479-484-1015"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ar/fort-smith/4900-rogers-ave-suite-102b"
+street: Rogers Avenue
+housenumber: "4900"
+phone: +1 479-484-1015
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ar/fort-smith/4900-rogers-ave-suite-102b

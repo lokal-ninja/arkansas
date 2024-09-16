@@ -1,11 +1,11 @@
 id: 1013260954
-type: way
+type: node
 latitude: 36.32258
 longitude: -91.48799
 postcode: "72542"
 city: Hardy
-street: "US-63"
-housenumber: 152
+street: US-63
+housenumber: "152"
 phone: "+18708565000"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 301092048
-type: way
+type: node
 latitude: 36.17935
 longitude: -94.55235
 postcode: "72761"
 city: Siloam Springs
-street: "Heritage Court"
-housenumber: 630
+street: Heritage Court
+housenumber: "630"
 phone: ""
 opening_hours: ""
 website: ""

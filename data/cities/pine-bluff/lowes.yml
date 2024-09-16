@@ -1,11 +1,11 @@
 id: 1073563421
-type: way
+type: node
 latitude: 34.20756
 longitude: -91.97443
 postcode: "71601"
 city: Pine Bluff
-street: "East Harding Avenue"
-housenumber: 2906
-phone: "+1 870-850-7702"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ar-pine-bluff/1628"
+street: East Harding Avenue
+housenumber: "2906"
+phone: +1 870-850-7702
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ar-pine-bluff/1628

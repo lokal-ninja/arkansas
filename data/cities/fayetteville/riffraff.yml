@@ -1,11 +1,11 @@
 id: 467674728
-type: way
+type: node
 latitude: 36.06216
 longitude: -94.1607
 postcode: "72701"
 city: Fayetteville
-street: "South Block Avenue"
-housenumber: 19
-phone: "+1 479 684 1749"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://shopriffraff.com/"
+street: South Block Avenue
+housenumber: "19"
+phone: +1 479 684 1749
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
+website: https://shopriffraff.com/

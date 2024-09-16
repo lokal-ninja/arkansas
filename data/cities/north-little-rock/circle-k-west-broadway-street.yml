@@ -1,11 +1,11 @@
 id: 1178624086
-type: way
+type: node
 latitude: 34.75728
 longitude: -92.2742
 postcode: "72114"
 city: North Little Rock
-street: "West Broadway Street"
-housenumber: 601
-phone: "+1-501-451-7571"
+street: West Broadway Street
+housenumber: "601"
+phone: +1-501-451-7571
 opening_hours: ""
 website: ""

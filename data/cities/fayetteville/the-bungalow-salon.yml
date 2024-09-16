@@ -1,11 +1,11 @@
 id: 467812273
-type: way
+type: node
 latitude: 36.06432
 longitude: -94.16314
 postcode: "72701"
 city: Fayetteville
-street: "North Locust Avenue"
-housenumber: 115
-phone: "+1 479 283 0095"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://the-bungalow-salon.business.site/"
+street: North Locust Avenue
+housenumber: "115"
+phone: +1 479 283 0095
+opening_hours: Mo-Sa 09:00-21:00
+website: https://the-bungalow-salon.business.site/

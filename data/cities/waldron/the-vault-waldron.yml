@@ -1,11 +1,11 @@
 id: 1270323911
-type: way
+type: node
 latitude: 34.89851
 longitude: -94.09107
 postcode: "72958"
 city: Waldron
-street: "South Main Street"
-housenumber: 245
-phone: "+1 479-999-1022"
+street: South Main Street
+housenumber: "245"
+phone: +1 479-999-1022
 opening_hours: ""
 website: ""

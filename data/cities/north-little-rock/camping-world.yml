@@ -1,11 +1,11 @@
 id: 951342481
-type: way
+type: node
 latitude: 34.78506
 longitude: -92.14049
 postcode: "72117"
 city: North Little Rock
-street: "Diamond Drive"
-housenumber: 9801
-phone: "+1-888-409-7366"
+street: Diamond Drive
+housenumber: "9801"
+phone: +1-888-409-7366
 opening_hours: ""
-website: "https://campingworld.com"
+website: https://campingworld.com

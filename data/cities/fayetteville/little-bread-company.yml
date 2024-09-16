@@ -1,11 +1,11 @@
 id: 467819626
-type: way
+type: node
 latitude: 36.0641
 longitude: -94.16039
 postcode: "72701"
 city: Fayetteville
-street: "North Block Avenue"
-housenumber: 116
-phone: "+1 479 527 0622"
-opening_hours: "Mo-Sa 07:00-17:00; Su 08:00-15:00"
-website: "https://www.littlebread.com/"
+street: North Block Avenue
+housenumber: "116"
+phone: +1 479 527 0622
+opening_hours: Mo-Sa 07:00-17:00; Su 08:00-15:00
+website: https://www.littlebread.com/

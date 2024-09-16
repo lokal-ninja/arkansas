@@ -1,11 +1,11 @@
 id: 1203052422
-type: way
+type: node
 latitude: 36.06203
 longitude: -90.51694
 postcode: "72450"
 city: Paragould
-street: "North 23rd Street"
-housenumber: 212
-phone: "+1 870-586-2000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ar-paragould/2847"
+street: North 23rd Street
+housenumber: "212"
+phone: +1 870-586-2000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ar-paragould/2847

@@ -1,11 +1,11 @@
 id: 951716654
-type: way
+type: node
 latitude: 34.76992
 longitude: -92.33841
 postcode: "72207"
 city: Little Rock
-street: "Kavanaugh Boulevard"
-housenumber: 5801
+street: Kavanaugh Boulevard
+housenumber: "5801"
 phone: "+15016614067"
-opening_hours: "Mo-Sa 10:100-18:00"
+opening_hours: Mo-Sa 10:100-18:00
 website: ""

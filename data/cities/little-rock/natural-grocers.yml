@@ -1,11 +1,11 @@
 id: 517495041
-type: way
+type: node
 latitude: 34.75826
 longitude: -92.37795
 postcode: "72227"
 city: Little Rock
-street: "North Rodney Parham Road"
-housenumber: 9210
-phone: "+1-501-312-8300"
-opening_hours: "Mo-Sa 09:00-21:05; Su 09:00-20:05"
-website: "https://www.naturalgrocers.com/"
+street: North Rodney Parham Road
+housenumber: "9210"
+phone: +1-501-312-8300
+opening_hours: Mo-Sa 09:00-21:05; Su 09:00-20:05
+website: https://www.naturalgrocers.com/

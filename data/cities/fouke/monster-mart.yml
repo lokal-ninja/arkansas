@@ -1,11 +1,11 @@
 id: 949562400
-type: way
+type: node
 latitude: 33.26188
 longitude: -93.88517
 postcode: "71837"
 city: Fouke
-street: "North Monster Expressway"
-housenumber: 104
+street: North Monster Expressway
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

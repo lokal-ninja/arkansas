@@ -1,11 +1,11 @@
 id: 128150126
-type: way
+type: node
 latitude: 33.11634
 longitude: -91.96036
 postcode: "71635"
 city: Crossett
-street: "South Florida Street"
-housenumber: 1600
-phone: "+1-870-364-2511"
+street: South Florida Street
+housenumber: "1600"
+phone: +1-870-364-2511
 opening_hours: ""
 website: ""

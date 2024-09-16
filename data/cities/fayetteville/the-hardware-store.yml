@@ -1,11 +1,11 @@
 id: 474255697
-type: way
+type: node
 latitude: 36.09469
 longitude: -94.15832
 postcode: "72703"
 city: Fayetteville
-street: "West Township Street"
-housenumber: 5
-phone: "+1 479 442 6000"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-17:00"
-website: "https://www.ths5.com/"
+street: West Township Street
+housenumber: "5"
+phone: +1 479 442 6000
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:30-17:00
+website: https://www.ths5.com/

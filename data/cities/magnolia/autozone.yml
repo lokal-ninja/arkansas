@@ -1,11 +1,11 @@
 id: 1153458620
-type: way
+type: node
 latitude: 33.26621
 longitude: -93.2363
 postcode: "71753"
 city: Magnolia
-street: "East Main Street"
-housenumber: 421
+street: East Main Street
+housenumber: "421"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ar/magnolia/421-e-main-st.html"
+website: https://www.autozone.com/locations/ar/magnolia/421-e-main-st.html

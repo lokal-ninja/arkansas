@@ -1,11 +1,11 @@
 id: 1127496040
-type: way
+type: node
 latitude: 34.8995
 longitude: -91.19476
 postcode: "72021"
 city: Brinkley
-street: "North Main Street"
-housenumber: 991
-phone: "+1-870-589-2704"
-opening_hours: "24/7"
+street: North Main Street
+housenumber: "991"
+phone: +1-870-589-2704
+opening_hours: 24/7
 website: ""

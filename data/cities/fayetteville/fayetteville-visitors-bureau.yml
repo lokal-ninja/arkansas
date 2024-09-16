@@ -1,11 +1,11 @@
 id: 467674672
-type: way
+type: node
 latitude: 36.06199
 longitude: -94.16071
 postcode: "72701"
 city: Fayetteville
-street: "South Block Avenue"
-housenumber: 21
-phone: "+1 479 521 5776"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.experiencefayetteville.com/"
+street: South Block Avenue
+housenumber: "21"
+phone: +1 479 521 5776
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.experiencefayetteville.com/

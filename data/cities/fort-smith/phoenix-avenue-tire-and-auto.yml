@@ -1,11 +1,11 @@
 id: 1149737753
-type: way
+type: node
 latitude: 35.33969
 longitude: -94.41635
 postcode: "72901"
 city: Fort Smith
-street: "Phoenix Avenue"
-housenumber: 1701
-phone: "+1 479-646-8051"
+street: Phoenix Avenue
+housenumber: "1701"
+phone: +1 479-646-8051
 opening_hours: ""
-website: "PhoenixAveTire.com"
+website: PhoenixAveTire.com

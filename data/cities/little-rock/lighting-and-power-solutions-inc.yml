@@ -1,11 +1,11 @@
 id: 380415182
-type: way
+type: node
 latitude: 34.75114
 longitude: -92.28064
 postcode: "72201"
 city: Little Rock
-street: "North Chester Street"
-housenumber: 217
+street: North Chester Street
+housenumber: "217"
 phone: "+15013742155"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.lpsolutions-inc.com/"
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.lpsolutions-inc.com/

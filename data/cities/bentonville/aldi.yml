@@ -1,11 +1,11 @@
 id: 934747545
-type: way
+type: node
 latitude: 36.3576
 longitude: -94.22445
 postcode: "72712"
 city: Bentonville
-street: "Southwest 14th Street"
-housenumber: 1006
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ar/bentonville/1006-sw-14th-street"
+street: Southwest 14th Street
+housenumber: "1006"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ar/bentonville/1006-sw-14th-street

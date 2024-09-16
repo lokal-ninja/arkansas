@@ -1,11 +1,11 @@
 id: 1301403556
-type: way
+type: node
 latitude: 36.17488
 longitude: -94.21883
 postcode: "72762"
 city: Springdale
-street: "North Maestri Road"
-housenumber: 177
-phone: "479-361-2000"
+street: North Maestri Road
+housenumber: "177"
+phone: 479-361-2000
 opening_hours: ""
-website: "https://sodpartners.com/"
+website: https://sodpartners.com/

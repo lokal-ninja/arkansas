@@ -1,11 +1,11 @@
 id: 812692490
-type: way
+type: node
 latitude: 35.14621
 longitude: -90.19
 postcode: "72301"
 city: West Memphis
-street: "West Broadway Boulevard"
-housenumber: 270
-phone: "+1-901-340-3242"
+street: West Broadway Boulevard
+housenumber: "270"
+phone: +1-901-340-3242
 opening_hours: ""
 website: ""

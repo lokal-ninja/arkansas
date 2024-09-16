@@ -1,11 +1,11 @@
 id: 513393624
-type: way
+type: node
 latitude: 36.07921
 longitude: -94.17495
 postcode: "72703"
 city: Fayetteville
-street: "North Garland Avenue"
-housenumber: 1240
-phone: "+1 479 575 0368"
+street: North Garland Avenue
+housenumber: "1240"
+phone: +1 479 575 0368
 opening_hours: ""
 website: ""

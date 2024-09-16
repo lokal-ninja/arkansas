@@ -1,11 +1,11 @@
 id: 932487386
-type: way
+type: node
 latitude: 35.28201
 longitude: -93.1352
 postcode: "72801"
 city: Russellville
-street: "North Arkansas Avenue"
-housenumber: 403
-phone: "+1-479-219-5057"
+street: North Arkansas Avenue
+housenumber: "403"
+phone: +1-479-219-5057
 opening_hours: ""
-website: "http://www.stroudshome.com/"
+website: http://www.stroudshome.com/

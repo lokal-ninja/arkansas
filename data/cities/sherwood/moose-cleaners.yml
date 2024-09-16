@@ -1,11 +1,11 @@
 id: 914277456
-type: way
+type: node
 latitude: 34.83168
 longitude: -92.18863
 postcode: "72120"
 city: Sherwood
-street: "East Kiehl Avenue"
-housenumber: 3960
-phone: "+1-501-834-8341"
+street: East Kiehl Avenue
+housenumber: "3960"
+phone: +1-501-834-8341
 opening_hours: ""
 website: ""

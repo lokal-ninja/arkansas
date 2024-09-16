@@ -1,11 +1,11 @@
 id: 1078535229
-type: way
+type: node
 latitude: 35.32796
 longitude: -94.42245
 postcode: "72908"
 city: Fort Smith
-street: "US 271"
-housenumber: 5900
+street: US 271
+housenumber: "5900"
 phone: "+14796464531"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-12:00
 website: ""

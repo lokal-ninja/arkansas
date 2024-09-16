@@ -1,11 +1,11 @@
 id: 1069100465
-type: way
+type: node
 latitude: 35.246
 longitude: -91.75071
 postcode: "72143"
 city: Searcy
-street: "West Beebe Capps Expressway"
-housenumber: 1330
-phone: "+1 501-203-2010"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2431/searcy-ar/whats-new"
+street: West Beebe Capps Expressway
+housenumber: "1330"
+phone: +1 501-203-2010
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2431/searcy-ar/whats-new

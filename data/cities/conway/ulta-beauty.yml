@@ -1,11 +1,11 @@
 id: 585534268
-type: way
+type: node
 latitude: 35.06293
 longitude: -92.413
 postcode: "72032"
 city: Conway
-street: "South Amity Road"
-housenumber: 1278
-phone: "+1 501-504-2533"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/conway-ar-665"
+street: South Amity Road
+housenumber: "1278"
+phone: +1 501-504-2533
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/conway-ar-665

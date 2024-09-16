@@ -1,11 +1,11 @@
 id: 1035388172
-type: way
+type: node
 latitude: 35.29177
 longitude: -93.72534
 postcode: "72855"
 city: Paris
-street: "East Walnut Street"
-housenumber: 500
+street: East Walnut Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

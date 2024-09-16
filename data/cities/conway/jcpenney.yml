@@ -1,11 +1,11 @@
 id: 672557223
-type: way
+type: node
 latitude: 35.10944
 longitude: -92.42828
 postcode: "72032"
 city: Conway
-street: "Skyline Dr #7"
-housenumber: 201
+street: 'Skyline Dr #7'
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 09:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 09:00-21:00; Su 12:00-18:00
 website: ""

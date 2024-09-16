@@ -1,11 +1,11 @@
 id: 791508058
-type: way
+type: node
 latitude: 36.28157
 longitude: -94.14903
 postcode: "72758"
 city: Rogers
-street: "Pleasant Crossing Boulevard"
-housenumber: 4325
-phone: "+1 479-246-0165"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/ar/rogers/961"
+street: Pleasant Crossing Boulevard
+housenumber: "4325"
+phone: +1 479-246-0165
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/ar/rogers/961

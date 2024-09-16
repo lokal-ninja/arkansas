@@ -1,11 +1,11 @@
 id: 553380007
-type: way
+type: node
 latitude: 34.62392
 longitude: -92.49868
 postcode: "72022"
 city: Bryant
-street: "North Reynolds Road"
-housenumber: 3200
-phone: "+1-501-481-6081"
-opening_hours: "Mo-Sa 09:00-18:00"
+street: North Reynolds Road
+housenumber: "3200"
+phone: +1-501-481-6081
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

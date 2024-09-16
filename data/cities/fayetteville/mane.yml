@@ -1,11 +1,11 @@
 id: 474255496
-type: way
+type: node
 latitude: 36.09387
 longitude: -94.15894
 postcode: "72703"
 city: Fayetteville
-street: "West Colt Square Drive"
-housenumber: 89
-phone: "+1 479 301 2199"
-opening_hours: "Mo-Th 09:00-18:30; Fr,Sa 09:00-17:00"
-website: "https://www.facebook.com/Mane-Salon-Fayetteville-Arkansas-1700938493519530/"
+street: West Colt Square Drive
+housenumber: "89"
+phone: +1 479 301 2199
+opening_hours: Mo-Th 09:00-18:30; Fr,Sa 09:00-17:00
+website: https://www.facebook.com/Mane-Salon-Fayetteville-Arkansas-1700938493519530/

@@ -1,11 +1,11 @@
 id: 1201244791
-type: way
+type: node
 latitude: 34.17318
 longitude: -92.00367
 postcode: "71603"
 city: Pine Bluff
-street: "South Olive Street"
-housenumber: 5501
-phone: "+1 870-534-7054"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3331/pine-bluff-ar/whats-new"
+street: South Olive Street
+housenumber: "5501"
+phone: +1 870-534-7054
+opening_hours: 24/7
+website: https://www.walmart.com/store/3331/pine-bluff-ar/whats-new

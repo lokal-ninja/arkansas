@@ -1,11 +1,11 @@
 id: 702435787
-type: way
+type: node
 latitude: 35.11037
 longitude: -92.43664
 postcode: "72032"
 city: Conway
-street: "Sanders Street"
-housenumber: 2425
+street: Sanders Street
+housenumber: "2425"
 phone: ""
 opening_hours: ""
 website: ""

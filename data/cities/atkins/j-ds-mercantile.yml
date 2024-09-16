@@ -1,11 +1,11 @@
 id: 1244645701
-type: way
+type: node
 latitude: 35.25546
 longitude: -92.93899
 postcode: "72823"
 city: Atkins
-street: "Northwest 12th Street"
-housenumber: 102
-phone: "+1-479-641-8819"
+street: Northwest 12th Street
+housenumber: "102"
+phone: +1-479-641-8819
 opening_hours: ""
-website: "https://jdsmercantile.com"
+website: https://jdsmercantile.com

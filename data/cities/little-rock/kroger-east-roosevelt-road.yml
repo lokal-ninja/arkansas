@@ -1,11 +1,11 @@
 id: 1016227577
-type: way
+type: node
 latitude: 34.72526
 longitude: -92.26125
 postcode: "72206"
 city: Little Rock
-street: "East Roosevelt Road"
-housenumber: 1100
-phone: "+1 501-375-0585"
-opening_hours: "06:00-21:00"
-website: "https://www.kroger.com/stores/grocery/ar/little-rock/e-roosevelt/025/00550"
+street: East Roosevelt Road
+housenumber: "1100"
+phone: +1 501-375-0585
+opening_hours: 06:00-21:00
+website: https://www.kroger.com/stores/grocery/ar/little-rock/e-roosevelt/025/00550

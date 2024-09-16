@@ -1,11 +1,11 @@
 id: 381869240
-type: way
+type: node
 latitude: 34.77056
 longitude: -92.33561
 postcode: "72207"
 city: Little Rock
-street: "Kavanaugh Boulevard"
-housenumber: 5514
+street: Kavanaugh Boulevard
+housenumber: "5514"
 phone: "+15016644832"
-opening_hours: "Mo-We 09:30-18:00; Th 09:30-19:30; Fr-Sa 09:30-18:00"
-website: "https://ozarkoutdoor.com/"
+opening_hours: Mo-We 09:30-18:00; Th 09:30-19:30; Fr-Sa 09:30-18:00
+website: https://ozarkoutdoor.com/

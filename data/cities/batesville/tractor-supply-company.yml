@@ -1,11 +1,11 @@
 id: 608143885
-type: way
+type: node
 latitude: 35.7687
 longitude: -91.61187
 postcode: "72501"
 city: Batesville
-street: "Harrison Street"
-housenumber: 3239
-phone: "+1 870-698-0422"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Harrison Street
+housenumber: "3239"
+phone: +1 870-698-0422
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

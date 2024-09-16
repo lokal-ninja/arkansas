@@ -1,11 +1,11 @@
 id: 1002543804
-type: way
+type: node
 latitude: 34.58315
 longitude: -93.90263
 postcode: "71961"
 city: Pine Ridge
-street: "AR-88 W"
-housenumber: 4562
+street: AR-88 W
+housenumber: "4562"
 phone: ""
 opening_hours: ""
 website: ""

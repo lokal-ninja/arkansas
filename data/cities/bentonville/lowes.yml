@@ -1,11 +1,11 @@
 id: 219477233
-type: way
+type: node
 latitude: 36.4184
 longitude: -94.22518
 postcode: "72712"
 city: Bentonville
-street: "Northwest Lowes Avenue"
-housenumber: 1100
-phone: "+1 479-657-7500"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ar-bentonville/2230"
+street: Northwest Lowes Avenue
+housenumber: "1100"
+phone: +1 479-657-7500
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ar-bentonville/2230

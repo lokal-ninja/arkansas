@@ -1,11 +1,11 @@
 id: 299670456
-type: way
+type: node
 latitude: 35.5034
 longitude: -93.84362
 postcode: "72949"
 city: Ozark
-street: "North 18th Street"
-housenumber: 1516
-phone: "+1 479-667-2143"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.walmart.com/store/209/ozark-ar/whats-new"
+street: North 18th Street
+housenumber: "1516"
+phone: +1 479-667-2143
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.walmart.com/store/209/ozark-ar/whats-new

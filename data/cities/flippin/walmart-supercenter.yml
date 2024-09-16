@@ -1,11 +1,11 @@
 id: 908562023
-type: way
+type: node
 latitude: 36.27579
 longitude: -92.60476
 postcode: "72634"
 city: Flippin
-street: "Walmart Drive"
-housenumber: 168
-phone: "+1-870-453-2211"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1147/flippin-ar/whats-new"
+street: Walmart Drive
+housenumber: "168"
+phone: +1-870-453-2211
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1147/flippin-ar/whats-new

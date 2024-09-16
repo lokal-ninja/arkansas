@@ -1,11 +1,11 @@
 id: 112753550
-type: way
+type: node
 latitude: 36.1252
 longitude: -94.15108
 postcode: "72703"
 city: Fayetteville
-street: "East Joyce Boulevard"
-housenumber: 406
-phone: "+1 479 521 1167"
-opening_hours: "Mo-Sa 09:30-21:30; Su 11:00-20:00"
-website: "https://tjmaxx.tjx.com/store/index.jsp"
+street: East Joyce Boulevard
+housenumber: "406"
+phone: +1 479 521 1167
+opening_hours: Mo-Sa 09:30-21:30; Su 11:00-20:00
+website: https://tjmaxx.tjx.com/store/index.jsp

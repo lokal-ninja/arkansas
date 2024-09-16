@@ -1,11 +1,11 @@
 id: 1229499653
-type: way
+type: node
 latitude: 35.50351
 longitude: -92.02915
 postcode: "72543"
 city: HEBER SPRINGS
-street: "Highway 25B"
-housenumber: 1141
+street: Highway 25B
+housenumber: "1141"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/ar/heber-springs/5372/"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/ar/heber-springs/5372/

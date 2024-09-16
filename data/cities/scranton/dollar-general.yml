@@ -1,11 +1,11 @@
 id: 1173766200
-type: way
+type: node
 latitude: 35.36226
 longitude: -93.53592
 postcode: "72863"
 city: Scranton
-street: "North 5th Street"
-housenumber: 202
+street: North 5th Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ar/scranton/17523"
+website: https://www.dollargeneral.com/store-directory/ar/scranton/17523

@@ -1,11 +1,11 @@
 id: 1203537451
-type: way
+type: node
 latitude: 35.09068
 longitude: -92.42919
 postcode: "72032"
 city: Conway
-street: "Oak Street"
-housenumber: 225
+street: Oak Street
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

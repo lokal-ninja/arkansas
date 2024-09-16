@@ -1,11 +1,11 @@
 id: 1013616295
-type: way
+type: node
 latitude: 35.59126
 longitude: -92.45557
 postcode: "72031"
 city: Clinton
-street: "Highway 65 South"
-housenumber: 210
-phone: "+1 501-745-8888"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Highway 65 South
+housenumber: "210"
+phone: +1 501-745-8888
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

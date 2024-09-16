@@ -1,11 +1,11 @@
 id: 1309077093
-type: way
+type: node
 latitude: 35.72046
 longitude: -92.82374
 postcode: "72679"
 city: Tilly
-street: "AR 27"
-housenumber: 36386
+street: AR 27
+housenumber: "36386"
 phone: ""
 opening_hours: ""
 website: ""

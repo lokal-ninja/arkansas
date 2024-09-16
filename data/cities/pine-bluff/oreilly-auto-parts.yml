@@ -1,11 +1,11 @@
 id: 893585400
-type: way
+type: node
 latitude: 34.20369
 longitude: -92.04752
 postcode: "71603"
 city: Pine Bluff
-street: "South Camden Road"
-housenumber: 2610
+street: South Camden Road
+housenumber: "2610"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ar/pinebluff/autoparts-1086.html"
+website: https://locations.oreillyauto.com/ar/pinebluff/autoparts-1086.html

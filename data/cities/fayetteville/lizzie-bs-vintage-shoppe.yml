@@ -1,11 +1,11 @@
 id: 467334316
-type: way
+type: node
 latitude: 36.06496
 longitude: -94.15762
 postcode: "72701"
 city: Fayetteville
-street: "North College Avenue"
-housenumber: 208
-phone: "+1 479 966 4022"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-17:00"
-website: "https://lizziebs.com/"
+street: North College Avenue
+housenumber: "208"
+phone: +1 479 966 4022
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-17:00
+website: https://lizziebs.com/

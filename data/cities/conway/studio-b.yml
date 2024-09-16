@@ -4,8 +4,8 @@ latitude: 35.0698
 longitude: -92.46416
 postcode: "72034"
 city: Conway
-street: "Dave Ward Drive"
-housenumber: 2501
-phone: "+1-501-205-1103"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+street: Dave Ward Drive
+housenumber: "2501"
+phone: +1-501-205-1103
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

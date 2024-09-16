@@ -1,11 +1,11 @@
 id: 918528761
-type: way
+type: node
 latitude: 34.79852
 longitude: -92.23661
 postcode: "72116"
 city: North Little Rock
-street: "North Hills Boulevard"
-housenumber: 4822
-phone: "+1 501-978-3154"
+street: North Hills Boulevard
+housenumber: "4822"
+phone: +1 501-978-3154
 opening_hours: ""
-website: "https://stores.partycity.com/us/ar/n-littlerock/party-store-pc269.html"
+website: https://stores.partycity.com/us/ar/n-littlerock/party-store-pc269.html

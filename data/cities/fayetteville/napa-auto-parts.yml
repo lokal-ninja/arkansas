@@ -1,11 +1,11 @@
 id: 467644882
-type: way
+type: node
 latitude: 36.05817
 longitude: -94.16288
 postcode: "72701"
 city: Fayetteville
-street: "South Locust Avenue"
-housenumber: 402
-phone: "+1 479 442 4273"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 08:00-13:00"
-website: "https://www.napaonline.com/en/ar/fayetteville/store/22363"
+street: South Locust Avenue
+housenumber: "402"
+phone: +1 479 442 4273
+opening_hours: Mo-Fr 07:00-17:30; Sa 08:00-13:00
+website: https://www.napaonline.com/en/ar/fayetteville/store/22363

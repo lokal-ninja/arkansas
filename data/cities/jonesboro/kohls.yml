@@ -1,11 +1,11 @@
 id: 547533343
-type: way
+type: node
 latitude: 35.81758
 longitude: -90.67462
 postcode: "72401"
 city: Jonesboro
-street: "Fair Park Boulevard"
-housenumber: 2117
-phone: "+1 870-932-5535"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ar/jonesboro-1029.shtml"
+street: Fair Park Boulevard
+housenumber: "2117"
+phone: +1 870-932-5535
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ar/jonesboro-1029.shtml

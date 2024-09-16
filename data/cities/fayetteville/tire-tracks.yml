@@ -1,11 +1,11 @@
 id: 476813093
-type: way
+type: node
 latitude: 36.05442
 longitude: -94.16414
 postcode: "72701"
 city: Fayetteville
-street: "South School Avenue"
-housenumber: 800
-phone: "+1 479 443 4000"
-opening_hours: "Tu-Sa 08:00-17:00; Su 09:00-13:00"
-website: "https://www.tiretracksnwa.com/locations/mode/24/800-s-school-avenue-fayetteville-ar-72701.aspx"
+street: South School Avenue
+housenumber: "800"
+phone: +1 479 443 4000
+opening_hours: Tu-Sa 08:00-17:00; Su 09:00-13:00
+website: https://www.tiretracksnwa.com/locations/mode/24/800-s-school-avenue-fayetteville-ar-72701.aspx

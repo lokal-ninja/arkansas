@@ -1,11 +1,11 @@
 id: 971383681
-type: way
+type: node
 latitude: 36.13235
 longitude: -94.14833
 postcode: "72704"
 city: Fayetteville
-street: "Main Drive"
-housenumber: 1551
-phone: "+1 479 385 3015"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.rent-storage-units.com/"
+street: Main Drive
+housenumber: "1551"
+phone: +1 479 385 3015
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.rent-storage-units.com/

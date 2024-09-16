@@ -1,11 +1,11 @@
 id: 278726243
-type: way
+type: node
 latitude: 34.75553
 longitude: -92.26013
 postcode: "72114"
 city: North Little Rock
-street: "East Broadway Street"
-housenumber: 700
+street: East Broadway Street
+housenumber: "700"
 phone: "+15014008940"
-opening_hours: "5:30-24:00"
-website: "https://www.circlek.com/"
+opening_hours: 5:30-24:00
+website: https://www.circlek.com/

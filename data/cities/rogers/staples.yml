@@ -1,11 +1,11 @@
 id: 827256948
-type: way
+type: node
 latitude: 36.33661
 longitude: -94.17684
 postcode: "72756"
 city: Rogers
-street: "West Walnut Street"
-housenumber: 4013
+street: West Walnut Street
+housenumber: "4013"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ar/rogers/4021-west-walnut-street"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://stores.staples.com/ar/rogers/4021-west-walnut-street

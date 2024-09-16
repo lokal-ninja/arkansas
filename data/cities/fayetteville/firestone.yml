@@ -1,11 +1,11 @@
 id: 480766001
-type: way
+type: node
 latitude: 36.08783
 longitude: -94.12042
 postcode: "72703"
 city: Fayetteville
-street: "East Mission Boulevard"
-housenumber: 2876
-phone: "+1 479 316 0509"
-opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-17:00"
-website: "https://local.firestonecompleteautocare.com/arkansas/fayetteville/2876-e-mission-blvd/"
+street: East Mission Boulevard
+housenumber: "2876"
+phone: +1 479 316 0509
+opening_hours: Mo-Sa 07:00-19:00; Su 09:00-17:00
+website: https://local.firestonecompleteautocare.com/arkansas/fayetteville/2876-e-mission-blvd/

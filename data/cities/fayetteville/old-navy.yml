@@ -1,11 +1,11 @@
 id: 113108383
-type: way
+type: node
 latitude: 36.12128
 longitude: -94.14941
 postcode: "72703"
 city: Fayetteville
-street: "North Mall Avenue"
-housenumber: 3810
-phone: "+1 479 527 6300"
-opening_hours: "Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 11:00-19:00"
-website: "https://www.oldnavy.com/products/fayetteville-ar-store-6169.jsp"
+street: North Mall Avenue
+housenumber: "3810"
+phone: +1 479 527 6300
+opening_hours: Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 11:00-19:00
+website: https://www.oldnavy.com/products/fayetteville-ar-store-6169.jsp

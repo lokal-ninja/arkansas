@@ -1,11 +1,11 @@
 id: 558673888
-type: way
+type: node
 latitude: 35.34107
 longitude: -94.38596
 postcode: "72903"
 city: Fort Smith
-street: "Phoenix Avenue"
-housenumber: 4155
-phone: "+1 479-648-8085"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ar/fort-smith/9171"
+street: Phoenix Avenue
+housenumber: "4155"
+phone: +1 479-648-8085
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ar/fort-smith/9171

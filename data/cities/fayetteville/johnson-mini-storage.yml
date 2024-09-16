@@ -1,11 +1,11 @@
 id: 980775931
-type: way
+type: node
 latitude: 36.13038
 longitude: -94.16351
 postcode: "72704"
 city: Fayetteville
-street: "Wilkerson Road"
-housenumber: 6004
-phone: "+1 479 444 9622"
+street: Wilkerson Road
+housenumber: "6004"
+phone: +1 479 444 9622
 opening_hours: ""
 website: ""

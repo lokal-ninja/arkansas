@@ -1,11 +1,11 @@
 id: 1148709921
-type: way
+type: node
 latitude: 34.74113
 longitude: -92.34245
 postcode: "72204"
 city: Little Rock
-street: "West 12th Street"
-housenumber: 6011
-phone: "+1-501-666-2451"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://store.vioc.com/ar/littlerock/oil-change-ie0007.html"
+street: West 12th Street
+housenumber: "6011"
+phone: +1-501-666-2451
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
+website: https://store.vioc.com/ar/littlerock/oil-change-ie0007.html

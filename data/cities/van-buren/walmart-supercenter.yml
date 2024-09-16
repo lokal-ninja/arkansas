@@ -1,11 +1,11 @@
 id: 293183847
-type: way
+type: node
 latitude: 35.46841
 longitude: -94.35315
 postcode: "72956"
 city: Van Buren
-street: "Fayetteville Road"
-housenumber: 2214
-phone: "+1 479-474-2314"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/16/van-buren-ar/whats-new"
+street: Fayetteville Road
+housenumber: "2214"
+phone: +1 479-474-2314
+opening_hours: 24/7
+website: https://www.walmart.com/store/16/van-buren-ar/whats-new

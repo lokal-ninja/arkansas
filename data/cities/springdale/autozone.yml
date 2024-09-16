@@ -1,11 +1,11 @@
 id: 775583604
-type: way
+type: node
 latitude: 36.17649
 longitude: -94.13938
 postcode: "72764"
 city: Springdale
-street: "South Thompson Street"
-housenumber: 906
-phone: "+1 479 751 7400"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-21:00"
-website: "https://www.autozone.com/locations/ar/springdale/906-s-thompson.html"
+street: South Thompson Street
+housenumber: "906"
+phone: +1 479 751 7400
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-21:00
+website: https://www.autozone.com/locations/ar/springdale/906-s-thompson.html

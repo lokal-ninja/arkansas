@@ -1,11 +1,11 @@
 id: 1253495939
-type: way
+type: node
 latitude: 34.71848
 longitude: -92.35219
 postcode: "72204"
 city: Little Rock
-street: "Colonel Glenn Road"
-housenumber: 6920
-phone: "+1-501-565-6410"
+street: Colonel Glenn Road
+housenumber: "6920"
+phone: +1-501-565-6410
 opening_hours: ""
 website: ""

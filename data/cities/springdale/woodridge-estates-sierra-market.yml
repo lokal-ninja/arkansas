@@ -1,11 +1,11 @@
 id: 744505913
-type: way
+type: node
 latitude: 36.1652
 longitude: -94.12561
 postcode: "72764"
 city: Springdale
-street: "Powell Street"
-housenumber: 2103
+street: Powell Street
+housenumber: "2103"
 phone: ""
 opening_hours: ""
 website: ""

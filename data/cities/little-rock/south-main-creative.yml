@@ -1,11 +1,11 @@
 id: 597790336
-type: way
+type: node
 latitude: 34.73337
 longitude: -92.27379
 postcode: "72206"
 city: Little Rock
-street: "Main Street"
-housenumber: 1600
+street: Main Street
+housenumber: "1600"
 phone: ""
 opening_hours: ""
-website: "https://southmaincreative.com/"
+website: https://southmaincreative.com/

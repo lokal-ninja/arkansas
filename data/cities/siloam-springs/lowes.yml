@@ -1,11 +1,11 @@
 id: 280176639
-type: way
+type: node
 latitude: 36.18364
 longitude: -94.50926
 postcode: "72761"
 city: Siloam Springs
-street: "Highway 412 East"
-housenumber: 3499
-phone: "+1 479-549-9923"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-19:00"
-website: "https://www.lowes.com/store/ar-siloam-springs/2491"
+street: Highway 412 East
+housenumber: "3499"
+phone: +1 479-549-9923
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-19:00
+website: https://www.lowes.com/store/ar-siloam-springs/2491

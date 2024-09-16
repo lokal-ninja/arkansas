@@ -1,11 +1,11 @@
 id: 979838704
-type: way
+type: node
 latitude: 36.13376
 longitude: -94.16696
 postcode: "72704"
 city: Fayetteville
-street: "Main Drive"
-housenumber: 3133
-phone: "+1 800 835 0123"
+street: Main Drive
+housenumber: "3133"
+phone: +1 800 835 0123
 opening_hours: ""
-website: "https://www.gardeniq.com/site/"
+website: https://www.gardeniq.com/site/

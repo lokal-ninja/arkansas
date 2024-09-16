@@ -1,11 +1,11 @@
 id: 802285898
-type: way
+type: node
 latitude: 35.05349
 longitude: -93.3863
 postcode: "72833"
 city: Danville
-street: "East 8th Street"
-housenumber: 804
-phone: "+1-479-495-2612"
-opening_hours: "Mo-Fr 00:00-24:00; Sa 00:00-22:00; Su 05:00-21L00"
+street: East 8th Street
+housenumber: "804"
+phone: +1-479-495-2612
+opening_hours: Mo-Fr 00:00-24:00; Sa 00:00-22:00; Su 05:00-21L00
 website: ""
