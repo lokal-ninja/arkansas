@@ -1,6 +1,6 @@
 ---
 title: Magnolia
 url: /magnolia/
-latitude: 33.277
-longitude: -93.212
+latitude: 33.276
+longitude: -93.213
 ---

@@ -1,6 +1,6 @@
 ---
-title: Heber Springs
+title: HEBER SPRINGS
 url: /heber-springs/
-latitude: 35.492
-longitude: -92.035
+latitude: 35.504
+longitude: -92.029
 ---
