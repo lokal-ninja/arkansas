@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /fort-smith/dollar-general-2/
+url: /fort-smith/dollar-general-towson-avenue-2/
 shop: variety store
 ---
