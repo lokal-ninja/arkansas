@@ -1,6 +1,6 @@
 ---
 title: Pea Ridge
 url: /pea-ridge/
-latitude: 36.443
+latitude: 36.444
 longitude: -94.116
 ---
