@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /little-rock/walmart-supercenter-baseline-road/
+url: /rogers/walmart-supercenter-west-walnut-street/
 shop: supermarket
 ---
