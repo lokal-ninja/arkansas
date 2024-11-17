@@ -1,6 +1,6 @@
 ---
 title: Gassville
 url: /gassville/
-latitude: 36.284
-longitude: -92.497
+latitude: 36.283
+longitude: -92.496
 ---
