@@ -1,5 +1,5 @@
 ---
 title: "SolderX"
-url: /rogers/solderx/
+url: /bella-vista/solderx/
 shop: musical instrument
 ---
