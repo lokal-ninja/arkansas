@@ -1,5 +1,5 @@
 ---
 title: "Harps"
-url: /springdale/harps-jones-road/
+url: /waldron/harps-west-6th-street/
 shop: supermarket
 ---
