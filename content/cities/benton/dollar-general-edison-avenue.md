@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /jacksonville/dollar-general-2/
+url: /benton/dollar-general-edison-avenue/
 shop: variety store
 ---
