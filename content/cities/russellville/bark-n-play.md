@@ -1,5 +1,5 @@
 ---
 title: "Bark-N-Play"
 url: /russellville/bark-n-play/
-shop: shop
+shop: pet grooming
 ---
