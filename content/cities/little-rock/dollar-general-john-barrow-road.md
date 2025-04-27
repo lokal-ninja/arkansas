@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /jacksonville/dollar-general-2/
+url: /little-rock/dollar-general-john-barrow-road/
 shop: variety store
 ---

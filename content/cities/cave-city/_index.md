@@ -1,6 +1,6 @@
 ---
 title: Cave City
 url: /cave-city/
-latitude: 35.942
-longitude: -91.55
+latitude: 35.945
+longitude: -91.549
 ---
