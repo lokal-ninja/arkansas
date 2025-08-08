@@ -1,6 +1,6 @@
 ---
 title: Hardy
 url: /hardy/
-latitude: 36.338
-longitude: -91.49
+latitude: 36.339
+longitude: -91.488
 ---
