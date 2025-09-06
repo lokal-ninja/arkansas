@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /jacksonville/dollar-general-ar-294/
+url: /jacksonville/dollar-general-military-road/
 shop: variety store
 ---
