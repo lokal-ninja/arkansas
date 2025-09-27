@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /hot-springs/walmart-supercenter-central-avenue/
+url: /rogers/walmart-supercenter-west-walnut-street/
 shop: supermarket
 ---
