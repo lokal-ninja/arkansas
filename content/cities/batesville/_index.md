@@ -1,6 +1,6 @@
 ---
 title: Batesville
 url: /batesville/
-latitude: 35.763
-longitude: -91.615
+latitude: 35.767
+longitude: -91.623
 ---
