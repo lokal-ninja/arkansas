@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /benton/circle-k-hwy-67/
+url: /benton/circle-k-northlake-road/
 shop: convenience
 ---

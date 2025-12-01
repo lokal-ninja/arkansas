@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /little-rock/dollar-general-west-65th-street/
+url: /jacksonville/dollar-general-batesville-pike/
 shop: variety store
 ---
