@@ -1,6 +1,6 @@
 ---
 title: Blytheville
 url: /blytheville/
-latitude: 35.932
-longitude: -89.873
+latitude: 35.928
+longitude: -89.905
 ---
