@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /rogers/dollar-general-west-olrich-street/
+url: /jacksonville/dollar-general-highway-107/
 shop: variety store
 ---
