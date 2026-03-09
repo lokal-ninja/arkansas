@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /conway/atandt-harkrider-street/
+url: /conway/atandt-south-amity-road/
 shop: mobile phone
 ---
