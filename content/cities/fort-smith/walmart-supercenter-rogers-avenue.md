@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /conway/walmart-supercenter-dave-ward-drive/
+url: /fort-smith/walmart-supercenter-rogers-avenue/
 shop: supermarket
 ---
