@@ -1,6 +1,6 @@
 ---
 title: Mulberry
 url: /mulberry/
-latitude: 35.513
-longitude: -94.115
+latitude: 35.498
+longitude: -94.052
 ---
