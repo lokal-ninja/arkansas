@@ -1,6 +1,6 @@
 ---
 title: Parkin
 url: /parkin/
-latitude: 35.273
-longitude: -90.555
+latitude: 35.271
+longitude: -90.557
 ---
