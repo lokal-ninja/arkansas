@@ -1,6 +1,6 @@
 ---
 title: Leachville
 url: /leachville/
-latitude: 35.937
-longitude: -90.258
+latitude: 35.938
+longitude: -90.257
 ---
