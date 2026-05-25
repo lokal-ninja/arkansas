@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
-url: /conway/maverik-oak-street/
+url: /conway/maverik-dave-ward-drive/
 shop: convenience
 ---

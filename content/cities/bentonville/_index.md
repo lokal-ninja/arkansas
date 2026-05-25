@@ -1,6 +1,6 @@
 ---
 title: Bentonville
 url: /bentonville/
-latitude: 36.362
-longitude: -94.21
+latitude: 36.372
+longitude: -94.221
 ---
