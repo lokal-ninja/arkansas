@@ -1,6 +1,6 @@
 ---
 title: Sheridan
 url: /sheridan/
-latitude: 34.292
+latitude: 34.29
 longitude: -92.398
 ---
