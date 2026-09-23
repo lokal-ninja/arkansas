@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /sherwood/dollar-general-highway-107/
+url: /little-rock/dollar-general-west-65th-street/
 shop: variety store
 ---
